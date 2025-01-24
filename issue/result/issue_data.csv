@@ -1,0 +1,1297 @@
+id,number,title,state,created_at,closed_at,labels
+2806024302,5168,[Bug] Clowning Around Blacephalon can Roll the Same Type Twice,open,2025-01-23T06:18:25Z,,"['Mystery Encounter', 'P2 Bug']"
+2803134739,5164,[Bug] Trainers with Set Teams that include Slot Sub-Groups Cannot Spawn Unchosen Pokemon,open,2025-01-22T01:09:15Z,,['P2 Bug']
+2800925818,5163,[Bug] Login Screen Buttons can be Pressed While Animating,open,2025-01-21T07:33:46Z,,['P3 Bug']
+2799459270,5160,[Feature] Make egg inventory visible from any screen,open,2025-01-20T14:47:03Z,,"['Enhancement', 'Triage']"
+2797913371,5159,"[Bug] Harsh Sun, Heavy Rain, and Delta Stream Messages Incorrect, Fail Message does not Exist.",open,2025-01-20T00:19:17Z,,"['Ability', 'P3 Bug']"
+2797882883,5158,"[Bug] Legendary Weather (Desolate Land, Primordial Sea, Delta Stream) persist past Biome Transition, Trainer Transition, ME Transition",open,2025-01-19T23:16:46Z,,"['Mystery Encounter', 'P2 Bug']"
+2797820310,5157,[Feature] wipe account data in manage data to start from scratch without making a new account,open,2025-01-19T20:40:27Z,,"['Enhancement', 'Triage']"
+2797450500,5152,[Bug] Teleporting Hijinks does not Update Biome Text Immediately,open,2025-01-19T06:01:57Z,,"['Mystery Encounter', 'P3 Bug']"
+2797426628,5151,[Bug] Training Session and The Expert Pokemon Breeder Allow the Player to have 7 Pokemon,open,2025-01-19T05:24:39Z,,"['Mystery Encounter', 'P2 Bug']"
+2797414205,5150,"[Bug] Training Session Move Flyout Goes Negative when Move has been Affected by PP Up, PP Max",open,2025-01-19T04:40:21Z,,"['Mystery Encounter', 'P3 Bug']"
+2797402671,5149,[Bug] Fun and Games plays Move Animations even if Off,open,2025-01-19T03:57:45Z,,"['Mystery Encounter', 'P3 Bug']"
+2797401138,5148,[Bug],closed,2025-01-19T03:50:57Z,2025-01-19T03:51:17Z,[]
+2796966770,5143,[Bug] infinite scorching hot,closed,2025-01-18T12:58:33Z,2025-01-19T01:59:30Z,[]
+2796586289,5140,[Bug]  encounter.startOfBattleEffects.push Dancing Lessons and Uncommon Breed Conflate 0th Move with 1st move for Move History,open,2025-01-18T02:15:14Z,,"['Mystery Encounter', 'P2 Bug']"
+2795522320,5138,[Feature] Condense stat change messages when multiple boss bars are broken,open,2025-01-17T13:46:44Z,,"['Enhancement', 'Triage']"
+2789054148,5127,[Bug] Post-turn Healing and Damage does not Occur in the Proper Order,open,2025-01-15T07:40:07Z,,"['Move', 'Item', 'Refactor', 'P2 Bug']"
+2788982113,5126,"[Bug] Salt Cure and Curse Share an Animation, Animation Always Appears on Opponent's Side",open,2025-01-15T06:52:45Z,,"['Move', 'Sprite/Animation', 'P3 Bug']"
+2788508696,5123,[Bug] Releasing your Last Eligible Pokemon and Replacing it with an Ineligible Pokemon Softlocks the Game,open,2025-01-14T23:58:15Z,,['P1 Bug']
+2784883698,5122,"[Bug] Certain Partial Trapping Moves (Whirlpool, Sand Tomb) Crash when the User and Opponent Faints at the Same Time",open,2025-01-13T18:18:32Z,,"['Move', 'P1 Bug']"
+2783414430,5118,[Bug] Meltan is not filtered,closed,2025-01-13T09:18:05Z,2025-01-13T15:11:17Z,[]
+2782729155,5116,[Bug] Pay Day should not award the Player Money if the Battle Ended by Flee or Capture.,open,2025-01-12T22:29:21Z,,"['Move', 'P2 Bug']"
+2782293503,5115,[Bug] Endure and Endure Tokens Block most Secondary move and Ability Damage,open,2025-01-12T05:18:43Z,,"['Move', 'P2 Bug']"
+2782290743,5114,[Bug] Reviver Seed activates on Secondary Move and Ability Damage,open,2025-01-12T05:08:04Z,,"['Item', 'P2 Bug']"
+2782274909,5113,[Bug] Splash does not Display a Message when Used,open,2025-01-12T04:06:41Z,,"['Move', 'P3 Bug']"
+2781520267,5112,"[Bug] Gorilla Tactics does not Register Protect, No Effect as Move Usage",open,2025-01-11T02:01:57Z,,"['Ability', 'P2 Bug']"
+2781469192,5111,[Bug] Encore half-Fails when used Against a Move that was Protected Against,open,2025-01-11T00:36:32Z,,"['Move', 'P2 Bug']"
+2779443939,5108,[Bug] Tera Shell Sometimes Ignores Type Immunities when Two-Turn Moves are Present in Opponent's Moveset,open,2025-01-10T07:03:05Z,,"['Ability', 'P2 Bug']"
+2777374345,5106,[Bug] Can't change motisma 1st move in starter menu,closed,2025-01-09T10:03:03Z,2025-01-09T10:04:13Z,['Triage']
+2776895851,5105,[Bug] Disable Selects First Move used by Target,open,2025-01-09T05:53:47Z,,"['Move', 'P2 Bug']"
+2775876481,5102,[Bug] Catching charm does not have a guaranteed max weight in Daily Mode,closed,2025-01-08T16:56:55Z,2025-01-08T19:27:25Z,"['Item', 'P2 Bug']"
+2774335800,5101,[Bug] Eviolite Deletes Itself when Transferred. Eviolite Behaves Strangely when Transferred to Another Pokemon with an Eviolite,open,2025-01-08T05:29:42Z,,"['Item', 'P2 Bug']"
+2774157456,5100,[Bug] Harvest Deletes Every Berry Consumed in Memory after That Berry is Harvested,open,2025-01-08T03:14:29Z,,"['Ability', 'Item', 'P2 Bug']"
+2773583493,5098,[Bug] Parting shot still switches even if stats weren't lowered,closed,2025-01-07T19:30:27Z,2025-01-08T03:29:01Z,['Duplicate']
+2772837153,5096,[Feature] Too much water 7.8/10,open,2025-01-07T13:20:38Z,,"['Enhancement', 'Triage']"
+2772800760,5095,[Feature] Have candy mark in starter menu more smart,open,2025-01-07T13:03:45Z,,"['Enhancement', 'Triage']"
+2772780613,5094,[Bug] Meowstic backsprite too hight,open,2025-01-07T12:54:46Z,,['Triage']
+2772011501,5093,[Bug] Harvested Berries Disappear After Reloading a Run,open,2025-01-07T06:33:32Z,,"['Ability', 'Item', 'P2 Bug']"
+2771972289,5092,[Bug] Harvest Berries can Stack same-type Berries with Pokemon in the Party,open,2025-01-07T06:03:03Z,,"['Ability', 'Item', 'P2 Bug']"
+2769569117,5090,[Bug] Recoil Moves don't Deal Recoil After Hitting a Substitute,open,2025-01-06T01:22:18Z,,"['Move', 'P2 Bug']"
+2769487704,5088,[Bug] Torment does not Track Failed Moves,open,2025-01-05T22:50:59Z,,"['Move', 'P2 Bug']"
+2769168172,5086,[Bug] Defog does not Clear Opposing Safeguard and Mist,closed,2025-01-05T08:22:31Z,2025-01-11T00:29:26Z,"['Move', 'P2 Bug']"
+2769072794,5085,[Bug] Moves that apply Non-Volatile Status do not play a No Effect Message when Used Against an Immune Type.,open,2025-01-05T01:45:15Z,,"['Move', 'P3 Bug']"
+2769052869,5084,[Bug] Moves that Inflict Non-Volatile Status Missing Fail Messages,open,2025-01-05T00:23:46Z,,"['Move', 'P3 Bug']"
+2768967667,5082,[Bug] Nicknames not Properly Sanitized,open,2025-01-04T19:07:21Z,,"['UI/UX', 'P3 Bug']"
+2768938793,5081,[Bug] Priority Moves used in Psychic Terrain Display Incorrect Battle Text,open,2025-01-04T17:38:46Z,,"['Move', 'P3 Bug']"
+2768811434,5079,[Bug] Chest form Gimmighoul can't be hatched in Classic,closed,2025-01-04T12:13:12Z,2025-01-07T00:24:10Z,"['Miscellaneous', 'P2 Bug']"
+2767606202,5074,[Bug] IV Scanner on eternatus + C touchepad,open,2025-01-03T13:47:28Z,,['Triage']
+2767124299,5073,[Bug] Using Covet or Thief on a Harvested Berry Crashes the game,open,2025-01-03T07:43:28Z,,"['Move', 'Ability', 'Item', 'P1 Bug']"
+2767051601,5072,[Bug] Account Log-in Page is Misleading,open,2025-01-03T06:32:05Z,,"['UI/UX', 'P3 Bug']"
+2766922646,5069,"[Bug] Clear Body, White Smoke, and Mist Message Activate Twice when hit by a Move that Lowers Multiple Stats at Once ",open,2025-01-03T03:30:17Z,,"['Move', 'P3 Bug']"
+2765336937,5067,[Bug] Twins Trainer Class Generates Pokémon with Identical IDs,open,2025-01-02T00:52:33Z,,['P2 Bug']
+2765294327,5066,"[Bug] DefDefattr (Psyshock, Psystrike, Secret Sword) does not Consider Fur Coat in Damage Calculation",open,2025-01-01T22:47:42Z,,"['Move', 'Ability', 'P2 Bug']"
+2765278694,5065,"[Bug] U Turn, Volt Switch, and Flip Turn do not Activate Shell Bell before Switching",open,2025-01-01T22:00:50Z,,"['Move', 'Item', 'P2 Bug']"
+2764945971,5064,[Bug] Heavy Metal and Light Metal Flyouts appear during Ai Move Selection,open,2025-01-01T09:07:41Z,,"['Ability', 'P3 Bug']"
+2764727518,5063,[Bug] Imposter Flyout Shows Gained Ability Instead of Imposter,open,2024-12-31T23:40:21Z,,"['Ability', 'P3 Bug']"
+2764670030,5062,"[Bug] Transformed Fusion Primaries Crash When their Cry is Played; Summary Screen, Sound Move, Evo., Move Learn",open,2024-12-31T20:55:42Z,,"['Move', 'Ability', 'P1 Bug']"
+2763798924,5056,"[Bug] Items/Modifiers Persist after a Wild Pokemon has Fled or been Force-Fled by Roar, Dragon Tail, Whirlwind, etc",open,2024-12-30T23:28:27Z,,"['Move', 'Item', 'P2 Bug']"
+2762406117,5054,[Bug] Incorrect Transformation Items on Pokemon,closed,2024-12-29T21:08:38Z,2024-12-30T01:23:44Z,[]
+2762103779,5052,"[Bug] Dancer should not add its moves to move history for the purposes of move calling moves (Instruct, Mirror Move, etc.)",open,2024-12-29T04:45:15Z,,"['Move', 'Ability', 'P2 Bug']"
+2761438124,5051,[Bug] Sticky Web uses the Incorrect Text when Used by an Opposing Pokemon,open,2024-12-28T04:20:15Z,,['P3 Bug']
+2761415983,5050,"[Bug] Electro Shot Checks Attract, Confusion, Truant on Both Parts Under Rain",open,2024-12-28T03:31:21Z,,"['Move', 'P2 Bug']"
+2761311418,5048,"[Bug] Court Change Sticky Web does not Prevent the Stat Increase from Defiant/Competitive - CHECK SV, STALE INTERACTION",open,2024-12-27T22:16:43Z,,"['Move', 'P2 Bug']"
+2761242063,5047,"[Bug] Court Change does not Swap Safeguard, Swamp, Rainbow, Sea of Fire",open,2024-12-27T20:18:02Z,,"['Move', 'P2 Bug']"
+2761231246,5046,"[Bug] Court Change can Miss due to Opponent Semi-Invulnerability, Reduced Accuracy / Court Change does not Fail if used with no Valid Arena Tag Present",open,2024-12-27T20:02:02Z,,['P2 Bug']
+2760384441,5043,[Bug] Encore Forces Struggle Indefinitely if Tag would Exist Past a Move's Final PP,open,2024-12-27T04:41:35Z,,"['Move', 'P2 Bug']"
+2759087257,5041,"[Bug] Giratina Altered Forme has a HA, Origin Forme does not. This resets the HA if reverting forms.",open,2024-12-25T20:46:56Z,,['P2 Bug']
+2757288671,5038,[Bug] Shedinja is Gendered after Nincada Evolves,closed,2024-12-24T06:50:03Z,2024-12-30T02:09:13Z,['P3 Bug']
+2756736463,5036,"[Bug] Huge Power/Pure Power does not Increase, Slow Start does not Decrease the Damage of Body Press",open,2024-12-23T21:27:49Z,,"['Move', 'Ability', 'P2 Bug']"
+2756472287,5035,[Bug] Enemy's Attract Persists Past that Pokemon being Forced Out,open,2024-12-23T17:32:27Z,,"['Move', 'P2 Bug']"
+2754885911,5034,"[Bug] Mega, GMax, Origin, and more forms are not stored in caught data",closed,2024-12-22T23:01:18Z,2025-01-15T09:12:51Z,['P3 Bug']
+2754710990,5033,[Bug] Healing Wish/Lunar Dance KOs the user even when it has no non-fainted teammates in the back,open,2024-12-22T15:29:05Z,,"['Move', 'P1 Bug']"
+2754498814,5032,[Bug] Spread Move KOs Against Wimp Out/Emergency Exit in Double Battles Skip Waves if Left Side Fainted,open,2024-12-22T05:36:46Z,,"['Ability', 'P2 Bug']"
+2754495693,5031,[Bug] Accepting Initial Switch from Wimp Out or Emergency Exit Does not Allow Use of First Turn Moves by New Pokemon,closed,2024-12-22T05:23:31Z,2024-12-29T13:00:26Z,['Duplicate']
+2754433454,5030,[Bug] Ditto Quick Powder,closed,2024-12-22T01:24:31Z,2025-01-12T19:29:06Z,[]
+2754290844,5029,[Bug] Memory Leak when Saving and Quitting,closed,2024-12-21T17:48:42Z,2025-01-15T09:06:11Z,['P0 Bug']
+2753817110,5027,[Bug] Smack Down and Thousand Arrows do not Have a Message for Grounding,open,2024-12-21T07:12:06Z,,"['Move', 'P3 Bug']"
+2753805053,5026,"[Localization] Party UI > ""able/notAble"" text should be diverged for some languages",open,2024-12-21T06:36:35Z,,"['Enhancement', 'Triage']"
+2753803159,5025,"[Bug] Flower Trick, Smack Down, and Sappy Seed Activate Sheer Force",open,2024-12-21T06:31:42Z,,"['Move', 'P2 Bug']"
+2753716064,5023,"[Bug] Critical Capture Sound is ""Demonic""",closed,2024-12-21T02:49:07Z,2025-01-16T06:21:21Z,"['P3 Bug', 'Audio']"
+2753478476,5018,[Bug] Shell Armor and Battle Armor Activate with Every Hit,open,2024-12-20T21:02:04Z,,"['Ability', 'P3 Bug']"
+2753457637,5017,[Bug] Direct Damage Moves Bypass Sturdy,open,2024-12-20T20:42:12Z,,"['Ability', 'P2 Bug']"
+2749241161,5012,"[Bug] Mean Look, Block, and Spider Web do not Bypass Protection",open,2024-12-19T04:43:28Z,,"['Move', 'P2 Bug']"
+2749201146,5011,[Bug] Helping Hand Cannot Target a Pokemon that is Semi-Invulnerable,open,2024-12-19T04:12:28Z,,"['Move', 'P2 Bug']"
+2749175039,5010,[Bug] Roar does not Display a Fail Message when No Other Pokémon is Available,open,2024-12-19T03:43:05Z,,"['Move', 'P3 Bug']"
+2746985013,5007,[Bug] Wild Pokemon that Use Parting Shot or Chilly Reception Flee the Battle,open,2024-12-18T07:12:22Z,,"['Move', 'P2 Bug']"
+2746629869,5006,"[Bug] Enemy Pokemon do not take Damage from Hazards, or Activate their PostSummon Abilities in Double Battles while Having One Eligible Pokemon",open,2024-12-18T03:06:30Z,,"['Move', 'Ability', 'P2 Bug']"
+2746499034,5005,[Bug] Stellar Terapagos and Mask-Tera'd Ogerpon Remain in Tera-Exclusive Forms when Other Tera Shard is Used,open,2024-12-18T01:24:14Z,,['P2 Bug']
+2746474736,5004,[Bug] Embody Aspect Crashes Whenever Ogerpon is Recalled While not Present on the Field and Unfainted,open,2024-12-18T01:08:02Z,,"['Ability', 'P1 Bug']"
+2743930656,5002,[Bug] Two-Turn Moves do not Redirect to Living Target if the Target is KO'd on First/Charge Turn,open,2024-12-17T04:55:27Z,,"['Move', 'P2 Bug']"
+2743610492,5000,[Bug] Moody Can't Lower Stats at +6 ,open,2024-12-16T23:35:35Z,,"['Ability', 'P2 Bug']"
+2743599393,4999,[Bug] Wild Yamper is a good Pupper and Returns Balls with Ball Fetch,open,2024-12-16T23:26:07Z,,"['Ability', 'P2 Bug']"
+2743013523,4997,"[Bug] Run Away doesn't Enable Fleeing from Battles while Trapped, Disable Switching with Arena Trap",open,2024-12-16T17:45:42Z,,"['Ability', 'P2 Bug']"
+2741733552,4995,[Bug] Trainer back sprite + pokémon back sprite in same time,closed,2024-12-16T08:48:37Z,2024-12-16T17:10:29Z,[]
+2741665352,4994,[Bug] Soft Lock if second to last Pokemon faints between phases when battle type is uncertain,open,2024-12-16T08:23:32Z,,['P1 Bug']
+2740985702,4993,[Bug] Dancer Increments the Pokemon's Frenzy Counter when Copying a Frenzy Move,open,2024-12-15T23:36:56Z,,"['Ability', 'P2 Bug']"
+2740267195,4991,[Bug] Lunar Blessing game freeze/crash,closed,2024-12-15T04:11:08Z,2024-12-15T21:02:41Z,[]
+2739960986,4990,[Bug] Can't unfuse,closed,2024-12-14T15:54:47Z,2024-12-21T07:55:23Z,['Duplicate']
+2734934959,4987,[Bug] getWeight does not consider Pokemon's Forms' Difference in Weight,open,2024-12-12T05:58:28Z,,"['Move', 'P2 Bug']"
+2730254496,4985,[Feature] Dockerisation of the app for easy try-for-yourself and self-hosting,open,2024-12-10T14:18:17Z,,['Enhancement']
+2729846293,4983,[Bug] Damage done by player after getting hit by sucker punch is miscalculated,closed,2024-12-10T11:27:20Z,2024-12-10T14:57:51Z,[]
+2729173027,4981,[Bug] Healer Attempts to Heal an Empty Slot of their Fainted Status,open,2024-12-10T06:43:13Z,,"['Ability', 'P3 Bug']"
+2726076726,4980,[Bug] Safeguard does not Protect against Status Conditions from Tokens,open,2024-12-09T06:00:43Z,,"['Item', 'P2 Bug']"
+2725936652,4979,[Bug] Tera Blast is Affected by Normalize while Terastallized,open,2024-12-09T04:14:18Z,,"['Move', 'P2 Bug']"
+2725535231,4978,[Bug] Tera Blast and Tera Starstorm are Unaffected by Aerilate ,open,2024-12-08T21:26:09Z,,"['Move', 'P2 Bug']"
+2724828406,4977,[Bug] Baton Item not working,closed,2024-12-07T21:53:56Z,2024-12-12T00:13:50Z,[]
+2724433522,4976,[Bug] Captivate only checks the Pokemon on the Left Side's Gender to Determine Success,open,2024-12-07T07:08:28Z,,"['Move', 'P2 Bug']"
+2724038002,4975,[Bug] Zygarde Ability Swap?,closed,2024-12-06T22:29:00Z,2024-12-06T22:34:21Z,['Triage']
+2721871976,4974,[Bug] Long Reach does not Prevent Contact against Contact-Required Moves ,open,2024-12-06T02:05:40Z,,"['Ability', 'P2 Bug']"
+2719596549,4972,[Bug] Status-Prevention Abilities do not Cure Status ,open,2024-12-05T07:28:53Z,,"['Ability', 'P2 Bug']"
+2716677205,4970,[Bug] Expanding Force does not Play animation for Both Targets when Multi-Target,open,2024-12-04T06:25:38Z,,"['Sprite/Animation', 'P3 Bug']"
+2716666264,4969,[Bug] Expanding Force does not Consider Terrain Status at Time of Usage,open,2024-12-04T06:18:07Z,,"['Move', 'P2 Bug']"
+2714145391,4963,"[Bug] Destiny Bond, Innards Out Crashes when Activated while Future Sight User not on Field",open,2024-12-03T06:46:43Z,,"['Move', 'Ability', 'P1 Bug']"
+2709762496,4958,[Bug] Speed/Turn Order Changes are not Considered after Every Move ,open,2024-12-01T19:56:37Z,,"['Move', 'Ability', 'P2 Bug']"
+2709677622,4957,[Feature] Possibility for download as rom/gba-file etc.,closed,2024-12-01T18:55:47Z,2024-12-02T01:47:19Z,['Enhancement']
+2709184503,4955,[Bug] Water Compaction doesn't work with Water Absorb,open,2024-12-01T13:15:42Z,,['Triage']
+2706221787,4950,[Bug] Wimp Out/EE causes Fake Out to fail turn 1 and succeed turn 2 if the player switches out at the start of a battle via Switch Mode,open,2024-11-29T21:33:13Z,,"['Ability', 'P2 Bug']"
+2703914607,4948,[Bug] Soothe Bells affecting Rare Candy friendship gain,closed,2024-11-29T05:11:03Z,2024-11-30T06:19:56Z,"['Item', 'P2 Bug']"
+2693358482,4940,[Bug] Forms of Secondary Pokemon in Fusions are not Considered when Deciding Type of Variable-Type/Effect Moves,open,2024-11-26T06:41:12Z,,"['Move', 'Item', 'P2 Bug']"
+2689610862,4938,[Bug] Forms of Secondary Pokemon in Fusions are not Considered when Determining Spawned TMs,open,2024-11-25T07:43:43Z,,"['Item', 'P2 Bug']"
+2688849531,4937,"[Bug] Dondozo can Use Baton Pass, U-Turn, Baton Item, while being Commandeered",open,2024-11-25T02:54:20Z,,"['Ability', 'P2 Bug']"
+2686200960,4936,[Feature] Random starter Team (fill points with random unlocked Pokemon),open,2024-11-23T16:16:44Z,,['Enhancement']
+2685488194,4934,[Bug] Hustle's Accuracy is not improved by Wide Lens,open,2024-11-23T06:39:29Z,,"['Ability', 'Item', 'P2 Bug']"
+2685129623,4933,[Sprite Bug] Female Eevee (partner/normal) lack heart shaped marking on tail ,open,2024-11-23T02:37:40Z,,['Sprite/Animation']
+2685092718,4932,[Bug] Cloud Nine and Air Lock do not Suppress Fog Accuracy Reduction,open,2024-11-23T01:44:25Z,,"['Ability', 'P2 Bug']"
+2680715425,4930,[Bug] Multi Lens not properly adding extra attack(s) to multi-hit moves.,closed,2024-11-21T19:51:44Z,2024-11-21T19:54:52Z,['Triage']
+2679229617,4929,[Bug] Multi lens not working on multi hit moves,closed,2024-11-21T12:00:42Z,2024-11-21T12:40:24Z,['Triage']
+2677458738,4927,[Bug] ,closed,2024-11-20T22:59:59Z,2025-01-02T07:48:48Z,[]
+2674929611,4925,[Bug] Can't work with ip address,closed,2024-11-20T08:27:41Z,2024-12-21T18:33:20Z,[]
+2670909326,4916,[Bug] Future Sight does not have Move Execution on Failure,open,2024-11-19T06:19:17Z,,"['Move', 'P2 Bug']"
+2666831432,4904,[Bug] Future Sight is Kept Upon wave Transition and Prevents Usage and Never Hits the Target when Used by the Opponent,open,2024-11-18T01:38:33Z,,"['Move', 'P2 Bug']"
+2666503595,4901,[Bug] ME description flies off-screen if you rapidly select and de-select an ME option repeatedly,open,2024-11-17T21:00:39Z,,"['UI/UX', 'Mystery Encounter', 'P3 Bug']"
+2666250898,4898,[Bug] Honey Gather activating after Run Away,closed,2024-11-17T18:16:33Z,2024-11-29T21:29:56Z,"['Ability', 'P2 Bug']"
+2665227807,4893,[Bug] Set-Party Trainers can Spawn with Duplicates of their Signature Pokemon,closed,2024-11-17T04:24:08Z,2025-01-15T01:25:19Z,['P2 Bug']
+2665213799,4892,[Bug] Self-Acupressure does not function through Substitute,open,2024-11-17T03:40:08Z,,"['Move', 'P2 Bug']"
+2665055230,4889,[Bug] Hitting Return when renaming pokemon on iPhone spams A button,open,2024-11-16T23:02:35Z,,"['UI/UX', 'P2 Bug']"
+2664931207,4886,[P1] Crash when replacing a field Pokemon with a catch if Imprison is active,closed,2024-11-16T21:08:17Z,2024-11-17T21:35:15Z,"['Move', 'P1 Bug']"
+2664861987,4885,[UI Bug] Gluttony shows activation flyout each turn when holding non-pinch berries,open,2024-11-16T19:55:09Z,,"['Ability', 'P2 Bug']"
+2662797226,4878,[Bug] Game stuck after future sight(?),closed,2024-11-15T18:37:47Z,2024-11-15T18:45:38Z,['Triage']
+2659536007,4868,[Bug] Game stuck after catch/release,open,2024-11-14T17:31:10Z,,[]
+2657512959,4867,[Bug] Octolock bypasses Ghost Invulnerability to lower Stats,closed,2024-11-14T04:16:49Z,2024-11-30T10:06:10Z,"['Move', 'P2 Bug']"
+2657424072,4865,[Bug] Gmax Partner Eevee and Pikachu Revert to Base Forme after Max Mushrooms are Deactivated,open,2024-11-14T03:17:47Z,,['P2 Bug']
+2657404323,4864,[Bug] Gigantamax Urshifu-Water has Urshifu-Dark's Relearn Moveset,closed,2024-11-14T02:58:44Z,2025-01-21T22:34:20Z,['P2 Bug']
+2647861155,4844,[Bug]  shiny teirs not working on mobile ,open,2024-11-11T01:08:10Z,,['Sprite/Animation']
+2645839435,4832,[Bug] Game freezes after finishing battle against Forretress with Iron Barbs,closed,2024-11-09T09:14:49Z,2024-11-17T10:15:53Z,"['Triage', 'Beta']"
+2645263206,4825,[Bug] Parental Bond/Double Battles,closed,2024-11-08T22:11:46Z,2024-11-08T22:17:20Z,['Triage']
+2643647244,4822,[Bug] Lycanroc dusk form evolution,closed,2024-11-08T10:44:59Z,2024-11-08T11:50:08Z,['Triage']
+2642591986,4817,[Bug] Rapidly changing summary screens queues up pokemon cries and can temporarily freeze game ,open,2024-11-08T01:31:04Z,,"['P2 Bug', 'Audio']"
+2642481950,4815,[Feature] Better Readability for Stat Increases/Decreases of Natures in Summary,open,2024-11-07T23:56:32Z,,"['Enhancement', 'Triage']"
+2640604641,4810,[Feature] Mark just-hatched Pokémon as Favorites on egg screen,open,2024-11-07T10:39:34Z,,"['Enhancement', 'Triage']"
+2639355407,4807,[QoL Feature] Accurately display move power in move selector screen,open,2024-11-06T22:13:15Z,,"['Enhancement', 'Triage']"
+2634310025,4796,[Bug] Future Sight hits instantly when used indirectly,open,2024-11-05T03:16:17Z,,"['Move', 'P2 Bug']"
+2630988876,4780,[Feature] Discard/Sell Item option,open,2024-11-03T05:43:22Z,,['Enhancement']
+2630977106,4779,"[Bug] Swords of Ruin Reduces, Eviolite Increases Body Press Damage",open,2024-11-03T05:10:24Z,,"['Ability', 'P2 Bug']"
+2630117079,4776,[Bug] Binacle tries to learn a move in the middle of move selection,open,2024-11-02T01:58:56Z,,['Triage']
+2629977877,4774,[Bug] Battles against wild Aegislash display a message after defeat,closed,2024-11-01T22:43:53Z,2024-11-13T06:28:24Z,"['Ability', 'P3 Bug']"
+2629003139,4772,[Bug] Pokerus doesn't show up daily on local download version,closed,2024-11-01T13:08:16Z,2024-11-01T13:28:41Z,['Triage']
+2628564763,4771,[Bug] Enemy double battle partner's items display after faint in wild double battles,closed,2024-11-01T08:05:43Z,2024-11-01T20:29:00Z,['Duplicate']
+2628228183,4770,[Bug] v1.0.0 system save data failing to migrate,closed,2024-11-01T03:26:08Z,2024-11-18T15:35:02Z,"['Miscellaneous', 'P1 Bug']"
+2627412522,4768,"[Bug] Autofilling username and password appears with black text, making it hard to read on the background",open,2024-10-31T17:20:20Z,,"['UI/UX', 'P3 Bug']"
+2627232148,4767,User Management,open,2024-10-31T15:59:16Z,,['Enhancement']
+2622835240,4764,[Bug] Certain Move and Ability Effects (BattlerTags) Work through Substitute,open,2024-10-30T04:09:14Z,,"['Move', 'Ability', 'P2 Bug']"
+2622547595,4760,[Bug] Camouflage Does not Change Typing Based on Current Terrain,closed,2024-10-29T23:52:21Z,2024-11-02T16:48:12Z,"['Move', 'P2 Bug']"
+2622374144,4759,Hello i need help with my account please,closed,2024-10-29T21:36:33Z,2024-10-29T21:58:47Z,[]
+2618173768,4750,Naganadel disguise,open,2024-10-28T11:41:20Z,,['Triage']
+2617319817,4748,[Bug] Moves that add Certain BattlerTags Return Score of NaN,open,2024-10-28T05:10:08Z,,"['Move', 'P2 Bug']"
+2617263654,4747,[Bug] u-turn,closed,2024-10-28T04:27:10Z,2024-11-02T04:21:46Z,"['Move', 'P2 Bug']"
+2617080196,4745,[Bug] Encore and Disable do not Interact Correctly,closed,2024-10-28T01:55:55Z,2024-11-08T17:35:35Z,"['Move', 'P2 Bug']"
+2617049507,4744,[Bug] Freeze Dry Does not Affect Soaked Shedinja,closed,2024-10-28T01:27:06Z,2024-11-05T21:31:48Z,"['Move', 'Ability', 'P2 Bug']"
+2616807950,4740,[Bug] The game crashed after a long loading and impossible to open it anymore,closed,2024-10-27T19:19:15Z,2024-10-27T19:47:35Z,['Triage']
+2616528272,4737,[Bug] Game freezes after attack lowering stats (e.g Bulldoze) when Mist has been used before,closed,2024-10-27T11:28:49Z,2024-11-18T15:36:05Z,"['Move', 'P1 Bug']"
+2615400314,4724,"[Bug] Softlock when only Eligible Pokemon in Challenges becomes Ineligible (Through evolving, Changing forms)",open,2024-10-26T00:29:05Z,,['P1 Bug']
+2610188002,4715,[Bug] Healing from Moves Occurs After Damage from Iron Barbs/Rough Skin,open,2024-10-24T01:42:30Z,,"['Move', 'Ability', 'P2 Bug']"
+2610171564,4714,[Bug] Seed Sower and Sand Spit do not activate on KO,open,2024-10-24T01:32:04Z,,"['Ability', 'P2 Bug']"
+2607287601,4708,[Bug] Once-per-battle Condition does not Function after a Pokémon is Switched Out.,closed,2024-10-23T05:17:40Z,2024-11-09T18:13:14Z,"['Move', 'P2 Bug']"
+2606653713,4706,[Bug] Defeats from some Mystery Encounters are not displayed in Run History correctly,closed,2024-10-22T22:29:40Z,2024-12-01T18:57:59Z,"['UI/UX', 'Mystery Encounter', 'P3 Bug']"
+2600954701,4696,[Bug] Focus Punch Missing Post-Hit Message,closed,2024-10-20T23:13:18Z,2024-10-20T23:21:28Z,['Duplicate']
+2598810137,4691,[Bug] Nightmare does not work properly,closed,2024-10-19T06:35:57Z,2024-10-22T01:41:06Z,"['Move', 'P2 Bug']"
+2597847971,4686,[Bug] Status immunity abilities don't heal associated status if the Pokemon is inflicted with the status,closed,2024-10-18T15:36:44Z,2024-12-25T05:44:43Z,['Duplicate']
+2596992148,4685,[Question] where are you guys setting the PersistentStats ,closed,2024-10-18T09:33:39Z,2024-10-19T12:44:43Z,['Question']
+2595101139,4679,[Bug] Graphical Issue with Pokemon Type Indicators,closed,2024-10-17T15:39:47Z,2024-10-17T15:48:56Z,['Triage']
+2591149823,4669,[Bug] No visual updates after lvl decrease by event,closed,2024-10-16T08:55:22Z,2024-11-10T05:35:17Z,"['Mystery Encounter', 'P3 Bug']"
+2590617180,4668,[Bug] No Exp Awarded to Party Members with Exp All if Active Pokémon is KO'd with Opponent,open,2024-10-16T04:53:19Z,,"['Item', 'P2 Bug']"
+2590566095,4667,[Bug] No Exp Gained after Switching in a Pokemon as the Opponent Faints,closed,2024-10-16T04:21:16Z,2024-10-30T01:58:14Z,['P2 Bug']
+2584498607,4658,"[Bug] On Reload; First-turn Moves and Gigaton can be used Successively, Torment Loses Last-used Move, Truant does not Force Skip Turns,",open,2024-10-14T01:26:47Z,,"['Move', 'Ability', 'P2 Bug']"
+2582143554,4645,[Bug] Entry hazards still get set twice during double battles,open,2024-10-11T20:34:06Z,,"['Move', 'P2 Bug']"
+2579472522,4634,"[Bug] OHKO Move Type Hints Display a ""falsex"" when Targeting Immune Enemies",closed,2024-10-10T17:47:40Z,2024-10-11T21:13:36Z,['P3 Bug']
+2578617552,4630,[Bug] Rare shiny Noivern backsprite sometimes substitute sprite,open,2024-10-10T11:50:56Z,,"['Sprite/Animation', 'P3 Bug']"
+2576131825,4622,[Beta][P3] Enemy used PP flyout does not count down,closed,2024-10-09T14:37:25Z,2024-10-10T15:42:24Z,"['P3 Bug', 'Beta']"
+2575811689,4621,[Bug] Repeated Pokemon ID's in Daily Runs,closed,2024-10-09T12:38:40Z,2024-10-09T18:43:33Z,['P2 Bug']
+2571589230,4610,"[Bug] Game crash involving Ditto, Reviver Seed, and Sketch",closed,2024-10-07T22:06:58Z,2024-11-08T05:59:58Z,"['Move', 'P1 Bug']"
+2569516645,4605,[Bug] Imprison Crashes the Game when Used Against the Player with an Invalid Pokemon in the Second Slot,closed,2024-10-07T06:56:41Z,2024-10-13T07:30:51Z,"['Move', 'P1 Bug']"
+2569373151,4604,[Bug] Trick Room Does Not End when Used Again While Active,open,2024-10-07T05:39:45Z,,"['Move', 'P2 Bug']"
+2568678060,4597,[Feature] Reduce cost of full restore ,open,2024-10-06T14:01:59Z,,"['Enhancement', 'Triage']"
+2568490450,4594,[Bug] Pollen Puff Damages Ally Before Healing,closed,2024-10-06T06:29:08Z,2024-10-10T15:44:20Z,"['Move', 'P2 Bug']"
+2568379819,4592,[Bug] Quick Draw Message is Shown when Catching a Pokemon,open,2024-10-06T00:18:56Z,,"['Ability', 'P3 Bug']"
+2567591690,4586,[Bug] Some Mystery Encounters allow the opponent to bypass semi-invulnerability on turn 1,open,2024-10-05T01:48:50Z,,"['Mystery Encounter', 'P2 Bug']"
+2567545285,4584,[Bug] Slumbering Snorlax bypasses Snorlax's sleep status on turn 1,open,2024-10-05T00:01:31Z,,"['Mystery Encounter', 'P2 Bug']"
+2567533209,4582,[Feature] Enhance Reward System for Pokémon with Multiple Evolution Paths,open,2024-10-04T23:36:18Z,,"['Enhancement', 'Triage']"
+2567453376,4580,[Bug] Dark Deal reduces transformed Pokemon's held item stacks to 1,closed,2024-10-04T21:43:15Z,2024-10-23T15:04:39Z,"['Mystery Encounter', 'P2 Bug']"
+2567066027,4578,[Bug] [ME] Dancing Lessons free turn K.O.,open,2024-10-04T18:41:37Z,,"['Mystery Encounter', 'P2 Bug']"
+2566757916,4575,[Bug] Metal Burst causes game to crash if intended target faints,closed,2024-10-04T16:35:51Z,2024-10-07T14:49:32Z,"['Move', 'P1 Bug', 'Beta']"
+2565790694,4574,"[Bug] PostDefendAbAttr Abilities (Sand Spit, Electromorphosis, etc) Activate when Hit by a Move with Substitute Active.",closed,2024-10-04T08:31:28Z,2024-10-24T00:35:48Z,"['Move', 'Ability', 'P2 Bug']"
+2564815667,4563,[Bug] Items stolen during Training Session [Mystery Encounter] are lost forever,open,2024-10-03T19:08:55Z,,"['Mystery Encounter', 'P2 Bug']"
+2563634753,4556,[Bug] Egg summary view does not refresh ,closed,2024-10-03T10:05:46Z,2024-10-03T10:14:56Z,"['(Legacy) Bug', 'Triage']"
+2563192146,4554,[Bug] Silk Trap and King's Shield Drop Stats Through Abilities that Prevent Stat Drops.,closed,2024-10-03T06:02:07Z,2024-10-10T15:43:17Z,"['Move', 'Ability', 'P2 Bug']"
+2562727810,4552,[Bug] Gulp Missile activation freezes the game if both sides faint at the same time,closed,2024-10-02T22:22:05Z,2024-11-13T06:28:24Z,"['Ability', 'P1 Bug']"
+2560335363,4540,[P3] Type hint does not update when `Teleport` is used,open,2024-10-01T22:40:54Z,,['P3 Bug']
+2560192923,4537,"[P3] ""Rapid increase"" reported when max number was reached",closed,2024-10-01T20:53:56Z,2024-10-10T20:05:57Z,['P3 Bug']
+2558013927,4532,[Bug] Openable menu on first character of scrolling text,open,2024-10-01T02:11:52Z,,"['UI/UX', 'P2 Bug']"
+2557892946,4531,[Bug] Gorilla Tactics Uses Struggle on Reload,closed,2024-10-01T00:05:42Z,2024-10-13T07:32:08Z,"['Ability', 'P2 Bug']"
+2557359126,4527,[P2 Bug] Reused RNG calls causing unintended RNG correlations,open,2024-09-30T18:19:26Z,,['P2 Bug']
+2556773145,4525,[Sprite][Color] Dada Zarude - incomplete details on scarf,open,2024-09-30T13:58:08Z,,"['Sprite/Animation', 'P3 Bug']"
+2556386041,4520,[P1] Crash when starting challenge run,closed,2024-09-30T11:36:04Z,2024-10-07T16:02:35Z,['P1 Bug']
+2555431342,4513,[Bug] Chilly Reception's Snow is called during Enemy AI Move Selection,closed,2024-09-30T03:12:51Z,2024-10-29T15:29:25Z,"['Move', 'P2 Bug']"
+2554592474,4499,[Bug] Fixed-damage moves dealing critical hits,open,2024-09-29T01:21:40Z,,"['Move', 'P2 Bug']"
+2554063652,4488,[Bug] Zekrom is Dragon/Fire instead of Dragon/Electric,closed,2024-09-28T07:02:39Z,2024-09-28T15:28:43Z,['(Legacy) Bug']
+2553997553,4487,[Bug] Elite Four Lacey's Excadrill is missing Fairy tera,closed,2024-09-28T04:18:32Z,2024-09-28T15:32:44Z,['(Legacy) Bug']
+2553939050,4480,[Bug] Opponent's Roar locks game if there isn't a Pokemon to switch into for double battle.,closed,2024-09-28T01:26:54Z,2024-09-28T04:12:03Z,['(Legacy) Bug']
+2553901527,4477,[Mystery Encounter] Wish on a Star (Rogue),open,2024-09-28T00:04:31Z,,"['Enhancement', 'Mystery Encounter', 'Triage']"
+2553883374,4475,[Mystery Encounter] Seaside Hollow (Rogue),open,2024-09-27T23:36:50Z,,"['Enhancement', 'Mystery Encounter', 'Triage']"
+2553836872,4474,[Feature] Transferring Data,closed,2024-09-27T22:32:38Z,2024-09-27T22:39:06Z,"['Enhancement', 'Triage']"
+2553171386,4465,[Bug] Save + Quitting does not reset sleeping mons' animation speed,closed,2024-09-27T15:08:53Z,2024-10-06T05:51:10Z,['P3 Bug']
+2550789337,4448,[Bug] Flip Turn and Water Absorb not working ,closed,2024-09-26T14:36:13Z,2024-09-26T14:58:34Z,['(Legacy) Bug']
+2549338758,4442,[Move][Partial] Round,closed,2024-09-26T02:27:09Z,2024-09-26T02:27:49Z,[]
+2548932417,4435,[Bug][BETA] TLS Certificate expired,closed,2024-09-25T20:24:39Z,2024-09-25T20:58:12Z,['(Legacy) Bug']
+2548918882,4434,[Bug] 'New Game' stays on a black screen!,closed,2024-09-25T20:16:16Z,2024-11-09T00:56:59Z,['(Legacy) Bug']
+2548329766,4426,[Mystery Encounter] Froslass' Cavern (Great),closed,2024-09-25T15:37:13Z,2024-10-13T08:48:48Z,"['Enhancement', 'Mystery Encounter', 'Triage']"
+2547892555,4423,[Mystery Encounter] The Labyrinth (Ultra),open,2024-09-25T12:44:03Z,,['Mystery Encounter']
+2547881891,4422,[Mystery Encounter] Play Fetch (Common),open,2024-09-25T12:39:21Z,,['Mystery Encounter']
+2547880258,4421,[Mystery Encounter] Rattattack (Common),open,2024-09-25T12:38:37Z,,['Mystery Encounter']
+2547879286,4420,[Mystery Encounter] The Stray Pokemon (Great),open,2024-09-25T12:38:12Z,,['Mystery Encounter']
+2547874246,4419,[Mystery Encounter] Weather Forecast (Common),open,2024-09-25T12:36:02Z,,['Mystery Encounter']
+2547873411,4418,"[Mystery Encounter] Fog Encounter (name TBD, Great)",open,2024-09-25T12:35:40Z,,['Mystery Encounter']
+2547871251,4417,[Mystery Encounter] Quiz Show,open,2024-09-25T12:34:50Z,,['Mystery Encounter']
+2547869831,4416,[Mystery Encounter] Wannabe Rockstar (Great),open,2024-09-25T12:34:16Z,,['Mystery Encounter']
+2546395417,4408,[Sprite/Anim] Quick Guard animation offsets ally's sprite,open,2024-09-24T21:06:20Z,,"['Sprite/Animation', 'P3 Bug']"
+2545190222,4400,[P2] Toxic misses semi-invulnerable targets even if the user is Poison-type,closed,2024-09-24T11:56:25Z,2024-10-07T06:59:39Z,"['Move', 'P2 Bug']"
+2541259227,4377,[Bug] Random Trainer Shininess Can End up on the Incorrect Pokémon,open,2024-09-22T21:11:10Z,,['P3 Bug']
+2541227356,4375,Mystery Encounters 2.0,open,2024-09-22T19:37:44Z,,[]
+2540619415,4372, Mystery Encounters beta bugs/breakfix #3,closed,2024-09-22T03:24:27Z,2024-10-01T14:09:36Z,[]
+2540003087,4361,[Bug] Paldean Tauros and Lycanroc Forms have Access to Other Forms' TM Movepools,closed,2024-09-21T06:14:10Z,2024-10-02T03:02:23Z,"['Move', 'P2 Bug']"
+2539996102,4360,[Bug] Rotom Forms Have Access to All of the Form Starter Moves Through TMs,closed,2024-09-21T06:00:54Z,2024-10-02T03:03:52Z,"['Move', 'P2 Bug']"
+2539959929,4359,[Bug] Flinching Can Occur After a Pokemon Has Moved,open,2024-09-21T04:13:33Z,,"['Move', 'Ability', 'P2 Bug']"
+2539813760,4353,"[Bug] Speed Boost is Activated on the Turn a Pokemon is Switched In, and When a Pokemon Fails to Escape",closed,2024-09-20T23:31:37Z,2024-10-29T21:38:35Z,"['Ability', 'P2 Bug']"
+2539711018,4351,[Feature] Add username visual,closed,2024-09-20T21:30:27Z,2024-11-05T01:44:09Z,"['Enhancement', 'UI/UX']"
+2539486351,4348,[Bug] Hypno unaffected by Sleep Powder,open,2024-09-20T19:10:25Z,,['Duplicate']
+2538808460,4341,[P1 Bug][Beta] Game crashing when using the in game Retry option,closed,2024-09-20T13:17:45Z,2024-09-27T01:38:40Z,['P1 Bug']
+2537513396,4334,"[Anim] Create battle-anim files for snowscape, tera-blast, tera-starstorm",open,2024-09-19T23:20:46Z,,"['Move', 'Sprite/Animation']"
+2537509575,4333,"[BETA][P3] Splash message ""battles won"" showing `NaN` ",closed,2024-09-19T23:16:02Z,2024-09-27T01:48:05Z,['P3 Bug']
+2536510606,4325,"[Bug] mono type challenge ,Baton Pass",closed,2024-09-19T14:24:19Z,2024-10-05T22:48:26Z,"['Challenges', 'P2 Bug']"
+2535054376,4322,[Bug] Experimental variation loading doesnt happen for some sprites,open,2024-09-19T01:23:24Z,,"['Sprite/Animation', 'P3 Bug']"
+2534049644,4316,[Bug] Crash that can occur when loading variant sprite,closed,2024-09-18T15:24:48Z,2024-10-10T02:29:01Z,['P1 Bug']
+2532735508,4309,"[Bug] Baton Passes User-on-the-field-Dependent Status, Includes Attract and Trapping Moves",closed,2024-09-18T05:22:08Z,2024-10-23T15:24:51Z,"['Move', 'P2 Bug']"
+2532602595,4308,[Bug] Formula used to calculate the chance of items upgrading in the shop is not the same with and without Lock Rarities selected,open,2024-09-18T03:16:23Z,,"['Miscellaneous', 'P2 Bug']"
+2532524159,4306,"[Bug] Poltergeist's ""is about to be attacked by"" Message is Played when Present in the Opponent's Moveset",closed,2024-09-18T02:00:44Z,2025-01-15T08:53:18Z,"['Move', 'P3 Bug']"
+2532389504,4304,[Bug] Type Hints Considers Effectiveness of Status-Afflicting Moves,open,2024-09-17T23:38:57Z,,"['UI/UX', 'P3 Bug']"
+2532013149,4300, Mystery Encounters beta bugs/breakfix 2,closed,2024-09-17T19:59:35Z,2024-09-22T13:32:08Z,"['(Legacy) Bug', 'Mystery Encounter']"
+2531582351,4296,"[Bug] True force-switch (Roar, Whirlwind, Circle Throw, Dragon Tail...)",closed,2024-09-17T16:25:04Z,2024-11-29T06:43:13Z,"['Move', 'P2 Bug']"
+2530107718,4292,[Bug] Fail to Login by Discord,open,2024-09-17T06:04:40Z,,['(Legacy) Bug']
+2529740697,4289,[Bug] Gigaton Hammer and Blood Moon can be Selected and Fail when Chosen Successively.,open,2024-09-17T00:56:34Z,,"['Move', 'P2 Bug']"
+2529424584,4288,[Bug] Continue button for only session still shows up after game ends.,closed,2024-09-16T20:29:05Z,2024-09-26T20:57:16Z,['P1 Bug']
+2528975780,4285,[Localization] Lazy-load languages (+ fix locale keys),open,2024-09-16T16:53:58Z,,"['Enhancement', 'Localization']"
+2527743993,4281,"[Bug] When Multiple Stats are Lowered by a Single Move, Defiant and Competitive raise ATK/SPATK Once",closed,2024-09-16T07:46:58Z,2024-10-12T22:42:00Z,"['Ability', 'P2 Bug']"
+2527662613,4280,[Bug][Localization] 技能 格斗暴冲 中文描述与游戏不符,closed,2024-09-16T07:03:11Z,2024-12-08T14:45:55Z,"['Localization', 'P3 Bug']"
+2527533592,4279,[Bug] Keyboard press is repeated after letting go of the key,open,2024-09-16T05:29:33Z,,"['UI/UX', 'P3 Bug']"
+2527480592,4277,"[Bug] Thrash (Frenzy Moves) Counter Increments despite Move Failing, Paralysis",closed,2024-09-16T04:35:30Z,2024-10-29T15:36:26Z,"['Move', 'P2 Bug']"
+2527372337,4275,[Feature] Overload generateAndPopulateMoveset(),open,2024-09-16T02:16:56Z,,['Enhancement']
+2526461471,4255,[Bug] api.pokerogue.net down,closed,2024-09-14T14:57:01Z,2024-09-14T15:11:26Z,['(Legacy) Bug']
+2526401003,4251,[Bug] damage animation delay for critical hits,closed,2024-09-14T13:17:48Z,2024-09-14T23:36:00Z,['P3 Bug']
+2526092579,4247,[Bug] Currency total reverted to NAN on beta branch,closed,2024-09-14T08:34:30Z,2024-09-14T09:38:33Z,['(Legacy) Bug']
+2525951489,4240,Mystery Encounters beta bugs/breakfix,closed,2024-09-14T02:47:46Z,2024-09-22T18:39:55Z,"['(Legacy) Bug', 'Mystery Encounter']"
+2525932621,4239,[Balance Bug] Champion team comp levels,open,2024-09-14T02:08:28Z,,"['Balance Team', 'P2 Bug']"
+2525926600,4238,[Bug] Grassy Terrain does not halve the power of ground shaky moves,closed,2024-09-14T01:52:01Z,2024-09-15T03:46:11Z,"['Move', 'P2 Bug']"
+2525905498,4232,[Feature] allow re-arranging Pokemon during “check team”,open,2024-09-14T00:59:01Z,,['Enhancement']
+2525599119,4220,[Sprite][Bug][Anim] Unofficial Sprites Floating / Offset,open,2024-09-13T20:04:01Z,,"['Sprite/Animation', 'P3 Bug']"
+2525561073,4219,"[Bug] Damaging Phasing Moves (Dragon tail, Circle Throw) Softlock on Reviver Seed Activation.",closed,2024-09-13T19:45:47Z,2024-10-14T00:12:18Z,"['Move', 'Item', 'P1 Bug']"
+2525466396,4218,[Bug] Tera Shell only Considers the First Hit when Modifying Type Effectiveness,closed,2024-09-13T18:54:11Z,2024-11-03T23:09:03Z,"['Ability', 'P2 Bug']"
+2523819724,4208,Stuck in black screen after NEW GAME,closed,2024-09-13T03:53:05Z,2024-09-13T22:22:08Z,['P1 Bug']
+2523425834,4199,[Bug] Sturdy Activates when the Actual Damage done to a Boss Pokemon on the Initial Hit is greater or equal to their Actual Health,open,2024-09-12T21:56:15Z,,"['Ability', 'P2 Bug']"
+2522599964,4197,[Feature] Warning messages for specific floors,open,2024-09-12T14:42:31Z,,['Enhancement']
+2520615186,4181,[Sprite][Anim][Trainer] Marlon Sprite's shadow is on screen while he's invisible,open,2024-09-11T19:38:07Z,,"['Sprite/Animation', 'P3 Bug']"
+2520415247,4179,[Sprite][Color] Unofficial Sprites have Uncompressed Color Palettes,open,2024-09-11T18:08:30Z,,"['Sprite/Animation', 'P3 Bug']"
+2520399234,4178,[Sprite][Anim][BLOCKED] Mega Sharpedo experimental animation Rework,open,2024-09-11T17:59:31Z,,['Sprite/Animation']
+2520386155,4177,[Sprite][Anim] Kirlia clipped back sprite,closed,2024-09-11T17:51:41Z,2024-09-26T04:17:57Z,"['Sprite/Animation', 'P3 Bug']"
+2520381770,4176,[Sprite][Color] Scyther highlight color on forehead is darker than base color,open,2024-09-11T17:49:12Z,,"['Sprite/Animation', 'P3 Bug']"
+2520372556,4174,[Sprite][Color][BLOCKED] Deerling Missing Variants,open,2024-09-11T17:44:12Z,,"['Sprite/Animation', 'P3 Bug']"
+2520364668,4173,[Sprite][Color] Centiscorch T2 front/back color mismatch,open,2024-09-11T17:41:01Z,,"['Sprite/Animation', 'P3 Bug']"
+2520360972,4172,[Sprite][Bug] Fletchinder white pixels on back experimental animation,closed,2024-09-11T17:39:37Z,2024-10-28T02:06:43Z,"['Sprite/Animation', 'P3 Bug']"
+2520355853,4171,[Sprite][Anim] 36 Clefable Animation Error,open,2024-09-11T17:37:35Z,,"['Sprite/Animation', 'P3 Bug']"
+2520181352,4169,[Sprite] Convert all Image Variants into Palette Info,open,2024-09-11T16:18:30Z,,"['Sprite/Animation', 'P3 Bug']"
+2518793705,4166,[Bug] Move descriptions in the TM info window don't wrap in Japanese,open,2024-09-11T07:22:42Z,,['P3 Bug']
+2518362572,4163,[Bug] Baddy Bad and Glitzy Glow Set Reflect / Light Screen when Protected against and when they have no Effect,closed,2024-09-11T03:17:08Z,2024-09-16T07:21:59Z,"['Move', 'P2 Bug']"
+2518295902,4162,[Bug] Tera Shift will fail to change form in specific situation,closed,2024-09-11T02:09:11Z,2024-09-11T04:13:02Z,['Duplicate']
+2518225813,4161,[Bug] Signing In With Google Only Refreshes The Page,open,2024-09-11T00:49:24Z,,['(Legacy) Bug']
+2517054009,4158,[Sprite][Bug] Female Icons don't show up,closed,2024-09-10T17:17:06Z,2024-11-14T23:21:04Z,"['Sprite/Animation', 'P3 Bug']"
+2517008043,4157,[Sprite][Bug][Anim] Fix pokemon sprite shadow alignment,open,2024-09-10T17:01:28Z,,"['Sprite/Animation', 'P3 Bug']"
+2516929047,4156,[Sprite][Bug][Color] 864 Cursola Variant Mismatch on Static vs Anim,closed,2024-09-10T16:31:30Z,2024-09-12T00:51:31Z,"['Sprite/Animation', 'P3 Bug']"
+2514122146,4134,[Bug][UI] Egg summary not showing HA icon for some Pokemon,closed,2024-09-09T14:24:26Z,2024-09-10T15:13:42Z,"['UI/UX', 'P3 Bug']"
+2513739993,4130,[Bug][Anim] Minior's animation wraps around to the left,closed,2024-09-09T11:49:19Z,2024-09-26T04:17:55Z,"['Sprite/Animation', 'P3 Bug']"
+2512463381,4112,[Bug] Achievement/Voucher menu broken when closing and reopening,closed,2024-09-08T16:19:45Z,2024-09-19T00:00:00Z,"['UI/UX', 'P3 Bug']"
+2512459533,4111,[Bug] Game crash/softlock after the first egg summary in a new run,closed,2024-09-08T16:10:25Z,2024-09-10T13:23:14Z,['P1 Bug']
+2512404387,4107,[Bug] Crash on using TM,closed,2024-09-08T14:03:10Z,2024-09-09T13:27:59Z,['P1 Bug']
+2512212325,4100,[Bug] Lures Are Infinite Duration,closed,2024-09-08T05:50:44Z,2024-09-10T09:37:25Z,"['Item', 'P2 Bug']"
+2512182373,4096,[Bug] Teamwork Achievement description,closed,2024-09-08T03:55:37Z,2024-09-08T06:46:57Z,['P3 Bug']
+2512154077,4093,"[Feature] Add ""Met in a Mysterious Encounter"" to Pokemon descriptions",open,2024-09-08T01:55:57Z,,[]
+2511734099,4086,[Feature] Add missing user/target benefit score on moves,closed,2024-09-07T15:02:54Z,2024-09-09T12:10:18Z,['Enhancement']
+2511541166,4081,[Bug] SNOW_WORKER has no Dialogue,closed,2024-09-07T08:29:40Z,2024-09-25T18:07:00Z,['P3 Bug']
+2511450383,4079,[Bug] Softlock when Both Pokemon Faint Simultaneously to Perish Song while Transitioning from a Double to a Single battle,open,2024-09-07T03:56:54Z,,"['Move', 'P1 Bug']"
+2511204844,4073,[Bug] ,closed,2024-09-06T21:16:01Z,2024-09-07T03:06:07Z,['(Legacy) Bug']
+2509568148,4064,[Feature Request] Allow to sign up with Google or Discord,open,2024-09-06T05:45:24Z,,['Enhancement']
+2509135878,4060,"[Bug] Moves Can Miss Against Protect, Baneful Bunker, King's Shield",closed,2024-09-06T00:32:47Z,2024-10-06T05:52:49Z,"['Move', 'P2 Bug']"
+2508580585,4058,[Bug] Flash Fire message does not display,open,2024-09-05T19:40:17Z,,"['Ability', 'P2 Bug']"
+2508200235,4050,"[Bug] Aura Break Applies the Damage Multiplier to the Bearer's Side's Dark and Fairy Moves, even without Fairy or Dark Aura Present.",closed,2024-09-05T16:05:54Z,2024-09-06T12:19:08Z,"['Ability', 'P2 Bug']"
+2506958574,4042,[Bug] Sandstorm and Hail damage Triggers on the Semi-Invulnerable Turn of Dig and Dive,closed,2024-09-05T07:10:43Z,2024-09-06T18:22:49Z,"['Move', 'P2 Bug']"
+2506928829,4041,"[Bug] Dive Ignores abilities that Use PostDefendAbAttr - includes Sand Spit, Rough Skin, Seed Sower and Gulp Missile.",closed,2024-09-05T06:53:47Z,2024-10-23T15:08:43Z,"['Move', 'P2 Bug']"
+2506776993,4039,[Bug] Pokémon level-up evolution is improperly delayed,closed,2024-09-05T05:04:52Z,2024-11-12T11:44:29Z,['P2 Bug']
+2506726758,4035,[Bug] Pure Flying types using Roost should become a Normal type,closed,2024-09-05T04:12:58Z,2024-09-05T05:29:44Z,['Duplicate']
+2506703753,4034,[Bug] Intermittent failing test with Rage Powder,closed,2024-09-05T03:48:11Z,2024-09-05T05:26:02Z,['(Legacy) Bug']
+2506539023,4030,"[Bug] Mini Black Hole Does not Display Holder's Nickname, uses Species Instead",closed,2024-09-05T00:40:18Z,2024-09-05T05:26:15Z,['P3 Bug']
+2506515559,4029,[Bug] Aegislash's Stance Change does Not Revert to Shield Forme upon Fainting,closed,2024-09-05T00:14:36Z,2024-09-06T19:18:16Z,"['Ability', 'P2 Bug']"
+2504329920,4020,[Bug] Egg Cracking Sound Effect is Repeatedly Looped Back When Holding B/X,closed,2024-09-04T05:16:54Z,2024-09-04T05:24:55Z,['(Legacy) Bug']
+2504300862,4018,"[Bug] Team Rocket Admin Ariana is Missing a ""have"" in her Encounter Dialogue",closed,2024-09-04T04:50:38Z,2024-09-04T16:58:36Z,['P3 Bug']
+2504137152,4017,[Feature] Doubles challenge modifier,open,2024-09-04T02:04:19Z,,['Enhancement']
+2504087404,4015,[Feature] Show base stat and IVs for Pokemon in the summary screen,open,2024-09-04T01:11:02Z,,['Enhancement']
+2504004710,4014,[Feature] Spliced Challenge modifier,open,2024-09-03T23:47:05Z,,['Enhancement']
+2503460599,4006,[Bug] Normalize + Scrappy + Wonder Guard + Dual Wingbeat interaction issue,closed,2024-09-03T18:02:48Z,2024-09-08T04:39:03Z,['P2 Bug']
+2503435643,4005,[Feature] Telemetry and user metrics,open,2024-09-03T17:47:43Z,,['Enhancement']
+2503278149,4004,[Feature] Add blueberry academy E4 to gen 9 challenge,open,2024-09-03T16:16:16Z,,['Enhancement']
+2503270408,4003,[Bug] Evil team generation rng bugs,open,2024-09-03T16:12:15Z,,['P2 Bug']
+2503101847,4002,[Feature] Mint UI should show if a nature is owned already,open,2024-09-03T14:55:20Z,,"['Enhancement', 'Item']"
+2502083072,3996,[Bug] Abilities that change move type seem to change the Type icons in the UI,open,2024-09-03T07:03:14Z,,"['Ability', 'P3 Bug']"
+2501802908,3991,[Bug] Scrappy prevents Super Effective attacks against Ghost types in Inverse challenge,closed,2024-09-03T02:25:38Z,2024-09-08T04:38:46Z,"['Ability', 'P2 Bug']"
+2501452097,3984,[Bug] Roost Grounds the User Rather than Removing Flying Typing,closed,2024-09-02T18:38:37Z,2024-09-12T19:30:15Z,"['Move', 'P2 Bug']"
+2501132328,3980,[Bug] Endless Ending (Wave 5850) Text Does not Display Correctly,closed,2024-09-02T14:40:27Z,2024-09-06T17:54:12Z,['P3 Bug']
+2500072029,3971,"[Bug] Evolving a Pokemon into an Unlockable Starter (usually baby pokemon) displays the ""___ has been added as a starter"" Textbox at an Awkward Time",open,2024-09-02T06:01:37Z,,['P3 Bug']
+2499887679,3965,[Bug] Voucher Page Inaccessible on Mobile,closed,2024-09-02T02:51:23Z,2024-09-02T23:18:47Z,['(Legacy) Bug']
+2499677993,3958,[Bug] Prankster Roar/Whirlwind Bugs Out On Dark Types/Dazzling/etc.,open,2024-09-01T20:53:40Z,,"['Move', 'Ability', 'P2 Bug']"
+2499659631,3955,[Bug] Ineligible Pokemon Contribute Luck In Challenges,closed,2024-09-01T20:05:48Z,2024-09-02T23:19:17Z,['(Legacy) Bug']
+2499196678,3951,[Bug] Account Hard-Locked after refreshing frozen battle screen,closed,2024-09-01T03:38:06Z,2024-09-01T14:26:13Z,['(Legacy) Bug']
+2498748399,3937,[Bug] Form Changing Pokémon that need two pokémon cannot swap current moves with other current moves,open,2024-08-31T09:22:46Z,,['P3 Bug']
+2498561979,3930,"[Bug] Moves That a Pokemon Knows and are not in their List of Learnable TMs Display as ""Not Able"" Rather than Learned ",closed,2024-08-31T02:24:29Z,2024-09-02T23:19:55Z,"['(Legacy) Bug', 'UI/UX']"
+2498485680,3929,"[Bug] Electro Shot Boosts After Firing, Behaves Strangely with Multi-Lens",closed,2024-08-31T01:18:23Z,2024-10-23T15:08:43Z,"['Move', 'P2 Bug']"
+2498141462,3924,[Bug] Shiny sparkle animation not always showing during Egg Hatch Phase,closed,2024-08-30T20:39:11Z,2024-12-01T00:08:55Z,"['UI/UX', 'P3 Bug']"
+2498122383,3923,[Bug] Unable to open menu after trainer fights,closed,2024-08-30T20:26:44Z,2024-08-31T05:26:42Z,"['UI/UX', 'P2 Bug']"
+2498080567,3922,"[Bug] Cursor Does not Default to the First Move slot after a Pokemon is Switched-in, Does not Default to ""Fight""",closed,2024-08-30T19:55:53Z,2024-09-03T22:14:40Z,"['UI/UX', 'P2 Bug']"
+2497489409,3919,[Feature] Retry from last item select,open,2024-08-30T15:09:48Z,,['Enhancement']
+2496375839,3914,"[Bug] Multihit Moves Called by Moves that Call other Moves (Metronome, Copycat, Sleep Talk, etc) Only Hit Once",closed,2024-08-30T06:41:57Z,2024-10-04T14:53:39Z,"['Move', 'P2 Bug']"
+2496013891,3911,[Bug] miracle_eye.test.ts › Moves - Miracle Eye > should allow Psychic moves to hit Dark types: flaky,closed,2024-08-30T02:40:00Z,2024-09-03T00:03:51Z,['(Legacy) Bug']
+2495887371,3909,[Feature] Add version visual,closed,2024-08-30T00:28:09Z,2024-10-17T02:47:19Z,"['Enhancement', 'UI/UX']"
+2495845483,3908,[Bug] lost account access ,closed,2024-08-29T23:47:44Z,2024-09-05T06:28:35Z,['(Legacy) Bug']
+2495645205,3905,"[Bug] Skill Swap, Role Play, Entrainment, Trace, and Neutralizing Gas(P) Do not Reactivate abilities when Gaining them or After Suppression Wears off ",open,2024-08-29T21:52:54Z,,"['Move', 'Ability', 'P2 Bug']"
+2495530374,3901,[UI] Text exceeds Ability Flyout box size,open,2024-08-29T20:35:49Z,,"['Enhancement', 'UI/UX', 'P3 Bug']"
+2495286477,3898,[Bug] No Indication for Status Move Failure on Misty Terrain,open,2024-08-29T18:40:06Z,,['P2 Bug']
+2493868304,3891,"[Bug] Weird handling of ""requires restart"" toggle options in settings",open,2024-08-29T09:05:16Z,,"['(Legacy) Bug', 'P3 Bug']"
+2493318989,3885,mobile,closed,2024-08-29T02:30:01Z,2024-08-29T02:30:10Z,[]
+2493073627,3877,[Bug] Biome Weather Disappears When Reloading on the First Wave of a Biome,closed,2024-08-28T22:13:12Z,2024-09-16T20:37:44Z,['P2 Bug']
+2493017476,3876,"[Bug] Octolock Ignores Clear Body, White Smoke, Big Pecks",closed,2024-08-28T21:26:45Z,2024-09-02T06:27:53Z,"['(Legacy) Bug', 'Move']"
+2492972938,3875,[Bug] Spread Healing Moves Only Consider the Damage done to the Pokemon on the Right Side when Determining Healing in Double Battles,open,2024-08-28T20:53:56Z,,"['Move', 'P2 Bug']"
+2492889593,3874,[Bug] Copycat and Metronome can Target Allies,closed,2024-08-28T20:00:38Z,2025-01-14T23:26:36Z,"['Move', 'P2 Bug']"
+2492807452,3872,[P2 Bug] Forewarn treats self status moves as 80bp,open,2024-08-28T19:07:57Z,,"['Move', 'Ability', 'Refactor', 'P2 Bug']"
+2490850358,3862,[Bug] Encore Wears Off at the End of a Move rather than at the End of the Turn,open,2024-08-28T03:08:14Z,,"['Move', 'P2 Bug']"
+2488324454,3844,"[Bug] Helping Hand Does not Display a Fail Message and Can Miss when used in the Semi-invulnerable turn of Fly, Dive, Phantom Force, etc",closed,2024-08-27T05:38:42Z,2024-11-11T20:15:52Z,"['Move', 'P2 Bug']"
+2488311342,3843,[Bug] Decorate Does not Bypass Protect,closed,2024-08-27T05:27:46Z,2024-08-27T20:06:53Z,"['(Legacy) Bug', 'Move']"
+2488297895,3842,[Bug] Shedinja Doesn't Have Access to Nincada's Egg moves by Memory Mushroom/Relearn.,closed,2024-08-27T05:16:06Z,2024-09-03T14:24:20Z,['(Legacy) Bug']
+2487650623,3829,"[Testing] Verify that Achievements still work, and there are acheivements for beating certain ME-specific trainers",open,2024-08-26T19:52:32Z,,['Mystery Encounter']
+2487649455,3828,[Feature] Add tutorials for Mystery Encounters,open,2024-08-26T19:51:46Z,,['Mystery Encounter']
+2487648338,3827,[Tech Debt] Write unit tests for all encounters that are missing them,open,2024-08-26T19:51:10Z,,['Mystery Encounter']
+2487645607,3826,[Bug] Possible crashes when running from Mystery Encounters,closed,2024-08-26T19:49:35Z,2024-08-29T16:58:24Z,"['(Legacy) Bug', 'Mystery Encounter']"
+2487644557,3825,[Bug] KOing Pokemon from startOfBattleEffects doesn't immediately prompt a switch,closed,2024-08-26T19:49:02Z,2024-08-29T16:58:07Z,"['(Legacy) Bug', 'Mystery Encounter']"
+2487641850,3824,[Bug] Oricorio Dance Visual bug,closed,2024-08-26T19:47:34Z,2024-08-29T16:57:43Z,"['(Legacy) Bug', 'Mystery Encounter']"
+2487629933,3823,[Encounter] Dancing Lessons (Great),closed,2024-08-26T19:40:46Z,2024-08-26T19:42:07Z,['Mystery Encounter']
+2487621897,3822,[Encounter] A Weird Dream? (Rogue),closed,2024-08-26T19:35:45Z,2024-08-26T19:42:07Z,['Mystery Encounter']
+2487621406,3821,[Encounter] The Winstrate Challenge (Rogue),closed,2024-08-26T19:35:28Z,2024-08-26T19:42:04Z,['Mystery Encounter']
+2487620984,3820,[Encounter] The Bug-Type Superfan (Great),closed,2024-08-26T19:35:15Z,2024-08-27T16:53:16Z,['Mystery Encounter']
+2487620358,3819,[Encounter] Fun and Games! (Great),closed,2024-08-26T19:34:54Z,2024-08-28T01:36:29Z,['Mystery Encounter']
+2487620012,3818,[Encounter] The Expert Breeder (Ultra),closed,2024-08-26T19:34:42Z,2024-09-22T18:39:06Z,['Mystery Encounter']
+2487619020,3817,[Encounter] Teleporting Hijinks (Common),closed,2024-08-26T19:34:08Z,2024-08-26T19:41:50Z,['Mystery Encounter']
+2487618401,3816,[Encounter] A Trainer’s Test (Rogue),closed,2024-08-26T19:33:50Z,2024-08-26T19:41:47Z,['Mystery Encounter']
+2487618007,3815,[Encounter] Slumbering Snorlax (Great),closed,2024-08-26T19:33:39Z,2024-08-26T19:41:45Z,['Mystery Encounter']
+2487617431,3814,[Encounter] Fiery Fallout (Common),closed,2024-08-26T19:33:24Z,2024-08-26T19:41:43Z,['Mystery Encounter']
+2487616660,3813,[Encounter] Part-Timer (Common),closed,2024-08-26T19:33:03Z,2024-08-26T19:41:39Z,['Mystery Encounter']
+2487616173,3812,[Encounter] Global Trade System (Common),closed,2024-08-26T19:32:48Z,2024-09-07T14:55:29Z,['Mystery Encounter']
+2487615772,3811,[Encounter] (Un)Common Breed (Common),closed,2024-08-26T19:32:35Z,2024-08-29T16:57:17Z,['Mystery Encounter']
+2487615422,3810,[Encounter] Berries Abound (Common),closed,2024-08-26T19:32:23Z,2024-08-26T19:41:31Z,['Mystery Encounter']
+2487615019,3809,[Encounter] Trash to Treasure (Ultra),closed,2024-08-26T19:32:10Z,2024-08-26T19:41:29Z,['Mystery Encounter']
+2487614668,3808,[Encounter] An Offer You Can’t Refuse (Great),closed,2024-08-26T19:31:58Z,2024-08-26T19:41:29Z,['Mystery Encounter']
+2487614060,3807,[Encounter] Clowning Around (Ultra),closed,2024-08-26T19:31:40Z,2024-08-27T03:06:33Z,['Mystery Encounter']
+2487613784,3806,[Encounter] Dark Deal (Rogue),closed,2024-08-26T19:31:29Z,2024-08-26T19:41:27Z,['Mystery Encounter']
+2487613478,3805,[Encounter] Absolute Avarice (Great),closed,2024-08-26T19:31:19Z,2024-08-26T19:41:25Z,['Mystery Encounter']
+2487612990,3804,[Encounter] Delibir-dy (Great),closed,2024-08-26T19:31:01Z,2024-08-26T19:41:21Z,['Mystery Encounter']
+2487611600,3803,[Encounter] The Strong Stuff (Great),closed,2024-08-26T19:30:17Z,2024-08-26T19:30:19Z,['Mystery Encounter']
+2487604610,3802,[Encounter] Training Session (Ultra),closed,2024-08-26T19:26:13Z,2024-08-26T19:26:49Z,['Mystery Encounter']
+2487604200,3801,[Encounter] Mysterious Challengers (Great),closed,2024-08-26T19:25:59Z,2024-08-26T19:26:47Z,['Mystery Encounter']
+2487603516,3800,[Encounter] Safari Zone (Great),closed,2024-08-26T19:25:34Z,2024-08-26T19:26:46Z,['Mystery Encounter']
+2487603003,3799,[Encounter] Pokemon Salesman (Ultra),closed,2024-08-26T19:25:17Z,2024-08-26T19:26:44Z,['Mystery Encounter']
+2487602385,3798,[Encounter] Shady 'Vitamins' Dealer (Common),closed,2024-08-26T19:24:56Z,2024-08-26T19:26:42Z,['Mystery Encounter']
+2487602006,3797,[Encounter] Department Store Sale (Common),closed,2024-08-26T19:24:44Z,2024-08-26T19:26:42Z,['Mystery Encounter']
+2487601571,3796,[Encounter] Mysterious Chest (Common),closed,2024-08-26T19:24:30Z,2024-08-26T19:26:41Z,['Mystery Encounter']
+2487588570,3795,[Encounter] Fight or Flight (Common),closed,2024-08-26T19:17:29Z,2024-08-26T19:26:39Z,['Mystery Encounter']
+2487587788,3794,[Encounter] Field Trip (Common),closed,2024-08-26T19:17:08Z,2024-08-26T19:26:37Z,['Mystery Encounter']
+2487581133,3793,[Encounter] Lost At Sea (Common),closed,2024-08-26T19:14:40Z,2024-08-26T19:14:59Z,['Mystery Encounter']
+2486984812,3780,[Bug]Self-Targeting and Opposing Pokemon's Moves Miss when their Target Shifts Slots Mid-battle in a live stream. (Double Battle bug),open,2024-08-26T14:13:55Z,,['P2 Bug']
+2486639430,3778,"[Bug] ""Protect"" freezes/crashes the game (on Firefox Android)",closed,2024-08-26T11:33:38Z,2024-08-27T07:45:23Z,['(Legacy) Bug']
+2486561558,3777,(Qol) To see move descriptions while battle in the fight tab,closed,2024-08-26T10:49:54Z,2024-09-29T16:02:18Z,['Enhancement']
+2485097984,3750,[Bug]  Two-turn moves do not advance in Double Battles when Pokeballs are Used,open,2024-08-25T07:12:29Z,,"['Move', 'P2 Bug']"
+2485088563,3749,[Bug] Dive Strands the User if Desolate Land becomes active during the execution turn,closed,2024-08-25T06:40:09Z,2024-10-23T15:08:42Z,"['Move', 'P2 Bug']"
+2484182955,3722,[Bug] No Indication for Sleep Move Failure on Electric Terrain,open,2024-08-24T04:13:08Z,,"['Move', 'P2 Bug']"
+2484162769,3721,Oricorio Forms,closed,2024-08-24T03:42:19Z,2024-08-28T20:24:11Z,['(Legacy) Bug']
+2483926726,3718,[Bug] Frenzy moves wont stop by paralyze,closed,2024-08-23T21:30:23Z,2024-11-17T03:13:28Z,['Duplicate']
+2483800532,3713,"[Bug] Arena Trap, Shadow Tag and Magnet Pull Lingers After a Pokemon has been Forced Out",closed,2024-08-23T19:56:33Z,2024-11-30T21:08:33Z,"['Move', 'Ability', 'P2 Bug']"
+2483713504,3711,[Bug] Test,closed,2024-08-23T19:03:01Z,2024-08-23T19:05:55Z,['(Legacy) Bug']
+2483708461,3710,Test,closed,2024-08-23T19:00:01Z,2024-08-23T19:03:19Z,['Ability']
+2483615097,3707,[Bug] Gulp Missile does not Activate (Launch payload) when Cramorant Faints,closed,2024-08-23T17:56:51Z,2024-10-24T00:36:02Z,"['Ability', 'P2 Bug']"
+2479453378,3682,[Bug] Freeze in classic after round ends before trainer battle,open,2024-08-22T00:11:10Z,,['(Legacy) Bug']
+2476830576,3676,"[Bug] Disguise Opens Up a Parallel Universe when Mimikyu faints from the 1/8th Damage on Transformation to Busted Form (Doubled Shop, Consecutive Switch Offers, Sprites Stay on Screen)",closed,2024-08-21T01:57:58Z,2024-08-24T21:06:12Z,['(Legacy) Bug']
+2476691031,3673,[Bug] Moves That would be nullified by Move/type Absorbing Abilities Can Miss Incorrectly,closed,2024-08-20T23:18:13Z,2024-09-23T19:53:38Z,"['Ability', 'P2 Bug']"
+2476370822,3671,[Bug] Lumina Crash ignoring SpDef drop,closed,2024-08-20T19:19:05Z,2024-08-20T20:35:58Z,['(Legacy) Bug']
+2476003015,3668,[Feature] Add UI to remove held items,open,2024-08-20T15:57:45Z,,['Enhancement']
+2474235976,3651,[Bug] Costume Pikachu shouldn't trigger or accept Mega Mushroom,closed,2024-08-19T21:26:43Z,2024-08-27T20:07:58Z,['(Legacy) Bug']
+2473677320,3644,[Bug] exp gain skip is ignored,closed,2024-08-19T15:48:22Z,2024-09-14T16:37:22Z,['P2 Bug']
+2473548174,3642,[Bug] Unlocked egg moves missing,closed,2024-08-19T14:47:21Z,2024-08-19T16:49:47Z,['(Legacy) Bug']
+2472560301,3640,[Bug] game not loading after new update,closed,2024-08-19T06:28:19Z,2024-09-05T06:33:35Z,['(Legacy) Bug']
+2472046680,3626,[Bug] freeze endless mode,open,2024-08-18T16:24:45Z,,['(Legacy) Bug']
+2472022544,3625,[Bug] Unable to re-activate Necrozma form items,open,2024-08-18T15:21:54Z,,"['Item', 'P2 Bug']"
+2471746985,3609,[Bug] Being Double Ko'd by a Spread Move with Three Available Pokemon in the Party does not Advance battle (Phase),closed,2024-08-18T02:13:23Z,2024-08-18T17:29:12Z,['(Legacy) Bug']
+2471728365,3607,[Bug] Exploitable RNG for Candy Eggs,closed,2024-08-18T00:51:35Z,2024-09-05T06:34:29Z,['(Legacy) Bug']
+2471614806,3592,[Bug] IV Scanner not showing IVs,closed,2024-08-17T18:00:08Z,2024-08-18T20:49:04Z,['(Legacy) Bug']
+2470924262,3585,[Bug] Pokemon Gaining a Status Condition After Being KO'd,closed,2024-08-16T20:13:50Z,2025-01-20T17:12:59Z,"['Ability', 'P2 Bug']"
+2470019946,3574,[Bug] Turtwig Icon in starter-select is broken ,closed,2024-08-16T10:51:35Z,2024-08-16T21:37:21Z,"['(Legacy) Bug', 'UI/UX', 'Sprite/Animation']"
+2470014350,3573,[Bug] Missing type-hints for immunities,closed,2024-08-16T10:48:01Z,2024-08-18T21:27:39Z,"['(Legacy) Bug', 'UI/UX']"
+2470010924,3571,[Bug] Missing/Gone health-bar UI,closed,2024-08-16T10:45:51Z,2024-08-17T00:04:30Z,"['(Legacy) Bug', 'Duplicate', 'UI/UX']"
+2469961615,3570,[Bug] Aerilate + population bomb results in only one hit vs ghost types,closed,2024-08-16T10:16:19Z,2024-08-26T02:37:57Z,['(Legacy) Bug']
+2469642421,3568,[Sprite Refactor] Pokemon Sprites filepath optimisation Discussion,open,2024-08-16T07:04:14Z,,"['Sprite/Animation', 'Refactor']"
+2467338822,3553,[Bug] Gastro Acid and Neutralizing Gas Do Not Suppress Liquid Ooze,open,2024-08-15T03:52:07Z,,"['Ability', 'P2 Bug']"
+2467142643,3551,[Bug] Player Pokémon HUD can get stuck off-screen,closed,2024-08-15T01:46:44Z,2024-08-16T22:30:47Z,"['(Legacy) Bug', 'UI/UX']"
+2466896535,3548,[Bug] Sacrificial moves not activating PostFaintAbAttr,closed,2024-08-14T21:47:38Z,2024-10-20T02:32:50Z,['(Legacy) Bug']
+2463424662,3533,[Bug] Stuck in menu after exporting data,closed,2024-08-13T13:55:33Z,2024-08-13T21:31:57Z,"['(Legacy) Bug', 'UI/UX']"
+2462396623,3526,Self reload on ios safary,closed,2024-08-13T05:08:08Z,2024-09-05T06:35:43Z,['(Legacy) Bug']
+2459973237,3503,List of Partial / Unimplemented Moves and Abilities,open,2024-08-12T03:38:03Z,,"['Move', 'Ability']"
+2459784446,3497,"[Bug] Issue on Bug Report form itself, help text swapped for data and session export fields",closed,2024-08-11T22:15:15Z,2024-08-22T23:44:02Z,['(Legacy) Bug']
+2459783575,3496,[Bug] Sturdy proc notification when Quick Claw procs,closed,2024-08-11T22:12:33Z,2024-08-28T02:12:18Z,['(Legacy) Bug']
+2459379715,3486,[Question] About failCatch shake count,open,2024-08-11T02:14:11Z,,['Question']
+2459375692,3485,[Bug] Destiny Bond Does Not Fail When Used in Succession,closed,2024-08-11T01:59:33Z,2024-09-02T01:52:38Z,['(Legacy) Bug']
+2459306641,3482,"[BUG] Abilities That Use PostSummonAbAttr Do Not Apply Summoned Abilities if the Player Initially Agrees to Switch. Abilities Include: Imposter, Hadron Engine, Primordial Sea, Download, Schooling, Drizzle,",closed,2024-08-10T22:04:21Z,2024-12-01T00:07:02Z,"['Ability', 'P2 Bug']"
+2458925953,3473,[Bug] Game crashes when Hariyama with passive got attacked by Dragon Tail,closed,2024-08-10T06:03:05Z,2024-08-10T12:10:02Z,['(Legacy) Bug']
+2458858520,3471,[Bug] Parting shot doesn't apply debuff even if no one to switch out to,open,2024-08-10T02:29:14Z,,['P2 Bug']
+2458091179,3463,[Bug] Disguise reverts to original form if damaged on switch-in,closed,2024-08-09T14:45:31Z,2024-08-26T21:25:36Z,['(Legacy) Bug']
+2457920306,3460,[Bug] Screen Freezes after finishing battle,closed,2024-08-09T13:26:43Z,2024-08-09T21:20:38Z,['(Legacy) Bug']
+2457750312,3459,[Bug] No Retreat failed after enemy use Spirit Shackle,closed,2024-08-09T11:52:01Z,2024-08-18T09:20:49Z,['(Legacy) Bug']
+2457012434,3453,[Bug] Endless `%50` waves soft-lock,closed,2024-08-09T03:20:33Z,2024-08-10T09:48:46Z,['(Legacy) Bug']
+2456552850,3441,[Bug] Ghost-type Curse doesn't randomly select an opponent to target in double battles,closed,2024-08-08T20:16:35Z,2024-08-08T20:43:12Z,['(Legacy) Bug']
+2456518382,3440,[Bug] Fused Pokemon's ability was changed randomly in save file after update?,closed,2024-08-08T19:52:42Z,2024-08-26T21:32:57Z,['(Legacy) Bug']
+2456099358,3435,[Localization] Finish Localization for Eviolite Achievement,open,2024-08-08T15:31:21Z,,['Localization']
+2456045952,3434,[Bug] the game freezes when seed sower (grass field) is activated by flip turn,closed,2024-08-08T15:06:34Z,2024-08-26T21:39:41Z,['(Legacy) Bug']
+2451860506,3391,[Feature] Choose side for candy notification,open,2024-08-06T23:48:50Z,,"['Enhancement', 'UI/UX']"
+2451320163,3385,[Bug] Desolate Land persists when the Pokemon is switched out during the transition between a double battle & single battle,open,2024-08-06T16:56:20Z,,"['Ability', 'P2 Bug']"
+2450411223,3377,[Feature]Two creative ideas to enhance the strategic depth of a game.,open,2024-08-06T09:32:16Z,,['Enhancement']
+2450406379,3376,[Feature]Two creative ideas to enhance the strategic depth of a game,closed,2024-08-06T09:30:01Z,2024-08-06T16:02:56Z,[]
+2450405537,3375,[Feature]Two creative ideas to enhance the strategic depth of a game,closed,2024-08-06T09:29:36Z,2024-08-06T16:04:41Z,[]
+2447264657,3348,[Feature] Increase levels of wild Pokemon on floors 191-199,open,2024-08-04T19:20:35Z,,['Game Balance']
+2447239643,3347,[Bug] Copycat on Flame Charge does not give speed boost if enemy is attacked,closed,2024-08-04T18:05:52Z,2024-08-26T08:41:45Z,['(Legacy) Bug']
+2446915098,3336,[Bug] Sand Spit Activates on Status Moves and Self Status Moves,closed,2024-08-04T07:54:33Z,2024-08-24T05:39:22Z,['(Legacy) Bug']
+2446894051,3334,[Bug] Desync Between Candy Counter in Hatch Menu and Starter Select Screen/Battle Screen,open,2024-08-04T07:23:44Z,,"['UI/UX', 'P3 Bug']"
+2446692906,3328,It seems Wasteland is no longer visible.,closed,2024-08-04T01:13:37Z,2024-08-04T02:35:58Z,['(Legacy) Bug']
+2446617350,3324,[Bug] Reviver seed fight freeze,closed,2024-08-03T21:59:10Z,2024-10-16T13:45:18Z,"['Item', 'P1 Bug']"
+2446470234,3318,About the rate of catching Pokemon,closed,2024-08-03T16:38:26Z,2024-09-27T03:10:27Z,['Question']
+2446238414,3314,"[Feature] 2vs poke move target is ally, then next poke attack move target select is on ally. attack move target select should always on emeny",closed,2024-08-03T08:22:30Z,2024-10-31T21:57:00Z,['P3 Bug']
+2446234484,3313,password find function Additional ,closed,2024-08-03T08:12:35Z,2024-08-05T17:10:55Z,[]
+2444575677,3300,[Bug] Type Conversion and State Problem,closed,2024-08-02T09:51:39Z,2024-08-10T09:50:00Z,['(Legacy) Bug']
+2441470867,3283,[Bug] Good as Gold does not prevent stat drop from Parting Shot,closed,2024-08-01T04:55:12Z,2024-08-09T08:09:37Z,['(Legacy) Bug']
+2439059279,3263,[Bug] Ivy cudgel doesnt change its type in the type hints,closed,2024-07-31T03:53:44Z,2024-08-19T04:07:13Z,"['(Legacy) Bug', 'UI/UX']"
+2437999428,3248,"[Bug] Docker installation, an error will be reported after entering the page",closed,2024-07-30T14:34:00Z,2024-09-27T03:11:10Z,"['(Legacy) Bug', 'Question', 'Miscellaneous']"
+2436999745,3240,[Bug] Toxic Spikes implementation issues,closed,2024-07-30T06:22:45Z,2024-10-11T15:02:21Z,"['(Legacy) Bug', 'Move']"
+2436914718,3237,[Bug] delete Loading Scene ruined animation after Save & Quit,closed,2024-07-30T05:15:41Z,2024-08-04T15:46:10Z,"['(Legacy) Bug', 'UI/UX']"
+2436237560,3220,[Feature] Make it easy to go back to team filters,closed,2024-07-29T19:57:11Z,2024-09-03T17:34:51Z,"['Enhancement', 'UI/UX']"
+2436231744,3219,[Bug] Eternatus not switching phase through status-effect damage,closed,2024-07-29T19:53:51Z,2024-07-30T03:56:11Z,"['(Legacy) Bug', 'Game Balance']"
+2436231381,3218,[Bug] Some prompt options no longer loop-around the cursor,closed,2024-07-29T19:53:41Z,2024-08-26T22:40:27Z,"['(Legacy) Bug', 'UI/UX']"
+2436224128,3217,[Bug] Can't switch because of Arena Trap doesn't show on switch screen,closed,2024-07-29T19:50:39Z,2024-08-18T09:23:19Z,"['(Legacy) Bug', 'UI/UX']"
+2434381948,3207,[Bug] Edge cases for tinted pokeball/summary container with 1 ability and HA,open,2024-07-29T03:43:28Z,,"['(Legacy) Bug', 'UI/UX']"
+2434287283,3201,[Bug] Noivern Back-Sprite Missing ,closed,2024-07-29T01:52:46Z,2024-07-29T02:01:57Z,['(Legacy) Bug']
+2434272365,3200,Add comments to label Items in src/modifier/modifier.ts [Feature],open,2024-07-29T01:40:06Z,,['Enhancement']
+2434244506,3196,Add Leek to SpeciesStatBoosters [Feature],open,2024-07-29T01:17:01Z,,['Enhancement']
+2433781988,3181,[Bug] docker web error,closed,2024-07-28T06:52:58Z,2024-07-29T16:20:46Z,['(Legacy) Bug']
+2433777391,3180,[Feature] Support for special characters (not supported by Emerald Pro),closed,2024-07-28T06:36:29Z,2024-08-23T06:19:01Z,"['Enhancement', 'UI/UX']"
+2433744481,3178,[Feature] Unit tests for pokeball dex indicators,open,2024-07-28T04:17:03Z,,"['Enhancement', 'Tests']"
+2433672388,3169,[Feature] Multiplayer Co-Op Modification,closed,2024-07-28T00:32:39Z,2024-08-02T06:00:00Z,"['Enhancement', 'Game Balance']"
+2433662067,3168,[Bug] Substitute sprite in summary after caught Oddish,closed,2024-07-27T23:51:05Z,2024-07-29T16:28:59Z,['(Legacy) Bug']
+2433440574,3166,"[Bug] Thousand Arrows ""reveals"" Levitate when Type Hints is enabled",closed,2024-07-27T11:37:15Z,2024-08-26T04:19:18Z,['(Legacy) Bug']
+2433266029,3164,[Feature] Option to mute or reduce UI 'pling' sound effect,closed,2024-07-27T05:23:39Z,2024-08-27T20:23:59Z,"['Enhancement', 'Miscellaneous']"
+2433078096,3161,[Bug] Curse bypasses Crafty Shield,closed,2024-07-26T22:55:37Z,2024-07-29T23:12:50Z,['(Legacy) Bug']
+2432637735,3159,[Bug] Unnecessary fetch on logout,closed,2024-07-26T17:14:12Z,2024-07-29T16:43:46Z,['(Legacy) Bug']
+2431021309,3147,[Feature] Remove `Pokemon` Prefix from Modifier Class Names,open,2024-07-25T21:43:05Z,,"['Documentation', 'Enhancement']"
+2430914807,3146,[Bug] Spanish localization when stat harshly falls has an enclosing bracket.,closed,2024-07-25T20:19:34Z,2024-07-25T20:52:26Z,['(Legacy) Bug']
+2430417607,3143,[Feature] Move `getBgmLoopPoint` into seperate (json-) file,open,2024-07-25T16:02:22Z,,['Enhancement']
+2429545265,3140,[Bug] localhost /account/info: missing token ,closed,2024-07-25T09:57:48Z,2024-07-26T04:39:53Z,"['(Legacy) Bug', 'Miscellaneous']"
+2428385685,3125,[Bug] Animation gets stuck in a loop and game freezes,open,2024-07-24T20:09:40Z,,['(Legacy) Bug']
+2427612589,3120,[Feature] Option to restart the current match,closed,2024-07-24T13:34:58Z,2024-07-25T13:42:00Z,['Enhancement']
+2426341000,3116,Keyboard is not working properly on PC browser,closed,2024-07-24T00:18:44Z,2024-07-24T14:15:12Z,"['(Legacy) Bug', 'Duplicate']"
+2425818000,3112,"[Bug] Prankster Parting Shot used on Dark types shows ""it doesn't affect [target]"" but still shows stats lowering",closed,2024-07-23T18:11:15Z,2024-08-09T08:09:53Z,['(Legacy) Bug']
+2424244041,3106,[Bug] ,closed,2024-07-23T04:43:26Z,2024-07-24T18:03:25Z,['(Legacy) Bug']
+2423974595,3098,[Bug] Incorrect shadow position for Grafaiai,open,2024-07-22T23:59:33Z,,"['(Legacy) Bug', 'Sprite/Animation']"
+2421623200,3091,[Bug] Double Battle Item Icons,open,2024-07-21T22:17:49Z,,"['UI/UX', 'P3 Bug']"
+2421132268,3079,"[BUG] Sprites do not show after all but the current pokemons fainted, and the current pokemon is replaced with a new captured pokemon",closed,2024-07-20T23:59:38Z,2024-07-24T14:21:09Z,"['(Legacy) Bug', 'Duplicate']"
+2420883140,3076,[BUG] Broken statistics menu when account is first created,closed,2024-07-20T12:41:00Z,2024-07-24T19:49:40Z,['(Legacy) Bug']
+2419454977,3072,"[QUESTION] If i enable the login screen, does this mean that my self-hosted server will store the userdata in its storage? ",closed,2024-07-19T17:15:34Z,2024-07-23T06:08:41Z,['Question']
+2417657188,3066,Missing signature moves for pikachu on Android[BUG],closed,2024-07-19T01:50:44Z,2024-07-25T06:37:23Z,"['(Legacy) Bug', 'Duplicate', 'Game Balance']"
+2416898727,3059,[Feature] Option to show next gym leader floor ,open,2024-07-18T16:34:59Z,,['Enhancement']
+2416347404,3058,Totem Pokemon as Classic bosses!,open,2024-07-18T13:16:13Z,,['Enhancement']
+2414674024,3056,[BUG][beta] Eternatus stuck recharging after using Eternabeam,closed,2024-07-17T22:00:59Z,2024-07-24T18:24:48Z,['(Legacy) Bug']
+2414270471,3052,[Feature] Icon indicator for playable Pokemons,closed,2024-07-17T18:17:27Z,2024-09-04T16:58:28Z,"['Enhancement', 'UI/UX']"
+2412659681,3049,[Performance] potential Performance improvements,closed,2024-07-17T05:07:26Z,2024-07-24T14:25:44Z,"['Enhancement', 'Miscellaneous']"
+2412640644,3048,"[BUG] `Save & Quit` can be spammed if ""delayed""",closed,2024-07-17T04:49:14Z,2024-09-27T03:12:12Z,"['(Legacy) Bug', 'UI/UX']"
+2412458225,3046,[BUG] Teaching red shiny Houndour any move/looking at its summary crashes the game,closed,2024-07-17T02:10:19Z,2024-07-24T14:26:52Z,['(Legacy) Bug']
+2412196856,3043,[Feature] View starter list / Pokédex from menu,open,2024-07-16T23:13:38Z,,['Enhancement']
+2407535754,3027,[BUG] Eruption Hits through Flash Fire,closed,2024-07-14T17:59:45Z,2024-07-14T23:17:28Z,['(Legacy) Bug']
+2407255323,3021,Visual Glitch In Combate [BUG],closed,2024-07-14T04:02:11Z,2024-07-14T04:44:24Z,"['(Legacy) Bug', 'UI/UX']"
+2406794653,3006,[BUG] Some immune message from Ability is not showing,open,2024-07-13T08:20:57Z,,"['Ability', 'P2 Bug']"
+2404819090,2994,[BUG] Healing Wish bug,open,2024-07-12T05:59:57Z,,"['Move', 'P2 Bug']"
+2404814121,2993,Urshifu ability not functioning,closed,2024-07-12T05:55:23Z,2024-07-14T04:43:11Z,['(Legacy) Bug']
+2404467658,2991,[BUG] Epic Yungoos shiny party icon has an extra pixel,closed,2024-07-12T01:18:11Z,2024-07-14T23:17:52Z,['(Legacy) Bug']
+2403883282,2982,[BUG] Perish Song incorrectly reactivates after reset when switching into previously out Pokemon,closed,2024-07-11T18:55:29Z,2024-07-27T15:39:24Z,['(Legacy) Bug']
+2403707442,2977,[BUG] Game freezes when ineligible Pokemon on type challenge in the middle of a double battle changes type during evolution,open,2024-07-11T17:34:54Z,,"['Challenges', 'P1 Bug']"
+2403463419,2974,[Feature] Colorblind option for shiny,open,2024-07-11T15:18:56Z,,['Enhancement']
+2401483628,2959,"[BUG] Decidueye is registered as 6724 instead of 0724 in the Pokedex, preventing it from being used in Generation 7 Mono Runs",closed,2024-07-10T19:19:18Z,2024-07-10T19:37:31Z,['(Legacy) Bug']
+2400716627,2953,"[BUG] ""/account/info: missing token"" on login with rogueserver",closed,2024-07-10T13:07:36Z,2024-07-10T13:42:21Z,['(Legacy) Bug']
+2399570557,2945,[Feature] Ideas for better quality of life,open,2024-07-10T02:18:49Z,,['Enhancement']
+2398441540,2939,[Feature] Ideas for additional Candy Friendship methods,open,2024-07-09T14:55:14Z,,['Enhancement']
+2398372028,2938,[BUG] Smeargle Learns No Moves On Level-Up,closed,2024-07-09T14:24:54Z,2024-08-27T21:13:39Z,['(Legacy) Bug']
+2397495102,2935,[BUG] Parental Bond weird behavior,closed,2024-07-09T08:23:22Z,2024-07-10T05:44:44Z,['(Legacy) Bug']
+2397189916,2933,[BUG] PM and player textures are both rendered,closed,2024-07-09T05:42:29Z,2024-07-25T05:24:29Z,['(Legacy) Bug']
+2396595073,2926,[BUG] Terrain affecting ungrounded Pokemon,closed,2024-07-08T21:20:19Z,2024-07-23T17:48:08Z,['(Legacy) Bug']
+2396217549,2920,[Feature] Distinguish which Pkmn helds which item in double battle with the same species,closed,2024-07-08T17:51:45Z,2024-09-03T17:32:23Z,['Enhancement']
+2396209260,2919,"[Feature] UI request: Clearer indication of when a ""Generation-Only"" or ""Type-Only"" challenge will be failed based on catching a pokemon",closed,2024-07-08T17:46:45Z,2024-07-08T18:04:21Z,[]
+2396085624,2917,[Feature] Easy and Hard(+) Classic Mode (& Candy Balance?),open,2024-07-08T16:37:21Z,,"['Enhancement', 'Question', 'Game Balance']"
+2395008064,2912,[BUG] Pokémon hatched from eggs collected during the daily run are gone,closed,2024-07-08T08:37:13Z,2024-07-08T12:40:10Z,['(Legacy) Bug']
+2394756733,2911,"[AUDIO PROBLEM] Victory music loop not mixed well, causes jarring sound on repeat",closed,2024-07-08T06:28:27Z,2024-10-14T05:26:29Z,"['Game Design', 'P3 Bug']"
+2394089667,2893,item selection screen visual glitch [BUG],closed,2024-07-07T14:57:53Z,2024-07-25T06:39:48Z,['(Legacy) Bug']
+2394059094,2890,"[BUG] when battle ends with wild pokemon's uturn, battle field doesn't show up anything",closed,2024-07-07T13:35:14Z,2024-08-27T21:50:06Z,['(Legacy) Bug']
+2393917144,2886,[Feature] ask code review for this bug fix PR,closed,2024-07-07T06:39:02Z,2024-07-08T18:05:56Z,[]
+2393542701,2854,[BUG],closed,2024-07-06T12:21:52Z,2024-07-10T06:29:40Z,['(Legacy) Bug']
+2393511136,2846,[BUG] missing pokemon texture in battle,closed,2024-07-06T10:34:40Z,2024-07-29T16:48:00Z,"['(Legacy) Bug', 'Duplicate']"
+2393505107,2845,[BUG] Shiny Zubat's back sprite uses incorrect pallete,closed,2024-07-06T10:13:55Z,2024-07-29T17:17:17Z,"['(Legacy) Bug', 'Sprite/Animation']"
+2393502096,2844,[BUG] Managing 2-Move Starter's Move Crashes the Game,closed,2024-07-06T10:04:20Z,2024-08-27T21:59:56Z,['(Legacy) Bug']
+2393158827,2821,[BUG] pokemon.getMoveEffectiveness will not consider your own abilities that affect type effectiveness,closed,2024-07-05T21:25:16Z,2024-08-26T02:37:26Z,['(Legacy) Bug']
+2392977621,2817,[BUG] Cannot choose yes or no option after catching Pokémon,closed,2024-07-05T18:07:32Z,2024-07-05T18:08:07Z,['(Legacy) Bug']
+2392870686,2815,[Feature] Ability Swap for evolved Pokemons,closed,2024-07-05T16:18:58Z,2024-07-05T17:13:24Z,[]
+2392860420,2814,[BUG] - Double single battle,closed,2024-07-05T16:09:42Z,2024-07-25T06:35:45Z,['(Legacy) Bug']
+2392850187,2812,[Feature] IV Scanner QoL,closed,2024-07-05T16:01:03Z,2024-08-18T09:30:06Z,[]
+2392829740,2811,[BUG] Tangled Feet does not raise evasiveness (On fusion),closed,2024-07-05T15:44:25Z,2024-07-05T16:03:42Z,['(Legacy) Bug']
+2391674421,2798,[BUG] Dark / Flying Dual Type incorrect weaknesses,closed,2024-07-05T02:53:38Z,2024-07-05T15:32:32Z,['(Legacy) Bug']
+2391626799,2796,[BUG] Clear Smog does not visually reset Accuracy to 0,open,2024-07-05T01:42:25Z,,"['UI/UX', 'P3 Bug']"
+2391606237,2794,[BUG] Encore causes same-move fail in Double Battle on target swap,closed,2024-07-05T01:12:22Z,2024-08-28T01:08:07Z,['(Legacy) Bug']
+2390933568,2790,[BUG] Metronome calling Beak Blast hardlocks the game,closed,2024-07-04T13:53:12Z,2024-08-28T01:10:54Z,['(Legacy) Bug']
+2389768384,2783,[BUG] Starter Cosplay Pikachu are missing thier signature move ,closed,2024-07-04T01:58:08Z,2024-08-27T20:11:30Z,['(Legacy) Bug']
+2389621080,2780,[BUG] [Question] Rare candy used on fainted pokemon,closed,2024-07-03T22:55:23Z,2024-07-03T23:08:37Z,['(Legacy) Bug']
+2389486396,2778,[BUG] SacrificialAttrOnHit moves faints the user even if the move does not hit. ,closed,2024-07-03T21:07:43Z,2024-07-05T04:42:42Z,['(Legacy) Bug']
+2389265048,2775,[BUG] Commiting in GitHub Desktop causes node error,closed,2024-07-03T19:05:54Z,2024-07-05T16:16:36Z,['(Legacy) Bug']
+2388622862,2769,[BUG] Revival Blessing Breaks Double Battles,open,2024-07-03T13:23:58Z,,"['Move', 'P1 Bug']"
+2388067858,2767,[BUG] Beat Up deals no damage with the additional hits from Multi-Lens,closed,2024-07-03T08:54:31Z,2024-08-05T05:25:11Z,['(Legacy) Bug']
+2386698251,2758,[BUG] Sketch copies move from previous turn even if Smeargle moves second,closed,2024-07-02T16:35:22Z,2024-07-30T14:16:03Z,['(Legacy) Bug']
+2386366405,2756,[BUG] Incorrect displayed type effectiveness for Sheer Cold vs. an Ice type,closed,2024-07-02T14:06:58Z,2024-07-02T16:20:46Z,"['(Legacy) Bug', 'Move', 'UI/UX']"
+2385243413,2751,[Feature] Is there a way to include summaries as an option for looking at pokemon in the main menu,open,2024-07-02T05:09:24Z,,['Enhancement']
+2385158405,2750,[Feature] Double battle save target,open,2024-07-02T04:05:52Z,,['Enhancement']
+2384641667,2744,[BUG] Shiny display on team select screen,closed,2024-07-01T20:05:05Z,2024-08-25T00:24:42Z,['(Legacy) Bug']
+2384238693,2741,[Feature] Local Co-op Multiplayer,open,2024-07-01T16:18:19Z,,"['Enhancement', 'Game Balance']"
+2384183441,2740,"[BUG] Arena traps (spikes, stealth rock, etc.) do not proc on transition to a double battle",closed,2024-07-01T15:49:10Z,2024-12-18T03:08:19Z,['Duplicate']
+2382827825,2736,[BUG] Game Crashes If Wild Tries to Steal a Thick Club,closed,2024-07-01T05:03:21Z,2024-07-02T14:31:30Z,"['(Legacy) Bug', 'Item']"
+2382754505,2735,[BUG] Hazard moves (Spikes etc.) incorrectly require targets,open,2024-07-01T04:04:51Z,,"['Move', 'P2 Bug']"
+2382304092,2725,[BUG] 3 Legendary Eggs and 3 terapagos in a row.,closed,2024-06-30T15:25:11Z,2024-07-02T16:36:30Z,['(Legacy) Bug']
+2382055116,2717,[BUG] BGM audio is not consistent in volume anymore,closed,2024-06-30T02:39:41Z,2024-07-01T23:22:15Z,['(Legacy) Bug']
+2381898128,2709,[BUG] Player is able to catch pokemon during fly/dig/dive,closed,2024-06-29T18:14:45Z,2024-07-16T15:02:53Z,"['(Legacy) Bug', 'Invalid']"
+2381897590,2708,[Feature] [Challenge] EEVEE_ONLY,open,2024-06-29T18:12:44Z,,['Enhancement']
+2381886905,2707,[BUG] Color Change & Trace Game Crash,closed,2024-06-29T17:50:39Z,2024-10-10T15:41:37Z,"['Move', 'Ability', 'P1 Bug']"
+2381571059,2704,.,closed,2024-06-29T08:00:04Z,2024-06-29T08:39:27Z,['(Legacy) Bug']
+2381430646,2701,[BUG] My t2+ shinies dont appear shiny,open,2024-06-29T03:16:38Z,,"['(Legacy) Bug', 'Sprite/Animation']"
+2381426800,2700,[BUG] My t2+ shinies dont appear shiny,closed,2024-06-29T03:08:40Z,2024-06-29T03:39:06Z,['(Legacy) Bug']
+2381243152,2694,[Feature] Implement Synchronize,closed,2024-06-28T21:43:31Z,2024-09-27T03:14:55Z,"['Enhancement', 'Ability']"
+2381192151,2693,[BUG] Eternatus Candy Count Does Not Display Properly On Starter Screen,closed,2024-06-28T21:00:18Z,2024-08-26T07:52:22Z,"['(Legacy) Bug', 'Question']"
+2380985722,2689,[BUG] Some POST_APPLY moves are applying effects through protect,closed,2024-06-28T18:48:28Z,2024-08-18T09:31:17Z,"['(Legacy) Bug', 'Move']"
+2380533954,2683,Mimikyu Common Shiny Sprite Inconsistency [BUG],closed,2024-06-28T14:10:44Z,2024-06-29T17:54:03Z,['Miscellaneous']
+2379588001,2680,[BUG] U-turn incorrectly applies some effects to the switched in Pokemon,closed,2024-06-28T05:08:33Z,2024-08-18T09:34:35Z,['(Legacy) Bug']
+2379407434,2675,[BUG] Unable to catch imposter ditto in spliced mode,closed,2024-06-28T02:00:48Z,2024-11-10T05:39:07Z,['(Legacy) Bug']
+2379212094,2671,[BUG] Ceaseless Edge does not set up multiple layers of spikes with Multi Lens,closed,2024-06-27T22:44:29Z,2024-07-27T15:40:18Z,"['(Legacy) Bug', 'Move']"
+2379082284,2668,[BUG] Boss-bar sections inconsistent in endless mode DOUBLE-BATTLE,closed,2024-06-27T20:58:28Z,2024-06-27T23:55:29Z,"['(Legacy) Bug', 'Game Balance']"
+2378904124,2665,[BUG] Sheer Cold not K.O.ing,closed,2024-06-27T19:04:41Z,2024-06-29T19:58:59Z,"['(Legacy) Bug', 'Move']"
+2378363454,2661,[BUG] getFusionSpeciesForm() returning undefined (Sigitto),open,2024-06-27T14:42:46Z,,"['Miscellaneous', 'P3 Bug']"
+2377651717,2657,"[BUG] Weird, truncated sound cue when hatching eggs, even when muted",open,2024-06-27T09:32:29Z,,"['(Legacy) Bug', 'UI/UX']"
+2377610016,2655,[BUG] Accuracy lowered with wide lens?,closed,2024-06-27T09:15:05Z,2024-06-27T10:43:34Z,['(Legacy) Bug']
+2377144121,2651,[BUG] weather get covered but shouldnt be,closed,2024-06-27T05:09:46Z,2024-07-29T17:29:33Z,"['(Legacy) Bug', 'Invalid']"
+2377081972,2646,[FEATURE] Move items before release,closed,2024-06-27T04:18:39Z,2024-07-25T06:34:00Z,['Enhancement']
+2376805415,2643,[BUG] Psychic surge ability does not activate on game reload ,open,2024-06-27T03:19:09Z,,"['(Legacy) Bug', 'Ability']"
+2376687660,2641,[BUG] Inconsistencies with multi lens,closed,2024-06-27T02:53:27Z,2024-07-27T23:13:58Z,"['(Legacy) Bug', 'Item']"
+2376532704,2636,[BUG] Transforms and imposter copy the foe's HP when they shouldn't.,closed,2024-06-27T01:36:02Z,2024-08-26T08:04:21Z,"['(Legacy) Bug', 'Ability']"
+2376524616,2635,[BUG] Imposters breaks the game,closed,2024-06-27T01:25:35Z,2024-11-10T05:39:07Z,"['(Legacy) Bug', 'Ability']"
+2376397886,2632,[BUG] Multi Hit Lens No Longer Triggers On Earthquake ,closed,2024-06-26T22:50:10Z,2024-06-27T06:03:01Z,"['(Legacy) Bug', 'Move', 'Item']"
+2376370353,2629,"[BUG] ""Tidy Up"" stat raise is influenced by saving & loading sessions",closed,2024-06-26T22:21:42Z,2024-06-27T13:54:38Z,"['(Legacy) Bug', 'Move']"
+2375972848,2621,[BUG] Aftermath triggers when the aftermath mon uses explosion or self-destruct,open,2024-06-26T18:07:53Z,,"['Ability', 'P1 Bug']"
+2375280724,2620,[BUG][modifier-select-ui-handler] Position of cursor is hard-coded so it's hard to localize,closed,2024-06-26T13:00:26Z,2024-07-25T00:31:15Z,"['(Legacy) Bug', 'UI/UX']"
+2374331373,2615,[BUG]Primal Groudon's Desolate Land didnt work with Golduck's'Cloud Nine,closed,2024-06-26T05:37:58Z,2024-06-26T17:10:41Z,['(Legacy) Bug']
+2374304851,2614,[BUG] Wave stopped after clear wave at korean language spec,open,2024-06-26T05:13:15Z,,"['Miscellaneous', 'P3 Bug']"
+2373917020,2609,[BUG]E4 Lucian dialogue typo,closed,2024-06-26T00:30:35Z,2024-06-26T03:56:10Z,['(Legacy) Bug']
+2373915107,2608,[BUG] Splicing together an alive and a fainted pkmn will result in the fusion being alive (at avaraged HP) but displying FNT status,open,2024-06-26T00:29:37Z,,"['Miscellaneous', 'P3 Bug']"
+2373914421,2607,[Feature] Add Battle Log,open,2024-06-26T00:29:16Z,,"['Enhancement', 'UI/UX']"
+2373273780,2599,[BUG] Substitute Sprite doesn't get called during the Egg Hatch Phase.,closed,2024-06-25T17:42:04Z,2024-12-01T18:07:49Z,"['Miscellaneous', 'P1 Bug']"
+2372720575,2593,[BUG] Some event don't stack properly (Here beast boost/mystical fire),closed,2024-06-25T13:34:02Z,2024-06-25T13:48:22Z,['(Legacy) Bug']
+2372654379,2591,[BUG] Game Crash when using Primal Groudon on Firefox.,closed,2024-06-25T13:06:37Z,2024-09-03T17:25:14Z,"['(Legacy) Bug', 'Question', 'Miscellaneous']"
+2372388273,2588,[BUG] NO CANDIES FROM HATCHING EGGS,closed,2024-06-25T11:03:01Z,2024-06-27T20:14:37Z,['(Legacy) Bug']
+2371303934,2577,Pokerogue Type advantage fighting to steel,closed,2024-06-24T23:35:47Z,2024-06-24T23:56:20Z,['(Legacy) Bug']
+2371209999,2575,[BUG] leader lino in badlands-180 infinite battle,closed,2024-06-24T22:22:17Z,2024-06-25T06:09:24Z,['(Legacy) Bug']
+2370868505,2569,[BUG]: Hard/Softlock when round starts or opening certain eggs,closed,2024-06-24T18:40:41Z,2024-07-24T20:13:36Z,"['(Legacy) Bug', 'Miscellaneous']"
+2370778258,2567,"[BUG] Rhyperior ""Solid Rock"" don't work with passive ""Filter"" up",closed,2024-06-24T17:45:36Z,2024-06-25T15:59:41Z,['(Legacy) Bug']
+2370468190,2564,[BUG] Transform doesn't update stats changes on time on time,closed,2024-06-24T14:56:39Z,2024-10-23T15:12:55Z,"['(Legacy) Bug', 'Move']"
+2369312771,2558,[BUG] Disguise doesn't work?,closed,2024-06-24T06:11:13Z,2024-06-26T02:46:45Z,['(Legacy) Bug']
+2368014486,2524,[BUG] Arena Trap dialog prompt doesn't disappear,closed,2024-06-22T20:41:19Z,2024-08-18T09:23:51Z,"['(Legacy) Bug', 'UI/UX']"
+2368008049,2523,[BUG] Lures when stacked,closed,2024-06-22T20:24:16Z,2024-06-24T19:26:48Z,['(Legacy) Bug']
+2367997245,2522,[Feature] I wish there was a function to find the password,closed,2024-06-22T19:57:23Z,2024-06-22T20:02:00Z,['Invalid']
+2367850765,2515,[Feature] Weather Rocks and Terrain Extenders,open,2024-06-22T14:29:45Z,,"['Enhancement', 'Item']"
+2367732012,2511,[Feature] Warn player when rebinding keyboard keys that are already in use,open,2024-06-22T10:25:28Z,,"['Enhancement', 'UI/UX']"
+2367727034,2510,"[Feature] Allow opening ""Show stats"" and Active Battle Effects/move tracking with one button",open,2024-06-22T10:10:10Z,,"['Enhancement', 'UI/UX']"
+2367723409,2508,[BUG] Money did not increase in endless mode.,closed,2024-06-22T09:59:35Z,2024-06-22T11:21:13Z,"['(Legacy) Bug', 'Invalid']"
+2367288892,2495,[Feature] Change/Remove breeders in certain biomes,closed,2024-06-21T21:47:41Z,2024-07-24T20:14:13Z,['Enhancement']
+2366803337,2491,[Feature] Accessibility: option to turn off flash from OHKO moves and perish song ,closed,2024-06-21T15:45:26Z,2024-07-07T00:23:42Z,['Enhancement']
+2366536736,2490,[BUG] Chrome is absolutely wrecked after installing this,closed,2024-06-21T13:19:45Z,2024-07-25T06:34:44Z,['(Legacy) Bug']
+2366130193,2488,[BUG] Confusion damage occurs too early,closed,2024-06-21T09:32:19Z,2024-07-24T18:00:17Z,['(Legacy) Bug']
+2365932249,2484,Dachsbun's Well Baked Body[BUG],closed,2024-06-21T07:43:05Z,2024-06-22T20:21:30Z,['(Legacy) Bug']
+2365810375,2481,[BUG] Spliced Transform,closed,2024-06-21T06:23:35Z,2024-11-10T05:39:06Z,"['Move', 'Ability', 'P1 Bug']"
+2365774700,2480,[BUG] Wind rider test fails,closed,2024-06-21T05:55:38Z,2024-06-21T05:57:54Z,['(Legacy) Bug']
+2365770408,2479,[BUG] Ice Face test error,closed,2024-06-21T05:51:47Z,2024-06-21T15:01:46Z,['(Legacy) Bug']
+2365527288,2472,[BUG] CORS policy error,closed,2024-06-21T01:33:10Z,2024-07-24T06:23:34Z,['(Legacy) Bug']
+2365518449,2471,[BUG] SERVER DOWN,closed,2024-06-21T01:21:34Z,2024-06-21T01:54:31Z,['(Legacy) Bug']
+2365406352,2469,[BUG] Lum berry (sometimes?) triggers after status damage on switch-in,open,2024-06-20T23:05:31Z,,['(Legacy) Bug']
+2365393812,2468,[BUG] Night Shade is unaffected by multi hit lens ,closed,2024-06-20T22:50:01Z,2024-06-20T23:12:46Z,['(Legacy) Bug']
+2365254782,2467,[BUG] Golden Punch does not trigger twice on moves that hit more than 1 Pokemon.,open,2024-06-20T20:56:39Z,,['(Legacy) Bug']
+2364967762,2464,[BUG] Thousand Arrows grounds the opponent without being used,closed,2024-06-20T17:54:42Z,2024-06-21T15:45:44Z,"['(Legacy) Bug', 'Move']"
+2364668538,2458,[Feature] Move the fusion symbol for non-leader on the team screen,closed,2024-06-20T14:59:41Z,2024-06-23T09:25:37Z,[]
+2364373641,2453,[Feature] Egg Hatching Time in Pockerogue Game is Too Time-Consuming,closed,2024-06-20T12:53:54Z,2024-06-20T13:20:06Z,[]
+2364339267,2452,[Feature] Fusion sprite,closed,2024-06-20T12:37:41Z,2024-07-29T19:41:30Z,['Enhancement']
+2364160178,2450,[BUG] Egg gets stuck on white screen,closed,2024-06-20T11:03:53Z,2024-06-21T17:38:58Z,['(Legacy) Bug']
+2363959087,2449,Closed,closed,2024-06-20T09:22:12Z,2024-06-20T14:53:53Z,['(Legacy) Bug']
+2363844708,2448,[BUG] Poison Heal blocks indirect damage,closed,2024-06-20T08:26:45Z,2024-06-20T19:10:48Z,['(Legacy) Bug']
+2363819476,2447,[BUG] Sand attack affected by levitate,closed,2024-06-20T08:14:36Z,2024-08-12T16:27:30Z,['(Legacy) Bug']
+2363490760,2439,[BUG] Sheer Force flyout shows up with improper timing,closed,2024-06-20T04:38:08Z,2024-07-24T18:01:12Z,['(Legacy) Bug']
+2363479550,2438,[BUG] Sometimes npm run test:silent failed irregularly.,closed,2024-06-20T04:26:10Z,2024-06-20T10:13:13Z,['(Legacy) Bug']
+2363371639,2434,"[BUG] Terastallizing messes with either STAB or the ability ""Adaptability""",closed,2024-06-20T02:17:51Z,2024-06-20T04:29:21Z,['(Legacy) Bug']
+2363357625,2433,[Enhancement] Add dependabot,closed,2024-06-20T02:01:38Z,2024-09-25T14:07:06Z,['Enhancement']
+2363288404,2430,[BUG] Partner Pikachu evolves into Raichu.,closed,2024-06-20T00:25:25Z,2024-06-20T00:34:33Z,['(Legacy) Bug']
+2363272625,2429,[BUG] Low Sweep boss attack,closed,2024-06-20T00:08:24Z,2024-06-20T00:15:12Z,['(Legacy) Bug']
+2363262501,2427,"[Feature] Skip repeated dialog when Pokemon Endure or Protect more than 1 hit, ",closed,2024-06-19T23:53:43Z,2024-07-29T17:43:01Z,['Enhancement']
+2363236709,2426,[Feature] Add Hold Item Descriptions,open,2024-06-19T23:17:11Z,,['Enhancement']
+2363232276,2425,[BUG] Using Dive in Double-Battle Causes Replay of Dive Next Battle ,closed,2024-06-19T23:09:39Z,2024-09-14T08:26:40Z,['Duplicate']
+2363232113,2424,[BUG] Game Result is not Saved,closed,2024-06-19T23:09:24Z,2024-07-24T06:25:58Z,['(Legacy) Bug']
+2363181475,2422,[BUG] Game Settings not saved,closed,2024-06-19T22:00:00Z,2024-07-02T16:39:39Z,['(Legacy) Bug']
+2363169157,2420,[Feature] More undefined safety checks,closed,2024-06-19T21:46:08Z,2024-07-25T06:28:54Z,['Enhancement']
+2363133378,2418,[BUG] Delta stream only triggering if end result is super effective,closed,2024-06-19T21:09:48Z,2024-07-24T18:01:50Z,['(Legacy) Bug']
+2362747145,2414,[BUG] event text bug with Korean i18n in the battle.,closed,2024-06-19T16:20:52Z,2024-06-19T21:47:42Z,['(Legacy) Bug']
+2361975383,2402,[Feature] Rework berries (and other consumables),open,2024-06-19T10:23:31Z,,['Enhancement']
+2361740515,2400,[BUG] Fusions display dark pokeball icon,open,2024-06-19T08:37:45Z,,['(Legacy) Bug']
+2361517834,2398,[BUG] The Legendary egg I had is gone.,closed,2024-06-19T07:11:31Z,2024-07-24T06:26:48Z,['(Legacy) Bug']
+2361111911,2394,[BUG]When wild Pokemon use 'return' at weather 'Sunny' game stops,closed,2024-06-19T02:31:46Z,2024-07-02T16:40:26Z,['(Legacy) Bug']
+2360818730,2389,[BUG] Delta stream not stopping after being suppresed,open,2024-06-18T22:06:55Z,,"['Move', 'Ability', 'P2 Bug']"
+2360667969,2388,[BUG] Ice face cancelling Multi hit attacks,closed,2024-06-18T20:37:38Z,2024-06-19T02:56:45Z,['(Legacy) Bug']
+2360607814,2387,Pokemon fainted by destiny bond opens pokemon change screen after shop[BUG],closed,2024-06-18T20:01:06Z,2024-08-24T00:43:47Z,['(Legacy) Bug']
+2360533921,2386,starter selection cost[BUG],closed,2024-06-18T19:17:53Z,2024-07-23T23:41:08Z,['(Legacy) Bug']
+2360517564,2383,[Feature] Fusion Names Overhaul,open,2024-06-18T19:07:46Z,,['Enhancement']
+2360328843,2382,[BUG] Friendly King’s Shield move lowers other Friendly Pokémon’s Attack in double battle when both friendlies are hit by opposing Pokémon’s Breaking Swipe,closed,2024-06-18T17:09:43Z,2024-07-27T23:16:16Z,['(Legacy) Bug']
+2360319194,2381,[BUG] 9세대 몬스터 그래픽이 깨졌는데 안고쳐집니다,closed,2024-06-18T17:03:46Z,2024-06-19T22:09:34Z,['(Legacy) Bug']
+2360215157,2378,[BUG] Wind Rider ability does not provide immunity,closed,2024-06-18T16:03:40Z,2024-06-18T16:19:33Z,['(Legacy) Bug']
+2359992133,2376,[BUG] Getting hit by hail triggers enigma berry,closed,2024-06-18T14:20:56Z,2024-07-23T23:45:32Z,['(Legacy) Bug']
+2358982658,2369,[BUG] Unlocked Egg Moves Changed after Beating Classic Mode for the First Time,closed,2024-06-18T06:00:25Z,2024-06-18T06:03:55Z,['(Legacy) Bug']
+2358793497,2363,[BUG] Mono Gen Challenge And Evolution,closed,2024-06-18T03:23:51Z,2024-06-18T03:26:57Z,['(Legacy) Bug']
+2358695843,2357,[Feature] Reveal your Pokémon line-up when you clear Classic Mode ,closed,2024-06-18T02:06:25Z,2024-09-03T17:21:08Z,['Enhancement']
+2358568151,2354,[BUG] Sheer Force edge cases,closed,2024-06-18T00:42:19Z,2024-12-01T04:34:17Z,"['Ability', 'P2 Bug']"
+2358558615,2353,[Enhancement] Deprecated packages,closed,2024-06-18T00:33:01Z,2024-08-07T21:34:55Z,['(Legacy) Bug']
+2358552959,2352,[BUG] HP not displaying correctly after evolution,closed,2024-06-18T00:27:44Z,2024-09-03T17:21:19Z,['(Legacy) Bug']
+2358044903,2347,[BUG] Arena flyout not reflecting spite/eerie spell correctly,closed,2024-06-17T19:04:13Z,2024-08-24T03:10:36Z,['(Legacy) Bug']
+2357821039,2344,[Feature] Starter Variable IVs,open,2024-06-17T17:06:19Z,,['Enhancement']
+2356743279,2330,[Docs] Inconsistencies in healing moves and abilities,open,2024-06-17T08:34:06Z,,['Enhancement']
+2356344297,2319,"[Feature] Reduce UI size AND hide ""Items"" behind a popout menu like ""Active Battle Effects""",open,2024-06-17T04:36:17Z,,['Enhancement']
+2356333127,2318,[BUG] Black Pixels appear over Wo-Chien back sprite during battle,closed,2024-06-17T04:26:35Z,2024-08-18T22:57:25Z,['(Legacy) Bug']
+2356314804,2317,[Feature] Check IVs in Summary,closed,2024-06-17T04:10:04Z,2024-06-17T21:16:30Z,['Enhancement']
+2355991075,2313,[BUG] Delta Stream not activating on refresh and second slot,open,2024-06-16T21:28:18Z,,"['(Legacy) Bug', 'Ability']"
+2355978374,2312,[BUG]업적 보상 미지급,closed,2024-06-16T21:04:56Z,2024-06-16T23:44:01Z,['(Legacy) Bug']
+2355515097,2290,[Feature]More Uses For Candy,closed,2024-06-16T07:51:29Z,2024-06-16T23:45:17Z,['Enhancement']
+2355448199,2286,[BUG] icon of shiny sentret is wrong,closed,2024-06-16T05:57:28Z,2024-07-02T16:41:20Z,['(Legacy) Bug']
+2355416310,2283,[BUG] Can move starter selection while managing moves for a selected Pokémon,closed,2024-06-16T04:35:04Z,2024-07-24T06:19:08Z,"['(Legacy) Bug', 'Duplicate']"
+2354966008,2260,[BUG] Black screen at new game after certain manipulations,closed,2024-06-15T15:52:22Z,2024-06-16T02:30:49Z,['(Legacy) Bug']
+2354851823,2259,[BUG?] Shiny Charm may be bugged during shiny events,closed,2024-06-15T13:19:58Z,2024-06-15T13:34:16Z,['(Legacy) Bug']
+2354608690,2247,[Feature] Hotkey to reroll rewards,closed,2024-06-15T07:08:41Z,2024-10-14T05:22:51Z,['Enhancement']
+2354287353,2241,[BUG] Stored Power TM learnset is incorrect,closed,2024-06-15T00:21:08Z,2024-07-24T06:19:48Z,['(Legacy) Bug']
+2354280537,2237,[BUG] Super-fang is not affected by multi-lens despite being a damage dealing attack,closed,2024-06-15T00:08:11Z,2024-07-24T14:06:23Z,['(Legacy) Bug']
+2354277628,2234,[BUG] Sturdy does not reset itself if you heal back to full hp after tanking a hit,closed,2024-06-15T00:02:25Z,2024-07-24T06:04:49Z,['(Legacy) Bug']
+2354268521,2233,[BUG] Frisked abilities does not set the revealedAbility flag,closed,2024-06-14T23:53:11Z,2024-06-15T00:18:22Z,['(Legacy) Bug']
+2354223849,2232,[BUG] Sprites broke down and pulled the wrong ones,closed,2024-06-14T23:17:53Z,2024-06-16T23:49:39Z,['(Legacy) Bug']
+2354001968,2223,Pokerogue Ability Display [Maybe a BUG],closed,2024-06-14T19:58:04Z,2024-06-16T23:45:55Z,['(Legacy) Bug']
+2353990413,2220,Togedemaru sprite glitch[BUG],closed,2024-06-14T19:49:35Z,2024-06-16T23:46:09Z,['(Legacy) Bug']
+2353851538,2209,[BUG] Stuck in Ice Cave on Endless,closed,2024-06-14T18:07:55Z,2024-06-16T23:46:48Z,['(Legacy) Bug']
+2353804151,2208,[BUG],closed,2024-06-14T17:32:04Z,2024-07-24T06:20:13Z,['(Legacy) Bug']
+2353756544,2205,[BUG]can not continue the game,closed,2024-06-14T16:56:15Z,2024-06-14T19:02:27Z,['(Legacy) Bug']
+2353647928,2203,[BUG] voucher cheating,closed,2024-06-14T15:48:50Z,2024-06-16T18:46:30Z,['(Legacy) Bug']
+2353542211,2202,[Feature] Batch hatching/skipping option plus customizable options for it.,closed,2024-06-14T14:48:11Z,2024-10-14T05:24:03Z,['Enhancement']
+2353401127,2201,[BUG] Softlock after releasing lead mid battle.,closed,2024-06-14T13:33:57Z,2024-09-03T17:31:28Z,['(Legacy) Bug']
+2352536698,2196,[BUG] Max Mushrooms and Mega Not Both Functional,closed,2024-06-14T05:23:20Z,2024-07-30T05:01:02Z,['(Legacy) Bug']
+2352296163,2193,[BUG] PokeRouge presses the A button repeatedly sometimes,closed,2024-06-14T01:16:34Z,2024-07-23T19:04:33Z,"['(Legacy) Bug', 'Duplicate']"
+2352247688,2191,[Feature] Saved Starter Pokemon Teams + Default Abilties/Natures/etc,closed,2024-06-14T00:13:13Z,2024-06-17T22:22:34Z,['Enhancement']
+2352235064,2190,[BUG] Soft lock after roar on double battle. Video & console logs provided.,closed,2024-06-13T23:57:19Z,2024-08-18T09:38:16Z,['(Legacy) Bug']
+2352113841,2186,[Feature] Support for numpad keys on mobile,open,2024-06-13T21:41:49Z,,['Enhancement']
+2351692548,2180,[Feature] Add scroll for starter select ui,closed,2024-06-13T17:23:20Z,2024-07-24T20:09:42Z,['Enhancement']
+2350964884,2173,[BUG] Softlocked after choosign reward,closed,2024-06-13T12:01:52Z,2024-06-13T13:17:23Z,['(Legacy) Bug']
+2350786708,2172,[BUG] Incorrect cursor wrapping in audio settings,closed,2024-06-13T10:30:31Z,2024-06-13T16:02:38Z,['(Legacy) Bug']
+2349819469,2156,[Feature] Move egg list and egg gacha in menu,open,2024-06-12T23:09:45Z,,['Enhancement']
+2349601202,2151,[BUG] Reviving using Reviver Seed while transformed resets the transform but doesn't update the sprite ,closed,2024-06-12T20:11:27Z,2024-06-12T22:08:16Z,['(Legacy) Bug']
+2349477364,2148,[BUG] Scrappy ability procs outside of battle,closed,2024-06-12T18:51:35Z,2024-06-12T20:02:30Z,['(Legacy) Bug']
+2349411496,2144,[BUG] Game does not progress after Honey Gather triggers when catching Combee,closed,2024-06-12T18:09:38Z,2024-07-02T16:43:16Z,['(Legacy) Bug']
+2349221309,2140,[Feature] Changes to late classic mode Rival. (SPOILERS),closed,2024-06-12T16:41:29Z,2024-09-03T17:22:24Z,['Enhancement']
+2349157893,2138,[Feature] Ribbons for Challenge Run Wins,open,2024-06-12T16:10:12Z,,['Enhancement']
+2348745449,2131,[BUG] Eiscue causes a bug.,closed,2024-06-12T13:12:07Z,2024-06-12T13:58:31Z,['(Legacy) Bug']
+2348613581,2128,Password issues,closed,2024-06-12T12:10:30Z,2024-06-12T12:20:38Z,['(Legacy) Bug']
+2348530636,2126,"[BUG] Missing Token when fetching ""account/info""",closed,2024-06-12T11:27:29Z,2024-06-15T14:10:47Z,['(Legacy) Bug']
+2348063768,2123,[BUG] Water absorb activating on every multi-hit strike,closed,2024-06-12T07:45:49Z,2024-06-13T18:23:14Z,['(Legacy) Bug']
+2347994179,2119,[BUG]Graphical bug on level up screen,closed,2024-06-12T07:09:57Z,2024-06-16T18:47:06Z,"['(Legacy) Bug', 'Duplicate']"
+2347852763,2118,[Feature] Save targets for double battles,open,2024-06-12T05:39:02Z,,['Enhancement']
+2347777398,2116,[BUG] Mono-Gen soft-lock: catching new Pokemon of wrong gen when all others are fainted,closed,2024-06-12T04:27:23Z,2025-01-20T06:22:02Z,['(Legacy) Bug']
+2347574813,2113,Regarding the Aesthetic Issue of the New Simplified Chinese Font[Feature],closed,2024-06-12T01:27:54Z,2024-07-25T03:11:14Z,['Enhancement']
+2347352324,2107,[BUG] Entry hazards sometimes not triggering on switched in pokemon,closed,2024-06-11T21:38:06Z,2024-06-12T07:04:58Z,['(Legacy) Bug']
+2347337418,2106,Xbox Controllers are Disconnecting from PC shortly after Booting Game[BUG],open,2024-06-11T21:26:19Z,,['(Legacy) Bug']
+2347153050,2103,[Feature] Start the game with both male and female starter pokemon,closed,2024-06-11T19:39:57Z,2024-09-02T19:44:17Z,['Enhancement']
+2346698464,2095,[Feature] More dialogue for evil team grunts,closed,2024-06-11T15:16:47Z,2024-08-09T18:00:56Z,['Enhancement']
+2346598674,2093,[BUG] Mismatch in code between BST and actual stats for some Pokemon,closed,2024-06-11T14:34:03Z,2024-06-12T01:40:01Z,['(Legacy) Bug']
+2346171735,2089,[BUG] Text rendering issues,closed,2024-06-11T11:27:56Z,2024-06-16T23:48:07Z,['(Legacy) Bug']
+2346054207,2086,[BUG],closed,2024-06-11T10:30:52Z,2024-06-11T10:45:08Z,['(Legacy) Bug']
+2345839012,2085,[BUG] Purifying Salt not working as advertised,closed,2024-06-11T09:09:08Z,2024-06-11T15:53:23Z,['(Legacy) Bug']
+2345715743,2083,"About the ""Settings"" interface of the Chinese work",closed,2024-06-11T08:15:17Z,2024-07-24T17:45:33Z,['Enhancement']
+2345608573,2080,Snowscape.json missing [BUG],closed,2024-06-11T07:23:36Z,2024-07-29T17:28:44Z,['(Legacy) Bug']
+2345596291,2079,[BUG]Pokemon cost for poor people :D,closed,2024-06-11T07:18:07Z,2024-07-24T06:14:57Z,['(Legacy) Bug']
+2345404087,2074,[BUG] Pokemon sprites messed up in GEN 1 starter selection screen.,closed,2024-06-11T05:08:16Z,2024-06-11T08:20:53Z,['(Legacy) Bug']
+2345383281,2073,[BUG] potential memory leak,closed,2024-06-11T04:50:01Z,2024-06-20T16:48:23Z,['(Legacy) Bug']
+2345365362,2072,Failed to update games. [BUG] ,closed,2024-06-11T04:33:12Z,2024-06-11T10:46:18Z,['(Legacy) Bug']
+2345258238,2069,[Feature] add a code formatter (please!),closed,2024-06-11T02:51:34Z,2024-07-24T06:15:15Z,"['Enhancement', 'Help Wanted']"
+2344783370,2061,"[BUG] Soft lock if you press Start to bring up the menu during the ""Will you switch Pokémon"" prompt",closed,2024-06-10T20:37:06Z,2024-06-11T02:18:08Z,['(Legacy) Bug']
+2344778231,2060,[BUG] Power Construct not selectable on starter screen after it has been hatched from an egg,closed,2024-06-10T20:34:09Z,2024-07-02T16:43:53Z,['(Legacy) Bug']
+2344695060,2056,[BUG] Pikachu forms can hold Max Mushroom,closed,2024-06-10T19:40:16Z,2024-08-27T20:09:45Z,['(Legacy) Bug']
+2344607614,2052,[BUG] Major Loss of data on my account,closed,2024-06-10T18:48:01Z,2024-07-24T06:16:10Z,['(Legacy) Bug']
+2344598169,2050,[BUG] Starter selection cycling options text missing,closed,2024-06-10T18:42:44Z,2024-07-30T05:11:26Z,['(Legacy) Bug']
+2343611651,2040,[BUG] Lucky Egg and Golden Egg stack multiplicatively instead of additively,closed,2024-06-10T11:06:02Z,2024-07-22T23:00:17Z,['(Legacy) Bug']
+2343532801,2038,[Feature] Adding spike count to field flyout.,closed,2024-06-10T10:25:23Z,2024-06-19T04:29:57Z,['Enhancement']
+2343203973,2037,Eiscue causing game crash,closed,2024-06-10T08:15:39Z,2024-06-10T10:27:29Z,['(Legacy) Bug']
+2343099571,2035,[BUG] Reviver Seed freeze,closed,2024-06-10T07:33:24Z,2024-07-30T05:12:10Z,['(Legacy) Bug']
+2343006443,2033,"[BUG] ""New form"" indicator persisting for future caught Pokémon",closed,2024-06-10T06:48:33Z,2024-06-10T15:02:21Z,['(Legacy) Bug']
+2342931369,2031,[BUG] random trainers mid E4 gauntlet,closed,2024-06-10T06:04:46Z,2024-07-02T16:44:40Z,['(Legacy) Bug']
+2342673189,2026,[Feature] Turbo/hold button for egg hatching on mobile,closed,2024-06-10T01:56:00Z,2024-06-10T09:24:07Z,['Enhancement']
+2342629243,2025,[BUG] pokemon.getMoveEffectiveness knows opponent's abilities that affect type effectiveness,closed,2024-06-10T01:07:25Z,2024-06-10T17:40:01Z,['(Legacy) Bug']
+2342574091,2023,"[BUG] Private Instance - Importing Data Fails due to ""stored trainer or secret ID"" not matching",closed,2024-06-10T00:10:36Z,2024-06-10T21:16:49Z,['(Legacy) Bug']
+2342507338,2022,[BUG] Perish Song effect is not removed after switching,closed,2024-06-09T21:50:26Z,2024-06-09T21:54:08Z,['(Legacy) Bug']
+2342484577,2018,[BUG] Psychic Surge terrain not removed and re-applied when entering trainer battle,closed,2024-06-09T20:49:34Z,2024-08-24T03:31:08Z,['(Legacy) Bug']
+2342458752,2016,"[BUG] Double battle softlock v2, Not enough replacements for fainted mons",closed,2024-06-09T19:49:51Z,2024-06-10T09:24:49Z,['(Legacy) Bug']
+2342403143,2011,[BUG] Multi-target damage penalty doesn't seem to be implemented,closed,2024-06-09T17:53:31Z,2024-07-25T06:26:05Z,['(Legacy) Bug']
+2342384320,2010,[Feature] Confirmation step before restarting after changing music setting,open,2024-06-09T17:04:31Z,,['Enhancement']
+2342361188,2007,[BUG]Enemy uses Flip Turn and switches out but no pokemon comes in.,closed,2024-06-09T16:09:46Z,2024-08-19T04:06:51Z,['(Legacy) Bug']
+2342252079,2001,[BUG],closed,2024-06-09T13:27:24Z,2024-06-09T14:54:16Z,['(Legacy) Bug']
+2342228907,1998,[BUG] Save + Exit not working properly,open,2024-06-09T12:54:37Z,,['P2 Bug']
+2342221132,1997,[BUG] Baton Pass + Yawn bug,closed,2024-06-09T12:50:19Z,2024-06-12T14:19:51Z,['(Legacy) Bug']
+2342189045,1995,[BUG] Multi Lens + Outrage doesn't stop after 3 turns.,closed,2024-06-09T11:55:05Z,2024-07-27T15:39:33Z,['(Legacy) Bug']
+2342173770,1994,[BUG] Issue with Dive during a double battle against wild pokemon if you fail to catch the opponent,closed,2024-06-09T11:32:47Z,2024-11-16T20:55:39Z,"['Move', 'P2 Bug']"
+2342117538,1992,[Feature] Allow user to change controller icon set,open,2024-06-09T09:10:21Z,,['Enhancement']
+2342111910,1991,[BUG] Geomancy bug,closed,2024-06-09T08:57:36Z,2024-10-23T15:08:42Z,"['Move', 'P2 Bug']"
+2342098416,1989,[BUG] Doubles softlock,closed,2024-06-09T08:22:21Z,2024-06-09T19:52:29Z,['(Legacy) Bug']
+2342027187,1984,[BUG] Some trainers/gym leaders are missing battle music,closed,2024-06-09T05:12:13Z,2024-06-09T06:48:33Z,['(Legacy) Bug']
+2341961653,1977,[BUG]The built-in virtual key continuous input is not availabl,closed,2024-06-09T01:05:09Z,2024-06-10T08:22:34Z,['(Legacy) Bug']
+2341856299,1970,"[BUG] Game freezes if the left-side pokemon dies to effects after winning a double battle, and the next battle is a singles",closed,2024-06-08T21:24:47Z,2024-07-23T23:22:00Z,"['(Legacy) Bug', 'Duplicate']"
+2341803860,1966,[BUG] the talent **No guard** does not work.,closed,2024-06-08T19:33:23Z,2024-06-08T20:45:12Z,['(Legacy) Bug']
+2341744514,1957,[BUG] Thunderstone should be only taken by pokemon evolving with this item,open,2024-06-08T17:13:03Z,,['(Legacy) Bug']
+2341690604,1952,[BUG] Multi-Lens with healing moves heals too much,closed,2024-06-08T14:51:34Z,2024-06-09T03:53:09Z,['(Legacy) Bug']
+2341625801,1948,[BUG] SINGLE_BATTLE_OVERRIDE crashing game fighting with double trainers,closed,2024-06-08T12:05:52Z,2024-06-08T13:41:57Z,['(Legacy) Bug']
+2341611859,1947,[BUG] In Fire only challenge Im able to catch other types,closed,2024-06-08T11:23:57Z,2024-06-08T11:42:12Z,['(Legacy) Bug']
+2341322586,1932,[BUG] Egg moves do not save,closed,2024-06-08T00:46:16Z,2024-07-24T06:06:25Z,['(Legacy) Bug']
+2341211167,1925,[BUG] Localization: German name of Surskit has typo,closed,2024-06-07T21:47:13Z,2024-06-07T21:58:24Z,"['(Legacy) Bug', 'Localization']"
+2340815873,1917,Thousand Arrows super-effectiveness against certain flying types,closed,2024-06-07T16:35:29Z,2024-06-07T21:38:12Z,['(Legacy) Bug']
+2340812135,1916,Sprites disappear when both sides lose a Pokemon in a gym battle,closed,2024-06-07T16:32:40Z,2024-07-23T23:21:46Z,"['(Legacy) Bug', 'Duplicate']"
+2340803871,1915,[BUG] Infestation incorrectly interacts with Ghost-type Pokémon,closed,2024-06-07T16:26:45Z,2024-09-02T03:42:00Z,"['(Legacy) Bug', 'Move']"
+2340734241,1914,"[BUG] Users can ""create"" golden tickets via web developer tools",closed,2024-06-07T15:41:13Z,2024-07-24T06:07:03Z,['(Legacy) Bug']
+2340573967,1913,Quick optimization for the website[Feature],closed,2024-06-07T14:14:20Z,2024-07-25T05:29:12Z,['Enhancement']
+2340354157,1912,[BUG] Multiple lures with same remaining duration do not stack,closed,2024-06-07T12:37:43Z,2024-06-26T18:33:28Z,['(Legacy) Bug']
+2339717316,1904,[Feature] Add different rival pokemon,closed,2024-06-07T06:48:58Z,2024-06-08T04:11:28Z,['Enhancement']
+2339358498,1896,[BUG] Defeating No Ice Eiscue Freezes Game,closed,2024-06-07T00:29:06Z,2024-06-07T00:31:56Z,['(Legacy) Bug']
+2338906346,1887,[BUG] Shiny not able to rotate forms,closed,2024-06-06T18:27:14Z,2024-07-24T18:02:33Z,['(Legacy) Bug']
+2338711840,1879,[BUG] Selecting other pokémon is possible while Manage Moves,closed,2024-06-06T16:40:18Z,2024-07-25T05:27:47Z,['(Legacy) Bug']
+2338586293,1875,[BUG] Leftovers not working properly,closed,2024-06-06T15:47:33Z,2024-07-24T06:04:26Z,"['(Legacy) Bug', 'Duplicate']"
+2338212979,1867,[BUG] First Pokemon on Team fainting at the very end of double battle to poison/recoil causes game to softlock and eventually freeze,closed,2024-06-06T13:04:55Z,2024-07-24T06:07:56Z,"['(Legacy) Bug', 'Duplicate']"
+2338171972,1866,[Feature] Explicit policy re: Pokerogue vs. official balance,closed,2024-06-06T12:45:25Z,2024-10-10T17:32:31Z,"['Enhancement', 'Question', 'Game Balance', 'Balance Team']"
+2338130373,1865,[BUG] Cannot view TM details on mobile,closed,2024-06-06T12:24:50Z,2024-06-07T14:47:04Z,['(Legacy) Bug']
+2337852116,1862,[BUG] U-Turn vs. Flame Body ,closed,2024-06-06T09:57:30Z,2024-06-06T16:30:29Z,['(Legacy) Bug']
+2337401215,1858,[Feature] : blindness / visual impaired  Accessibility,open,2024-06-06T06:16:52Z,,['Enhancement']
+2337126041,1849,[BUG] Repeated inputs when on battery power,closed,2024-06-06T01:39:52Z,2024-06-10T08:22:25Z,['(Legacy) Bug']
+2336913601,1843,[BUG] Primordial Sea does not always trigger,open,2024-06-05T22:11:01Z,,['(Legacy) Bug']
+2336703966,1841,[BUG]cannot start the game ,closed,2024-06-05T19:43:49Z,2024-06-06T16:32:13Z,['(Legacy) Bug']
+2336489112,1835,[BUG],closed,2024-06-05T17:49:08Z,2024-06-06T16:33:19Z,['(Legacy) Bug']
+2336359111,1829,[BUG] Screen starts flashing after evolution,closed,2024-06-05T16:32:46Z,2024-07-24T06:10:12Z,['(Legacy) Bug']
+2335862876,1824,[BUG]The game save exits to the main menu.,closed,2024-06-05T13:08:23Z,2024-06-06T04:40:42Z,['(Legacy) Bug']
+2335151031,1818,"[Feature] Hide items by default, show them with controller / keyboard button hold / press",open,2024-06-05T07:44:50Z,,['Enhancement']
+2335140758,1817,[Feature] Add Day/Night cycle icon,closed,2024-06-05T07:39:35Z,2024-06-06T03:57:56Z,['Enhancement']
+2335007915,1816,[BUG] Metal Burst fails ,closed,2024-06-05T06:23:50Z,2024-07-24T20:07:40Z,['(Legacy) Bug']
+2334694946,1812,[Feature] Offline Mode,closed,2024-06-05T01:16:06Z,2024-06-07T09:13:56Z,['Enhancement']
+2334639372,1811,[Feature] add offline progress import,closed,2024-06-05T00:50:20Z,2024-06-05T01:06:28Z,['Enhancement']
+2334550168,1810,[QoL] Remember the last nature picked for each specie,closed,2024-06-04T23:34:43Z,2024-06-17T22:19:55Z,['Enhancement']
+2334201792,1805,[BUG] Stomping tantrum getting boosted when it's not supposed to,open,2024-06-04T19:12:24Z,,"['Move', 'P2 Bug']"
+2334196396,1804,"[BUG] Failed to resolve import ""i18next-korean-postposition-processor"" from ""src\plugins\i18n.ts"". Does the file exist?",closed,2024-06-04T19:08:48Z,2024-06-04T19:09:41Z,['(Legacy) Bug']
+2334185879,1803,[BUG] Skydrop doesnt give immunity to the carried mon,open,2024-06-04T19:01:48Z,,"['Move', 'P2 Bug']"
+2333850084,1798,[BUG] battle crash,closed,2024-06-04T15:41:40Z,2024-06-04T15:51:21Z,['(Legacy) Bug']
+2333845645,1797,"Soft lock after clicked ESC during ""Do you want to switch pokemon"" phase",closed,2024-06-04T15:39:23Z,2024-06-11T02:18:09Z,['(Legacy) Bug']
+2333269201,1791,[BUG] Shiny displaying differently on web vs. mobile,closed,2024-06-04T11:23:13Z,2024-07-25T05:31:11Z,['(Legacy) Bug']
+2333259346,1790,[BUG] Guts Raticate affected by attack drop from Burn,closed,2024-06-04T11:17:52Z,2024-06-04T11:31:39Z,['(Legacy) Bug']
+2332941012,1787,[BUG] Cosplay Pikachu can use thunderstone to no effect,closed,2024-06-04T08:49:10Z,2024-08-27T20:09:54Z,['(Legacy) Bug']
+2332909308,1785,[BUG] Alternate form Pikachu enable MaxMushroom in item pool but cannot use it,closed,2024-06-04T08:35:06Z,2024-08-27T20:09:06Z,"['(Legacy) Bug', 'Item']"
+2332357010,1775,[BUG] No Import Session/Data options when Self Hosting?,closed,2024-06-04T01:49:27Z,2024-07-25T05:31:55Z,['(Legacy) Bug']
+2332271706,1773,[BUG] Ice Hammer does not work with Contrary,closed,2024-06-04T00:08:16Z,2024-06-04T08:59:53Z,['(Legacy) Bug']
+2332024929,1770,[Feature] Starter page filters,closed,2024-06-03T20:47:38Z,2024-07-24T20:08:22Z,['Enhancement']
+2331952480,1768,[Feature] Achievement for maxing out Luck,closed,2024-06-03T20:10:33Z,2024-06-06T16:34:44Z,['Enhancement']
+2331944289,1767,[BUG] Toxic Chain Activates on Status Moves,closed,2024-06-03T20:06:58Z,2024-08-05T05:30:23Z,['(Legacy) Bug']
+2331936845,1766,[BUG] Fusions incorrectly showing ability as hidden,open,2024-06-03T20:02:19Z,,['(Legacy) Bug']
+2331680061,1763,[BUG] Server url is malformatted when running locally but still connecting to a local server,closed,2024-06-03T17:24:22Z,2024-06-07T20:43:33Z,['(Legacy) Bug']
+2331566015,1761,[Feature] (Localization to Korean) Trainer dialogue,closed,2024-06-03T16:19:35Z,2024-07-24T06:15:44Z,['Enhancement']
+2331355111,1760,[BUG] KO’d pokemon is sent out and game is softlocked,closed,2024-06-03T14:45:44Z,2024-07-24T05:54:37Z,"['(Legacy) Bug', 'Duplicate']"
+2331090572,1758,[Feature] Add daily quests / login rewards,closed,2024-06-03T12:56:20Z,2024-09-03T17:29:34Z,['Enhancement']
+2330897713,1756,[BUG] Poliwrath Sprite Animation inconsistent with Gen 5 Sprite,closed,2024-06-03T11:28:56Z,2024-09-26T04:18:02Z,"['Sprite/Animation', 'P3 Bug']"
+2330042540,1751,[BUG] Game unrecoverable after error during Daily Run level-up,closed,2024-06-03T02:35:29Z,2024-07-24T16:20:04Z,['(Legacy) Bug']
+2329952040,1748,[BUG] Money items fail when money puts you past 9 quadrillion,closed,2024-06-03T00:43:53Z,2024-07-24T05:56:18Z,['(Legacy) Bug']
+2329950107,1746,Protect does not fail when it is supposed to,closed,2024-06-03T00:40:41Z,2024-09-05T19:08:01Z,"['Move', 'P2 Bug']"
+2329917322,1745,[BUG] Shiny variants failing to generate for certain Pokemon with different forms,closed,2024-06-02T23:39:23Z,2024-06-06T16:35:50Z,['(Legacy) Bug']
+2329893155,1739,[QoL] Add an indicator when money changes.,closed,2024-06-02T22:32:32Z,2024-06-27T13:51:30Z,['Enhancement']
+2329878873,1736,[BUG] Softlock attempting to open menu when asked to switch pokemon,closed,2024-06-02T21:49:41Z,2024-06-11T02:18:09Z,['(Legacy) Bug']
+2329730167,1731,Implement TMs/HMs Move Preview,closed,2024-06-02T15:53:57Z,2024-07-24T05:56:47Z,['Enhancement']
+2329694747,1729,[BUG] Rival Pokemon getting an extra health checkpoint after reset,closed,2024-06-02T14:43:55Z,2024-06-06T16:37:19Z,['(Legacy) Bug']
+2329663869,1727,[BUG] Sleep talk Damages own teamates,closed,2024-06-02T13:40:45Z,2024-07-24T05:57:00Z,['(Legacy) Bug']
+2329631715,1725,Password not working [BUG],closed,2024-06-02T12:33:52Z,2024-06-02T13:17:31Z,['(Legacy) Bug']
+2329629383,1724,[Feature] Automatically distribute berries,open,2024-06-02T12:27:55Z,,['Enhancement']
+2329628105,1723,[BUG] Toxic doesn't reset damage scaling,closed,2024-06-02T12:24:46Z,2024-06-17T21:56:25Z,['(Legacy) Bug']
+2329579978,1720,[BUG] Triple PSN/BRN damage with Toxic/Flame Orb + Lum Berry,closed,2024-06-02T10:29:48Z,2024-12-10T05:53:48Z,"['Item', 'P2 Bug']"
+2329485625,1715,[BUG] Primordial Sea and Desolate Land don't overwrite each other,closed,2024-06-02T05:46:47Z,2024-06-07T19:22:08Z,['(Legacy) Bug']
+2329484061,1714,[BUG] Money cap at Number.MAX_SAFE_INTEGER means everything eventually costs the maximum money you can hold,closed,2024-06-02T05:40:37Z,2024-07-24T17:57:18Z,['(Legacy) Bug']
+2329482670,1713,[Feature] Replace money and cost with BigInt to go past Number.MAX_SAFE_INTEGER,closed,2024-06-02T05:35:44Z,2024-06-02T05:37:07Z,['Enhancement']
+2329380184,1707,[BUG] Master Ball Voucher bug,open,2024-06-01T23:11:55Z,,['(Legacy) Bug']
+2329378006,1706,[BUG] Fire types can give Flame Orb and Poison/Steel types can give Toxic orb,closed,2024-06-01T23:04:04Z,2024-12-01T22:24:48Z,['Enhancement']
+2329361691,1703,Evasiveness gained from Zippy Zap does not get bassed through Baton item,closed,2024-06-01T22:07:45Z,2024-06-01T22:25:23Z,['(Legacy) Bug']
+2329262848,1697,[BUG] 145 rival boss pokemon gains extra HP barrier when reloading,closed,2024-06-01T17:52:09Z,2024-06-26T17:19:25Z,['(Legacy) Bug']
+2329248135,1695,[BUG] Fell Stinger activating after opponent kills itself,open,2024-06-01T17:19:21Z,,"['Move', 'P2 Bug']"
+2329175937,1691,[BUG] using candies not available on new shiny marill,closed,2024-06-01T14:34:14Z,2024-06-01T16:20:47Z,['(Legacy) Bug']
+2329159468,1689,Game frozen on level 25 trainer battle,closed,2024-06-01T13:57:21Z,2024-06-13T15:37:16Z,['(Legacy) Bug']
+2329117545,1688,[BUG] Hadron Engine does not activate if you exit out of switch menu,closed,2024-06-01T12:32:08Z,2024-12-10T15:12:49Z,['Duplicate']
+2329097833,1687,[BUG] Aegislash always has a greyed-out pokeball,closed,2024-06-01T11:46:10Z,2024-06-06T16:37:33Z,['(Legacy) Bug']
+2329096318,1686,[BUG] Dancer activating visually when not on field,closed,2024-06-01T11:42:40Z,2024-07-24T20:03:42Z,['(Legacy) Bug']
+2328930145,1680,[BUG]Bombirdier  The screen gets stuck after the Bombirdier using the big cleaning,closed,2024-06-01T05:34:49Z,2024-08-30T07:05:38Z,['(Legacy) Bug']
+2328722901,1669,[BUG] Switch moves that KO can softlock,closed,2024-05-31T23:43:43Z,2024-06-07T18:17:23Z,['(Legacy) Bug']
+2328396937,1663,[BUG] Strenght Sap not working correctly,closed,2024-05-31T18:40:11Z,2024-06-20T16:44:30Z,['(Legacy) Bug']
+2328184261,1659,[BUG] Aegislash not reverting stance on fainting,closed,2024-05-31T16:19:52Z,2024-06-20T14:55:42Z,['(Legacy) Bug']
+2328144708,1657,[BUG] Stealth rock not ignoring Delta stream,closed,2024-05-31T15:57:16Z,2024-06-20T14:55:53Z,['(Legacy) Bug']
+2327910182,1648,[BUG] Crash on evolution of shiny Toxel,closed,2024-05-31T14:00:03Z,2024-05-31T21:23:09Z,['(Legacy) Bug']
+2327197665,1639,[BUG/DISCUSSION] Komala's guts passive doesn't work.,closed,2024-05-31T08:00:09Z,2024-05-31T21:50:04Z,['(Legacy) Bug']
+2326851073,1632,Lost data from several runs [BUG],closed,2024-05-31T02:34:28Z,2024-07-24T06:03:22Z,['(Legacy) Bug']
+2326814500,1629,[Feature] Add an ability pop up for abilities like Mold Breaker.,open,2024-05-31T01:45:46Z,,['Enhancement']
+2326804579,1628,[BUG] Form changing (wishiwashi) forces new form sprite to show during dive and other two-turn moves,closed,2024-05-31T01:32:23Z,2024-08-09T08:04:00Z,['(Legacy) Bug']
+2326771102,1626,[BUG] HP Recovery seems to be bugged at higher HP values,closed,2024-05-31T00:44:17Z,2024-07-24T20:03:52Z,['(Legacy) Bug']
+2326749920,1623,[Balance] Base Hidden Ability chance is extremely low,closed,2024-05-31T00:15:06Z,2024-09-03T17:28:36Z,"['Enhancement', 'Balance Team']"
+2326583859,1614,[BUG] Roar Self target and animation,closed,2024-05-30T21:42:29Z,2024-07-25T06:21:14Z,['(Legacy) Bug']
+2326163733,1604,[BUG] Fused Normal/Ghost type not immune to Fighting moves,closed,2024-05-30T17:12:24Z,2024-05-31T01:58:52Z,['(Legacy) Bug']
+2326077177,1603,[BUG] Missing descriptions in locales/en/modifier-type.ts,closed,2024-05-30T16:23:00Z,2024-06-06T16:38:24Z,['(Legacy) Bug']
+2324849781,1599,[BUG] Incoming pokemon burned by flame body after flip turn,closed,2024-05-30T06:49:29Z,2024-07-25T05:34:31Z,['(Legacy) Bug']
+2324709202,1594,[BUG] Minior core form is selectable as a starting form.,closed,2024-05-30T05:04:09Z,2024-05-30T05:49:04Z,['(Legacy) Bug']
+2324516587,1589,[BUG] Shiny sprite (Mareanie) not displaying in battle,closed,2024-05-30T01:53:46Z,2024-07-24T05:47:57Z,['(Legacy) Bug']
+2324447356,1586,[BUG] Shiny luck,closed,2024-05-30T00:44:41Z,2024-06-06T16:38:42Z,['(Legacy) Bug']
+2324299289,1581,"[BUG] Beak Blast acts after berries, leftovers, ect",closed,2024-05-29T21:46:39Z,2024-05-29T21:50:07Z,['(Legacy) Bug']
+2324122323,1572,[BUG] Softlock - maybe related to Giga Impact?,closed,2024-05-29T19:43:54Z,2024-06-01T16:24:24Z,['(Legacy) Bug']
+2324027779,1570,Add Starters PC in Esc Menu,open,2024-05-29T18:53:56Z,,['Enhancement']
+2323968562,1568,[BUG] Future Sight does not behave like the mainline games,closed,2024-05-29T18:22:45Z,2024-11-05T02:31:42Z,"['Move', 'P1 Bug']"
+2323457123,1563,[BUG],closed,2024-05-29T14:18:55Z,2024-06-06T16:39:21Z,['(Legacy) Bug']
+2323007270,1558,[BUG] Multi Hit - Multi target moves not working if...,closed,2024-05-29T10:50:21Z,2024-07-27T15:39:47Z,['(Legacy) Bug']
+2322294538,1547,[BUG] In store soft-lock with PC keyboard,closed,2024-05-29T03:50:35Z,2024-06-11T02:18:09Z,['(Legacy) Bug']
+2322286906,1546,[Feature] Indicator for Perfect IVs,closed,2024-05-29T03:41:06Z,2024-06-16T19:38:09Z,['Enhancement']
+2322279366,1545,[Feature] Add Prestige Mode,closed,2024-05-29T03:31:29Z,2024-05-30T21:55:18Z,"['Enhancement', 'Game Balance']"
+2322248814,1531,[BUG] Soft lock after dying from Naclstack's Salt Cure,closed,2024-05-29T02:55:19Z,2024-07-24T05:47:00Z,"['(Legacy) Bug', 'Duplicate']"
+2322220900,1530,[BUG] Rogue Ball is still available in post-battle shop even at max stacks,closed,2024-05-29T02:25:21Z,2024-06-06T16:39:41Z,['(Legacy) Bug']
+2322198328,1529,[BUG] Red Shiny Not Available in Selection,closed,2024-05-29T02:01:27Z,2024-07-24T20:05:01Z,['(Legacy) Bug']
+2322166459,1528,Supercell Slam's Line 63994 in tms.ts is missing a space towards the end.,closed,2024-05-29T01:28:23Z,2024-07-24T20:05:34Z,['(Legacy) Bug']
+2321952598,1517,[LOCALIZATION] Settings and Starter Select Dialogue,closed,2024-05-28T21:28:58Z,2024-06-06T16:40:30Z,['Localization']
+2321868697,1513,[Feature] Starting Party Limit based on Player Progress,closed,2024-05-28T20:27:50Z,2024-05-28T23:47:58Z,['Enhancement']
+2321651189,1506,"[Feature] Improve random rewards from boss, trainer, and/or double battles",open,2024-05-28T18:10:03Z,,['Enhancement']
+2321626637,1505,[Feature] Implement Magnet RIse,closed,2024-05-28T17:55:29Z,2024-06-17T20:14:56Z,['Move']
+2321251458,1495,[Docs] Code Comments FAQ,closed,2024-05-28T14:36:03Z,2024-05-28T14:43:15Z,['Documentation']
+2321219458,1493,[Feat] Replace key hint with controller icons when using a controller,closed,2024-05-28T14:24:39Z,2024-07-24T05:49:20Z,['Enhancement']
+2320794025,1488,Grassy Terrain does not recover first health bar of boss monsters,closed,2024-05-28T11:15:41Z,2024-11-08T04:09:26Z,"['Move', 'Ability', 'P2 Bug']"
+2320776328,1486,Item is invisible,closed,2024-05-28T11:07:16Z,2024-07-24T05:50:05Z,"['(Legacy) Bug', 'Item']"
+2320632547,1483,[Refactor idea] Splitting phases.ts,closed,2024-05-28T09:55:56Z,2024-07-25T06:23:09Z,"['Enhancement', 'Question']"
+2320212902,1476,"bug, Damp activation feedback messages",open,2024-05-28T06:13:25Z,,"['Move', 'Ability', 'P2 Bug']"
+2320164808,1475,Trainers can use unevolved mons late-game if those mons have alternate evolution requirements,closed,2024-05-28T05:38:36Z,2024-09-01T05:08:21Z,['(Legacy) Bug']
+2319985197,1466,Pikachu forms showing as Mega Charizard X sprite,closed,2024-05-28T02:00:30Z,2024-05-28T02:15:18Z,[]
+2319833922,1460,[Bug] Phione does not learn Take Heart,closed,2024-05-27T22:12:32Z,2024-05-28T02:25:18Z,['(Legacy) Bug']
+2319795037,1456,Implement Ice Face,closed,2024-05-27T21:24:14Z,2024-06-06T16:28:01Z,['Ability']
+2319786536,1455,Implement Commander and Order Up,closed,2024-05-27T21:15:50Z,2024-11-05T17:35:45Z,"['Move', 'Ability']"
+2319778104,1454,Implement Gulp Missile,closed,2024-05-27T21:05:59Z,2024-08-09T08:02:39Z,['Ability']
+2319770422,1452,Finish implementation of Wind abilities,closed,2024-05-27T20:57:11Z,2024-05-30T21:42:47Z,['Ability']
+2319756868,1450,"[Bug] Dancer should not Activate when Pokémon with this ability is in ""semi-vunerable"" state",closed,2024-05-27T20:42:27Z,2024-06-06T16:41:20Z,['(Legacy) Bug']
+2319674053,1446,"[Suggestion] Remember the entire starter configuration, not just moves",closed,2024-05-27T19:19:26Z,2024-07-24T16:18:27Z,['Enhancement']
+2319524672,1442,Add skip dialogues option unlocked message,closed,2024-05-27T16:56:58Z,2024-05-28T09:49:18Z,['Enhancement']
+2319178281,1435,missing text for dialogue:parasol_lady.victory.1,closed,2024-05-27T13:36:18Z,2024-05-27T15:45:01Z,['(Legacy) Bug']
+2318598714,1422,[bug] the ability of urshifu Unseen Fist ,closed,2024-05-27T08:43:34Z,2024-05-27T13:05:21Z,"['(Legacy) Bug', 'Question']"
+2318059880,1419,[Bug] Game froze in abyss when encounter a new wave with Umbreon  ,closed,2024-05-27T01:39:43Z,2024-05-28T00:39:53Z,['(Legacy) Bug']
+2317971469,1415,Crash Report: Cannot read properties of undefined (reading 'level'),closed,2024-05-26T22:57:36Z,2024-05-26T23:20:42Z,['(Legacy) Bug']
+2317943222,1414,Can't remember the password ,closed,2024-05-26T21:34:03Z,2024-05-27T13:05:30Z,['Help Wanted']
+2317917636,1410,Rework Exp Balance implementation,open,2024-05-26T20:19:17Z,,['Game Balance']
+2317904826,1405,[Feature] Add localized Type Symboles,closed,2024-05-26T19:41:15Z,2024-05-27T13:52:29Z,['Localization']
+2317902212,1404,[Bug] The github link in the ingame menu links to a fork,closed,2024-05-26T19:33:57Z,2024-05-26T21:19:32Z,[]
+2317707737,1398,[Bug/Suggestion] Battle menu cursor should default to Attack after switching Pokemon/when starting a new battle,open,2024-05-26T13:13:59Z,,['Enhancement']
+2317644934,1397,[Bug] Bouncy Bubble should not be a spread move,closed,2024-05-26T11:04:31Z,2024-05-26T14:08:36Z,[]
+2317636553,1396,[Suggestion] Make switching AI aware of entry hazards,open,2024-05-26T10:44:44Z,,['Enhancement']
+2317631695,1395,[Bug] Repeatble freeze when switching in Zacian after a double battle,closed,2024-05-26T10:33:55Z,2024-07-24T05:50:47Z,"['(Legacy) Bug', 'Duplicate']"
+2317606235,1392,Pokémon selection screen bug when pressing ENTER and SPACE simultaneously,closed,2024-05-26T09:32:56Z,2024-06-11T02:18:10Z,['(Legacy) Bug']
+2317558674,1390,Liquid Voice ability bug,closed,2024-05-26T07:46:26Z,2024-06-01T20:39:24Z,"['(Legacy) Bug', 'Ability']"
+2317391966,1387,"Classic mode stuck after completing level 200, retry invalid",closed,2024-05-26T02:14:06Z,2024-07-24T16:18:43Z,['(Legacy) Bug']
+2317311106,1385,Punk Rock ability does not fully convert move types,closed,2024-05-25T23:38:35Z,2024-05-26T05:43:51Z,['Invalid']
+2317149908,1376,Overhaul the Dialouge for the Rival,closed,2024-05-25T17:34:53Z,2024-06-06T16:42:19Z,['Enhancement']
+2317094970,1371,Does offline mode update automatically,closed,2024-05-25T15:48:03Z,2024-05-27T13:05:00Z,['Question']
+2316953301,1366,Question about Beat up condition,closed,2024-05-25T11:46:37Z,2024-05-26T04:17:31Z,"['Question', 'Move']"
+2316946403,1364,Beak blast going through protection moves,closed,2024-05-25T11:26:41Z,2024-08-09T08:08:38Z,"['(Legacy) Bug', 'Move']"
+2316924788,1362,ff,closed,2024-05-25T10:46:51Z,2024-05-25T10:58:20Z,[]
+2316750894,1356,Enforce space around curly braces,closed,2024-05-25T06:15:01Z,2024-07-23T16:41:03Z,['Enhancement']
+2316746116,1355,Missing hatched pokemons,closed,2024-05-25T06:03:59Z,2024-07-23T16:40:37Z,['(Legacy) Bug']
+2316655161,1353,Wild Pokémon using beat up hits six times ,closed,2024-05-25T03:32:22Z,2024-05-28T00:42:42Z,"['(Legacy) Bug', 'Move']"
+2316622692,1352,Reminder for small tasks in Ability.ts,open,2024-05-25T02:57:14Z,,['Ability']
+2316330863,1339,Stuck on loading screen,closed,2024-05-24T22:17:39Z,2024-05-24T23:02:30Z,[]
+2316306694,1337,Unlocked Egg Moves should show up with Memory Mushroom,closed,2024-05-24T21:48:27Z,2024-08-18T08:33:15Z,['Enhancement']
+2315757751,1328,enable login on self hosting?,closed,2024-05-24T16:07:40Z,2024-05-29T14:13:43Z,[]
+2315744894,1327,Using Lum Berry on Poke that just fainted causes infinite loop ,closed,2024-05-24T15:59:57Z,2024-07-23T16:59:22Z,"['(Legacy) Bug', 'Item']"
+2315738623,1326,Accidental zoom on IOS (D-PAD),closed,2024-05-24T15:55:50Z,2024-05-28T19:02:50Z,['(Legacy) Bug']
+2315597316,1324,"Unlocked Passive, cost reduction and egg moves are not showing up when starting Classic run; UI elements are missing",closed,2024-05-24T14:49:48Z,2024-05-24T15:24:35Z,['Invalid']
+2315449717,1321,.eslintrc vs eslint.config.json,closed,2024-05-24T13:41:50Z,2024-07-23T16:41:20Z,['Question']
+2315441372,1320,Poison damage from Toxic Spikes incorrectly occurs immediately upon switch in,closed,2024-05-24T13:38:11Z,2024-10-11T14:49:11Z,['(Legacy) Bug']
+2315422139,1319,[Missing animation] Muddy Water has no move animation,closed,2024-05-24T13:29:23Z,2024-07-23T18:46:25Z,"['(Legacy) Bug', 'Duplicate', 'Move']"
+2315062614,1317,Combusken Flame Charge showing debuff Animation instead of Buff Animaton,closed,2024-05-24T10:36:31Z,2024-06-06T16:42:44Z,"['(Legacy) Bug', 'Move']"
+2314909024,1315,Bug bite not removing opponents berries,closed,2024-05-24T09:26:09Z,2024-07-23T18:46:17Z,"['(Legacy) Bug', 'Move']"
+2314888282,1313,[Bug] Right ally using Accupressure on left ally messes up their HP bar for some waves,open,2024-05-24T09:16:21Z,,"['(Legacy) Bug', 'Move']"
+2314557350,1312,[SUGGESTION] Add Settings Option in the Index Page,closed,2024-05-24T06:46:12Z,2024-05-28T20:51:35Z,['Enhancement']
+2313994067,1305,dial unix /run/mysqld/mysqld.sock,closed,2024-05-23T23:03:27Z,2024-05-24T00:31:45Z,['Duplicate']
+2313992332,1304,PR template for contributions,closed,2024-05-23T23:02:16Z,2024-05-28T14:21:29Z,"['Documentation', 'Enhancement']"
+2313985879,1303,195 Breaks the Game.,closed,2024-05-23T22:55:50Z,2024-05-24T00:30:27Z,['Duplicate']
+2313983663,1302,Login Error: dial unix /run/mysqld/mysqld.sock: connect: connection refused,closed,2024-05-23T22:53:03Z,2024-05-24T00:31:36Z,['Duplicate']
+2313891007,1300,SSL handshake failed,closed,2024-05-23T21:35:39Z,2024-05-24T00:30:13Z,['Duplicate']
+2313884010,1298,"moves that ""increase damage when used repeatedly"" do not increase damage properly",closed,2024-05-23T21:31:12Z,2024-07-27T15:40:00Z,"['(Legacy) Bug', 'Move']"
+2313820783,1296,Missing Pokemon name,closed,2024-05-23T20:50:00Z,2024-05-23T20:52:40Z,['Invalid']
+2313569069,1289,[Enhancement] Add egg counter on top left if multiple eggs are hatching,closed,2024-05-23T18:18:33Z,2024-05-29T22:17:42Z,['Enhancement']
+2313455283,1288,Repeated phantom inputs,open,2024-05-23T17:11:10Z,,['P2 Bug']
+2313404179,1287,Triple axel,closed,2024-05-23T16:44:49Z,2024-07-27T23:35:58Z,['Move']
+2313281555,1285,To many server requests,closed,2024-05-23T15:55:33Z,2024-07-23T20:48:38Z,['Enhancement']
+2313205558,1284,[SUGGESTION] Keep PP of Fusion Pokemon,open,2024-05-23T15:22:29Z,,['Enhancement']
+2313095392,1283,Optionally increase challenge difficulty after each win,closed,2024-05-23T14:36:03Z,2024-06-06T16:43:21Z,['Enhancement']
+2312993287,1282,Typo about using translator to translate  zh_ch into zh_tw,closed,2024-05-23T13:53:27Z,2024-05-25T10:43:44Z,['Localization']
+2312323346,1277,"[QoL] Show field effects when pressing C (weather, screens, hazards)",closed,2024-05-23T08:43:12Z,2024-06-16T19:19:42Z,['Enhancement']
+2312085605,1274,Problems with localization,closed,2024-05-23T06:42:42Z,2024-06-15T18:59:42Z,['Localization']
+2311825567,1269,TERA_BLAST is defined as a move constant but no animation exists,closed,2024-05-23T02:51:09Z,2024-05-23T04:37:25Z,"['(Legacy) Bug', 'Move']"
+2311814894,1267,"The webpage is extremely slow, making the experience very unpleasant",closed,2024-05-23T02:37:16Z,2024-07-24T20:03:11Z,['(Legacy) Bug']
+2311810371,1266,Switch moves vs. contact abilities.,closed,2024-05-23T02:31:40Z,2024-06-06T16:43:38Z,"['(Legacy) Bug', 'Duplicate']"
+2311788534,1265,Expanding Force not work correctly in Psychic Terrain,closed,2024-05-23T02:05:02Z,2024-08-29T21:26:31Z,"['(Legacy) Bug', 'Move', 'Ability']"
+2311769617,1264,Lighting Rod/Storm Drain vs multi-target moves,closed,2024-05-23T01:41:54Z,2024-07-27T23:16:02Z,['Ability']
+2311691791,1263,"After using Skill Swap on a Pyukumuku, Innards Out still triggers",open,2024-05-23T00:13:40Z,,"['Move', 'Ability', 'P2 Bug']"
+2311544605,1258,[BUG] Golden Punch does not give $$ for damage over time,closed,2024-05-22T21:44:22Z,2024-05-23T00:08:17Z,['Item']
+2311517435,1257,Beat up deals no damage after the party's initial hit while using Multi Lens,closed,2024-05-22T21:29:46Z,2024-07-27T23:13:36Z,"['(Legacy) Bug', 'Move', 'Item']"
+2311226258,1248,Implement shinylock for uncatchable pokemon,closed,2024-05-22T18:32:01Z,2024-05-30T20:20:28Z,['Enhancement']
+2311197184,1247,[SUGGESTION] Trace stay on screen,open,2024-05-22T18:19:22Z,,"['Enhancement', 'Ability']"
+2311113029,1244,No Guard hits Pokemon underground/vanished/fly etc,closed,2024-05-22T17:31:45Z,2024-05-22T17:32:32Z,['Invalid']
+2311092373,1243,[BUG] Beak blast ignores sleep,closed,2024-05-22T17:19:00Z,2024-08-09T08:08:24Z,"['(Legacy) Bug', 'Move']"
+2310941811,1241,"One confirmed wrong interaction with type change move and abilities, and many more in question",closed,2024-05-22T16:15:15Z,2024-05-22T16:41:32Z,[]
+2310800539,1239,The data doesn't load,closed,2024-05-22T15:08:44Z,2024-05-24T00:32:16Z,['(Legacy) Bug']
+2309438803,1230,Colored text in starter screen is doubled,closed,2024-05-22T02:25:20Z,2024-05-22T16:42:57Z,"['(Legacy) Bug', 'Localization']"
+2309389730,1227,Fainted Pokemon sent out after KO'd by partner,closed,2024-05-22T01:25:56Z,2024-07-25T05:48:32Z,['(Legacy) Bug']
+2309346807,1225,Scrafty is unable to learn Trailblaze despite it being in its S/V learnset,closed,2024-05-22T00:36:34Z,2024-05-22T05:33:50Z,['Move']
+2309269186,1221,black screen + nothing loads,closed,2024-05-21T23:17:11Z,2024-05-27T17:18:33Z,['(Legacy) Bug']
+2308967109,1217,Poison Heal not working properly,closed,2024-05-21T19:31:18Z,2024-05-21T19:33:11Z,['Invalid']
+2308907268,1213,[Ui Bug] Weird border only with chromium based browser when below 1080p,closed,2024-05-21T18:50:55Z,2024-07-25T05:59:46Z,['(Legacy) Bug']
+2308701904,1210,Beast Boost issue,open,2024-05-21T16:43:23Z,,"['Ability', 'P2 Bug']"
+2308454605,1208,Enemy's Last Respects scales from players fainted pokemon,closed,2024-05-21T14:32:14Z,2024-06-06T16:44:19Z,"['(Legacy) Bug', 'Move']"
+2308441910,1207,Revieved Pokemon has to be replaced,closed,2024-05-21T14:26:31Z,2024-07-25T05:46:49Z,['(Legacy) Bug']
+2308238462,1204,Sparkling Aria not recognized as sound based move,closed,2024-05-21T12:52:36Z,2024-05-28T04:09:54Z,"['(Legacy) Bug', 'Move']"
+2308141613,1202,Groudon price,closed,2024-05-21T12:04:52Z,2024-05-21T13:55:04Z,['Invalid']
+2307909171,1199,Tail Glow is not part a of Xurkitree's Level 1 move set when it should be,closed,2024-05-21T10:09:42Z,2024-06-06T16:44:44Z,"['(Legacy) Bug', 'Move']"
+2307888541,1198,Don't let Pickup select items that are capped,closed,2024-05-21T09:59:51Z,2024-08-20T23:21:18Z,"['Enhancement', 'Ability']"
+2307750088,1196,Screen freeze at wave 182,closed,2024-05-21T08:55:24Z,2024-06-06T16:45:53Z,['(Legacy) Bug']
+2307249161,1191,Study Passive on Burmy does not work,closed,2024-05-21T04:20:08Z,2024-06-06T16:45:18Z,"['(Legacy) Bug', 'Ability']"
+2307222195,1190,Blackscreen upon going to site,closed,2024-05-21T03:59:14Z,2024-05-21T04:34:00Z,['(Legacy) Bug']
+2307098611,1187,Sturdy Preventing KO on pokemon minorly damaged same turn by priority move,closed,2024-05-21T01:54:18Z,2024-08-23T23:42:34Z,"['(Legacy) Bug', 'Ability']"
+2307059259,1185,Perish Song persists after forced switch out going from wild double to single battle,closed,2024-05-21T01:09:32Z,2024-07-24T16:17:26Z,"['(Legacy) Bug', 'Move']"
+2306738655,1179,torch song still usable after throat chop by opponent,closed,2024-05-20T20:28:26Z,2024-05-20T20:29:18Z,['Invalid']
+2306692657,1178,Healing on save load,open,2024-05-20T20:02:27Z,,['(Legacy) Bug']
+2306692428,1177,[Bug] Pokemon foreground disappear,closed,2024-05-20T20:02:16Z,2024-07-25T06:02:27Z,['(Legacy) Bug']
+2306459672,1174,Adding Indicator to show a starter upgrade is available,closed,2024-05-20T17:43:10Z,2024-05-28T17:49:16Z,['Enhancement']
+2306414295,1173,Hide your encryption keys ,closed,2024-05-20T17:14:27Z,2024-07-25T05:58:56Z,['Help Wanted']
+2306402542,1172,[Suggestion] Toggle for custom/canon Shiny sprites,open,2024-05-20T17:06:55Z,,['Enhancement']
+2306371410,1171,Achievements don't reward the vouchers,closed,2024-05-20T16:46:01Z,2024-05-20T17:00:36Z,['Invalid']
+2306346252,1170,Endure Token Prevents Confusion Damage,closed,2024-05-20T16:29:26Z,2025-01-12T05:19:16Z,[]
+2306249635,1169,Berries do not proc at the appropriate time.,open,2024-05-20T15:32:32Z,,"['(Legacy) Bug', 'Item']"
+2306095109,1168,Request for adjusting text shadow,closed,2024-05-20T14:13:18Z,2024-10-14T05:18:28Z,['Enhancement']
+2306040225,1167,Missing Shinys/Data,closed,2024-05-20T13:45:57Z,2024-07-24T20:01:21Z,['(Legacy) Bug']
+2305973328,1166,Cloudflare is buggy,closed,2024-05-20T13:11:52Z,2024-05-24T00:38:53Z,['(Legacy) Bug']
+2305882283,1165,Misdreavus shiny sprite,closed,2024-05-20T12:23:37Z,2024-05-20T12:26:17Z,['Duplicate']
+2305881484,1164,List of errors related to variant sprites,closed,2024-05-20T12:23:12Z,2024-05-21T01:54:07Z,['Documentation']
+2305878852,1163,[Suggestion] Endless would benefit from new token options,closed,2024-05-20T12:21:41Z,2024-05-20T12:34:56Z,['Invalid']
+2305743157,1160,Abilities that prevent sleep don't show the pop-up banner,closed,2024-05-20T11:13:02Z,2024-12-10T15:14:02Z,"['(Legacy) Bug', 'Ability']"
+2305734537,1159,The move Dive doesn’t work properly,closed,2024-05-20T11:08:14Z,2024-05-20T11:15:04Z,[]
+2305585348,1158,Disable on 2 turn attacks,closed,2024-05-20T09:47:19Z,2024-06-03T15:04:34Z,['Question']
+2305511025,1154,[Contribution] I made a custom cursor ,closed,2024-05-20T09:09:37Z,2024-07-24T20:00:51Z,['Enhancement']
+2305007331,1146,[Suggestion] Unlocking Egg Moves with Candy,closed,2024-05-20T03:42:13Z,2024-06-06T16:47:05Z,[]
+2304814857,1141,Weadninja loses its revival herb when hit with reversal in double battle?,closed,2024-05-19T22:47:26Z,2024-05-19T23:22:15Z,"['(Legacy) Bug', 'Item']"
+2304805786,1140,Weird dex caught attr,open,2024-05-19T22:20:17Z,,['(Legacy) Bug']
+2304805144,1139,Forme-changing items should be de-activated when obtaining them.,open,2024-05-19T22:18:08Z,,"['(Legacy) Bug', 'Item']"
+2304773104,1135,add nuzlocke mode,closed,2024-05-19T20:37:47Z,2024-05-19T22:12:51Z,['Invalid']
+2304759473,1133,Cannot actually start first run.,closed,2024-05-19T19:58:25Z,2024-06-06T16:48:00Z,['(Legacy) Bug']
+2304744829,1132,Soul Dew max stacks is too high,closed,2024-05-19T19:17:41Z,2024-06-06T16:47:41Z,['Item']
+2304635989,1127,Linux executable for retro handhelds,closed,2024-05-19T14:23:44Z,2024-05-20T09:11:45Z,['Enhancement']
+2304398742,1120,Shiny sprites are not appearing shiny,closed,2024-05-19T02:50:52Z,2024-05-24T00:38:30Z,['(Legacy) Bug']
+2304332588,1118,"[Bug] Elite Four for Gen 8 is missing, so Leon is messing up the Elite Four -> Champion order for Gen 9",closed,2024-05-18T22:39:45Z,2024-05-25T11:39:00Z,['Enhancement']
+2304323547,1115,Game Stuck after impossible switch,open,2024-05-18T22:00:40Z,,['Duplicate']
+2304293158,1111,Kirlia Evolution,closed,2024-05-18T20:05:30Z,2024-05-18T20:08:00Z,[]
+2304261871,1105,Seeded Mode/Competitive mode akin to RoR2(suggestion/request),open,2024-05-18T18:53:22Z,,['Enhancement']
+2304223177,1103,Make Pokerouge Gender Bases Evos match Canon Evos instead.,closed,2024-05-18T18:24:25Z,2024-05-18T18:25:57Z,['Duplicate']
+2304184958,1101,I think my male Kirlia wanted to be a Gardevoir,closed,2024-05-18T17:37:36Z,2024-06-20T16:43:03Z,[]
+2304182985,1100,My Kirlia didn't evolve into a Gardevoir?,closed,2024-05-18T17:31:27Z,2024-05-18T18:14:50Z,['Duplicate']
+2304169781,1099,Epic Shiny Spewpa evolving soft locks the game,closed,2024-05-18T17:07:01Z,2024-05-19T02:37:29Z,[]
+2304163558,1098,Save Data for one full day missing,closed,2024-05-18T16:48:05Z,2024-07-27T23:41:54Z,['(Legacy) Bug']
+2303825712,1079,[BUG] Protect doesn't count throwing a pokeball as a turn,closed,2024-05-18T03:29:09Z,2024-05-18T03:37:31Z,"['(Legacy) Bug', 'Move']"
+2303823925,1078,Locally Hosted Configuration has CORS conflict with API,closed,2024-05-18T03:22:57Z,2024-05-27T15:20:26Z,['(Legacy) Bug']
+2303813174,1077,Fell Stinger is not working correctly,closed,2024-05-18T02:49:47Z,2024-05-18T02:54:05Z,[]
+2303810385,1076,Meloetta is female when it's supposed to be gender unknown,closed,2024-05-18T02:40:50Z,2024-05-18T02:44:09Z,['Invalid']
+2303808368,1075,Enable Discussions in this repository,closed,2024-05-18T02:34:37Z,2024-05-24T00:38:04Z,['Enhancement']
+2303737385,1073,[Bug] Fluffy ignores stat boosts (lowered attack on attacker and raised defense on defender),open,2024-05-18T01:10:24Z,,"['(Legacy) Bug', 'Ability']"
+2303737276,1072,"If a pokemon fussion beats classic, only base species gets the ribbon.",closed,2024-05-18T01:10:07Z,2024-06-06T16:48:37Z,['(Legacy) Bug']
+2303727084,1071, [Bug] Missing an AoE move on one of the two targets makes Multi Lens only apply 1 hit on the other one,closed,2024-05-18T00:50:41Z,2024-08-18T09:49:42Z,"['(Legacy) Bug', 'Item']"
+2303700954,1067,https://lichess.org/fXEamFVZ,closed,2024-05-18T00:01:37Z,2024-05-18T00:02:42Z,['Invalid']
+2303698753,1066,Anyone wanna golf,closed,2024-05-17T23:57:29Z,2024-05-17T23:59:55Z,['Invalid']
+2303694574,1065,Quick Claw with Galarica Cuff sprite,closed,2024-05-17T23:48:17Z,2024-05-18T02:31:44Z,['Item']
+2303693055,1064,Shiny sylveon rights.,closed,2024-05-17T23:44:58Z,2024-05-18T00:00:04Z,['Invalid']
+2303681725,1062,HOW TO DELAY CommandPhase,closed,2024-05-17T23:24:47Z,2024-07-27T23:20:37Z,['Question']
+2303603237,1058,Vital throw hits Pokemon that are Digging,closed,2024-05-17T21:31:37Z,2024-05-18T02:32:11Z,['Invalid']
+2303537050,1056,Sparkly Swirl now does self damage,closed,2024-05-17T20:30:54Z,2024-06-06T16:48:55Z,"['(Legacy) Bug', 'Move']"
+2303507988,1054,Full Restore does not heal confusion,closed,2024-05-17T20:12:53Z,2024-06-06T16:05:48Z,"['(Legacy) Bug', 'Item']"
+2303485001,1052,Sparkly Swirl not fully implemented,closed,2024-05-17T19:54:34Z,2024-05-17T20:04:35Z,"['(Legacy) Bug', 'Move']"
+2303433271,1050,"img.pokemondb.net or whatever is before it, is blocking the wiki for using too much bandwidth",closed,2024-05-17T19:30:36Z,2024-05-20T10:58:39Z,['Help Wanted']
+2303363956,1049,"Can't do templates on the wiki, the wiki is not using wst plugin but contributing page says it does, also change to Mediawiki",closed,2024-05-17T18:37:42Z,2024-05-17T19:03:04Z,['Question']
+2303315014,1048,"Brave Bird hit 2 times with Multi Lens, second hit recoil removed too much life",closed,2024-05-17T18:00:55Z,2024-06-06T16:49:11Z,"['(Legacy) Bug', 'Move', 'Item']"
+2303272378,1045,"Shell Bell bugged, fixed on reload",closed,2024-05-17T17:32:55Z,2024-08-19T23:34:25Z,"['(Legacy) Bug', 'Item']"
+2302923408,1032,Translation in modifiers for moveType is missing something,closed,2024-05-17T14:38:25Z,2024-06-06T16:49:33Z,"['(Legacy) Bug', 'Localization']"
+2302455944,1027,Double Battle and Rare Candy,closed,2024-05-17T11:15:06Z,2024-05-17T12:12:59Z,[]
+2302404205,1026,Item sprite is not visible,open,2024-05-17T10:47:08Z,,"['Item', 'P3 Bug']"
+2302373496,1024,Intimidate not working after page refresh,closed,2024-05-17T10:32:14Z,2024-07-25T05:18:58Z,"['(Legacy) Bug', 'Ability']"
+2302087793,1019,Spikes (maybe other hazards) require a target to succeed,closed,2024-05-17T08:07:49Z,2024-05-18T01:20:03Z,"['(Legacy) Bug', 'Move']"
+2301986236,1018,Can't finish daily run,closed,2024-05-17T07:08:54Z,2024-05-18T02:33:19Z,['(Legacy) Bug']
+2301815007,1012,Shiny Charmander fusion with Golett shows wrong sprite.,closed,2024-05-17T04:55:03Z,2024-06-06T16:49:44Z,['(Legacy) Bug']
+2301692696,1005,Bug: Summoning abilities don't activate when reloading a session.,open,2024-05-17T02:34:00Z,,"['Ability', 'P2 Bug']"
+2301605778,1003,Translations not display properly in modifier-type.ts ,closed,2024-05-17T00:46:38Z,2024-06-16T19:16:28Z,"['(Legacy) Bug', 'Localization']"
+2301338373,993,Download does not account for vitamins,closed,2024-05-16T21:03:08Z,2024-05-30T08:08:10Z,['Ability']
+2301329115,992,Berry pouch description (25%) is incongruous with code functionality (33%),closed,2024-05-16T20:57:39Z,2024-05-23T00:08:01Z,['Item']
+2301206304,988,Body Slam does not ignore evasion for minimize,closed,2024-05-16T19:40:46Z,2024-05-16T20:47:22Z,"['(Legacy) Bug', 'Move']"
+2301124600,985,Second Pokémon in a splice doesn't get ribbon for classic completion,closed,2024-05-16T18:56:30Z,2024-05-16T18:58:59Z,[]
+2300758463,978,Ghost Curse targetting does not work properly,open,2024-05-16T15:47:42Z,,"['(Legacy) Bug', 'Move']"
+2300602545,975,There are 2 nature keys in zhCnConfig,closed,2024-05-16T14:40:31Z,2024-05-16T22:52:02Z,"['(Legacy) Bug', 'Localization']"
+2300498932,974,Ace Trainer Female Localization does not work,closed,2024-05-16T13:59:53Z,2024-06-16T19:16:52Z,"['(Legacy) Bug', 'Localization']"
+2300441699,973,Stats screen Specials and Speed are sticking out,closed,2024-05-16T13:37:31Z,2024-06-17T21:24:22Z,"['(Legacy) Bug', 'Localization']"
+2300387476,972,Weather sandstrom damages localization does not work,closed,2024-05-16T13:19:37Z,2024-06-16T19:17:53Z,"['(Legacy) Bug', 'Localization']"
+2300058582,964,Catching a shiny spliced pokemon sometimes ignores shinines,closed,2024-05-16T10:46:20Z,2024-05-16T10:48:31Z,[]
+2299866966,959,Add trainer class localizations for doubles,closed,2024-05-16T09:34:31Z,2024-05-16T10:43:32Z,"['(Legacy) Bug', 'Localization']"
+2299771438,957,Blastoise multiple forms softlock,closed,2024-05-16T08:52:54Z,2024-07-30T05:01:14Z,"['(Legacy) Bug', 'Item']"
+2299649091,951,[UI] Adding pills wih information about current boost/reduce of stats,closed,2024-05-16T07:59:13Z,2024-05-16T08:09:57Z,[]
+2299501781,950,Effect Spore + multi hitting moves,closed,2024-05-16T06:48:54Z,2024-07-23T17:46:05Z,"['(Legacy) Bug', 'Move']"
+2299052518,939,E-max Eternatus perma-frozen ,closed,2024-05-16T00:01:28Z,2024-08-30T07:16:28Z,['(Legacy) Bug']
+2299044907,937,zh_TW translation,closed,2024-05-15T23:52:25Z,2024-05-23T12:01:23Z,['Localization']
+2298965250,935,Arena hazards are incorrectly ignored by the Pokemon that set them,closed,2024-05-15T22:37:09Z,2024-10-21T15:03:14Z,"['Move', 'Ability', 'P2 Bug']"
+2298909306,934,Suggestion: Allowing a player to continue a standard run into endless,open,2024-05-15T21:57:00Z,,['Enhancement']
+2298895428,933,Scrolling the leaderboard page fast enough makes it overlap itself,closed,2024-05-15T21:44:38Z,2024-05-19T23:04:34Z,['(Legacy) Bug']
+2298858935,931,Delta Stream strong wind persists past Ray-Mega's death + graphical glitch,closed,2024-05-15T21:15:46Z,2024-08-25T18:40:49Z,"['(Legacy) Bug', 'Ability']"
+2298720251,930,The Champion has impossibly high numbers of items,closed,2024-05-15T19:47:52Z,2024-05-15T19:51:48Z,['Invalid']
+2298540438,926,Skorupi's legs clip out of view on the egg hatched screen,closed,2024-05-15T18:18:46Z,2024-09-26T04:17:59Z,"['Sprite/Animation', 'P3 Bug']"
+2298534397,925,The RNG with Dynamic Punch confusion is broken,closed,2024-05-15T18:15:42Z,2024-06-06T16:50:45Z,"['(Legacy) Bug', 'Move']"
+2298499048,922,Zigzagoon stolen item.,closed,2024-05-15T17:54:42Z,2024-05-15T18:03:17Z,['Question']
+2298465970,921,Fury Swipes' multiple hit animations still play out if the opponent is immune,closed,2024-05-15T17:33:11Z,2024-07-24T19:56:39Z,"['(Legacy) Bug', 'Move']"
+2298414467,917,AI does not consider Tera Type when making decisions in battle.,closed,2024-05-15T17:03:19Z,2024-07-24T19:57:13Z,['(Legacy) Bug']
+2298366451,914,Changing Genesect drives doesn't work,closed,2024-05-15T16:33:27Z,2024-07-24T19:57:26Z,['(Legacy) Bug']
+2298011110,909,Snow Storm causes HP to go up? Min HP over Max HP bug,closed,2024-05-15T13:54:47Z,2024-05-15T14:38:22Z,['(Legacy) Bug']
+2297779438,906,Purifying salt displaying multiple times in a row,closed,2024-05-15T12:29:45Z,2024-07-24T19:57:43Z,"['(Legacy) Bug', 'Ability']"
+2297058847,900,The weight of an item like ETHER seems incorrect,closed,2024-05-15T07:11:52Z,2024-05-28T04:07:46Z,"['(Legacy) Bug', 'Item']"
+2297035380,899,Suggestion: Make higher tier Pokeballs more available late game.,closed,2024-05-15T07:01:24Z,2024-07-24T19:58:20Z,['Enhancement']
+2296980213,898,Focus Punch does not show failure message when used,open,2024-05-15T06:30:20Z,,"['Move', 'P3 Bug']"
+2296961245,897,Visual bug: Darkest Lariat has some odd looking black lines,open,2024-05-15T06:16:39Z,,"['(Legacy) Bug', 'Move', 'Sprite/Animation', 'P3 Bug']"
+2296934063,896,Gym leader mon has an empty item slot?,closed,2024-05-15T05:59:34Z,2024-05-15T06:00:18Z,['Invalid']
+2296915163,894,Player and pokemon list can sometimes overlap with battle sprites,closed,2024-05-15T05:42:51Z,2024-07-23T23:18:12Z,"['(Legacy) Bug', 'Duplicate']"
+2296911401,893,Candies can break the level cap,closed,2024-05-15T05:39:39Z,2024-05-15T05:45:01Z,['Invalid']
+2296810995,891,game freezes while opening egg,closed,2024-05-15T04:00:07Z,2024-05-15T21:30:20Z,['(Legacy) Bug']
+2296787240,890,Trainer pools cannot specify forms when needed,open,2024-05-15T03:30:19Z,,['P2 Bug']
+2296771511,889,Game freezing on clear,closed,2024-05-15T03:10:30Z,2024-05-15T18:29:17Z,['(Legacy) Bug']
+2296678725,886,Shiny Mega Latios missing outline,closed,2024-05-15T01:38:06Z,2024-07-24T16:15:00Z,['(Legacy) Bug']
+2296575458,883,Tinted pokeball false positive from abilities,closed,2024-05-14T23:24:39Z,2024-05-22T14:41:22Z,['(Legacy) Bug']
+2296501019,880,[Suggestion] Add a “black border” achievement/reward,closed,2024-05-14T22:17:21Z,2024-06-06T16:51:09Z,['Enhancement']
+2296421848,878,No CORS Header present on api.pokerogue to pokerogue.net?,closed,2024-05-14T21:11:27Z,2024-05-24T00:35:55Z,['(Legacy) Bug']
+2296386845,877,What happened to hybrid saving?,closed,2024-05-14T20:45:16Z,2024-05-14T21:01:59Z,['Question']
+2296275346,875,Resquet for missing translation,closed,2024-05-14T19:40:51Z,2024-05-15T16:42:35Z,['Localization']
+2296069949,870,Mac Intermittently Freezing during save,closed,2024-05-14T18:08:31Z,2024-10-14T05:16:47Z,['(Legacy) Bug']
+2296018887,865,[Suggestion] Touchpad on ps4 to show player stats,closed,2024-05-14T17:36:40Z,2024-05-24T00:35:38Z,['Enhancement']
+2295967384,862,"[Suggestion] Delta-esque touch controls, the current ones are difficult to use",closed,2024-05-14T17:04:25Z,2024-10-14T05:10:04Z,['Enhancement']
+2295714335,859,It seems like Outrage + Multihit keeps going on and on?,closed,2024-05-14T14:56:17Z,2024-06-29T01:47:40Z,"['(Legacy) Bug', 'Move']"
+2295531398,856,"Ingrain does not work with a ghost type pokemon, and Infestation does not work against ghost type pokemon",closed,2024-05-14T13:55:17Z,2024-06-06T16:51:58Z,"['(Legacy) Bug', 'Move']"
+2295528120,855,Categorizing pokemon as legendary or sub-legendary,closed,2024-05-14T13:54:09Z,2024-05-24T06:55:56Z,['Question']
+2295068726,854,Screen is whiter when press on start ,closed,2024-05-14T10:33:32Z,2024-10-14T05:10:31Z,"['(Legacy) Bug', 'Miscellaneous']"
+2294894392,853,Add confirmation to disable Touch controls,open,2024-05-14T09:14:39Z,,['Enhancement']
+2294433792,852,"After logging out, I forgot my account number",closed,2024-05-14T05:23:36Z,2024-05-24T00:35:26Z,['Invalid']
+2294237686,847,Visual bug: ditto type doesn't update with transformation immediately (takes one turn to update),closed,2024-05-14T02:49:56Z,2024-10-23T15:12:54Z,['(Legacy) Bug']
+2294234582,846,No Starter Points,closed,2024-05-14T02:48:04Z,2024-06-06T16:53:10Z,['(Legacy) Bug']
+2294202950,843,Visual Bug: Trainer Double Battle after fainting to Salt Cure,closed,2024-05-14T02:14:22Z,2024-07-23T16:23:34Z,['(Legacy) Bug']
+2294149273,839,"Sinistea (antique form) can't evolve with chipped pot (""it will have no effect"")",closed,2024-05-14T01:25:21Z,2024-05-14T04:01:09Z,"['(Legacy) Bug', 'Item']"
+2294139107,838,Game freezes after status affect applied on U-Turn,closed,2024-05-14T01:21:28Z,2024-07-23T16:32:16Z,"['(Legacy) Bug', 'Move']"
+2294114714,837,stuck in login,closed,2024-05-14T01:03:50Z,2024-05-14T01:06:58Z,[]
+2293997309,832,Error sound effect when changing language,closed,2024-05-13T23:11:40Z,2024-05-19T18:25:25Z,['(Legacy) Bug']
+2293982474,830,Poison ticks at start of fight,closed,2024-05-13T22:56:18Z,2024-07-23T06:05:21Z,['(Legacy) Bug']
+2293913103,828,Offline mode can't complete wave 200 classic,closed,2024-05-13T21:55:17Z,2024-05-14T19:42:32Z,['(Legacy) Bug']
+2293369092,820,Champion doesn't have a female alternative in trainer.ts,closed,2024-05-13T17:08:35Z,2024-06-06T19:48:47Z,['Localization']
+2293360523,819,Language Select box going off limits,closed,2024-05-13T17:04:30Z,2024-05-13T17:10:04Z,"['(Legacy) Bug', 'Localization']"
+2293095565,814,Using Minimize should cause vulnerability and bypassed accuracy check to various moves ,closed,2024-05-13T15:05:08Z,2024-05-15T12:37:08Z,"['(Legacy) Bug', 'Move']"
+2291995293,810,The window is not centered when playing on non-mobile platforms with resolutions other than 16:9,closed,2024-05-13T07:03:26Z,2024-05-15T16:01:21Z,['Enhancement']
+2291704310,809,`account/info` api call again before the last `account/info` api call return.,closed,2024-05-13T03:05:04Z,2024-07-23T16:27:12Z,['(Legacy) Bug']
+2291584484,806,Multi-Lens ends an attack early if it misses a target during a Double Battle,closed,2024-05-13T00:40:58Z,2024-06-29T01:52:18Z,"['(Legacy) Bug', 'Move', 'Item']"
+2291565990,805,Blizzard's ToDo-Comment,closed,2024-05-13T00:10:57Z,2024-05-22T14:59:30Z,"['Question', 'Move']"
+2291498272,803,Protect counter does not reset after throwing a Pokeball,closed,2024-05-12T20:58:06Z,2024-05-13T07:49:31Z,"['Invalid', 'Move']"
+2291485757,801,Echoed Voice does not reset when throwing a pokeball,open,2024-05-12T20:16:40Z,,"['(Legacy) Bug', 'Move']"
+2291457584,796,Toogles are to large in certain languages,closed,2024-05-12T18:58:38Z,2024-05-13T16:06:28Z,"['(Legacy) Bug', 'Localization']"
+2291443648,792,Zippy Zap Crash,closed,2024-05-12T18:15:33Z,2024-06-06T16:53:36Z,"['(Legacy) Bug', 'Move']"
+2291442625,791,Crashes in last biome,closed,2024-05-12T18:12:52Z,2024-06-06T16:53:42Z,['(Legacy) Bug']
+2291440961,790,[Suggestion] Add an option to transfer all items when capturing a mon and releasing and existing one.,open,2024-05-12T18:08:42Z,,['Enhancement']
+2291440230,789,Summary text as images,closed,2024-05-12T18:06:38Z,2024-07-24T20:57:55Z,['Localization']
+2291440113,788,Ordering of some battle texts is incorrect,closed,2024-05-12T18:06:17Z,2024-05-12T23:02:42Z,['(Legacy) Bug']
+2291385522,779,Curse bug,closed,2024-05-12T15:31:44Z,2024-05-30T08:35:55Z,"['(Legacy) Bug', 'Move']"
+2291381784,778,Frisk description is wrong,closed,2024-05-12T15:23:11Z,2024-05-13T16:08:57Z,"['(Legacy) Bug', 'Ability']"
+2291338839,776,Contrary Not Being Taken Into Account,closed,2024-05-12T13:40:19Z,2024-09-18T03:51:23Z,"['Ability', 'P2 Bug']"
+2291279546,771,[Suggestion] Add Meta Progression Held Items that can be equipped by a single Pokemon before a run,open,2024-05-12T10:53:48Z,,['Enhancement']
+2291272179,770,[Suggestion] Add the ability to view IVs from the Stats screen,open,2024-05-12T10:31:29Z,,['Enhancement']
+2291271359,769,[Suggestion] Add the ability to select Natures from a list similar to moves,closed,2024-05-12T10:29:11Z,2024-06-17T04:49:30Z,['Enhancement']
+2291270277,768,[Suggestion] Add Clear Amulet held item from Scarlet and Violet,open,2024-05-12T10:26:02Z,,"['Enhancement', 'Item']"
+2291267490,767,[Suggestion] New Item to release a Pokemon on your team to increase it's spawn rate.,open,2024-05-12T10:16:49Z,,"['Enhancement', 'Item', 'Game Balance']"
+2291124543,762,All Pokemon become invisible when capturing then switching with your only pokemon that was not fainted.,closed,2024-05-12T01:30:13Z,2024-09-26T02:40:11Z,"['UI/UX', 'P1 Bug']"
+2291086668,757,IV Screen Softlock after catching second slot pokemon in double battle,closed,2024-05-11T22:39:28Z,2024-07-23T16:09:16Z,['(Legacy) Bug']
+2291077617,755,Add localization for type symbols,closed,2024-05-11T21:57:55Z,2024-05-12T20:16:49Z,['Localization']
+2291022356,749,Make serverUrl configurable via environment variable,closed,2024-05-11T18:32:51Z,2024-06-16T18:56:58Z,['Enhancement']
+2290966871,745,Adding localization to trainer names and titles,closed,2024-05-11T15:49:07Z,2024-05-16T09:05:26Z,['Localization']
+2290818830,740,Reviver seed/Eternatus,closed,2024-05-11T10:08:40Z,2024-08-20T22:54:50Z,"['(Legacy) Bug', 'Item']"
+2290629291,733,Moves may be duplicated when a Pokemon's Egg Moves are moved around.,closed,2024-05-11T03:22:11Z,2024-05-12T18:56:38Z,"['(Legacy) Bug', 'Move']"
+2290628900,732,"Font size is too large, causing incomplete display when using Simplified Chinese",closed,2024-05-11T03:21:07Z,2024-06-16T18:58:51Z,"['(Legacy) Bug', 'Localization']"
+2290593247,730,Softlock when first pokemon in party faints after double battle ends,closed,2024-05-11T01:58:35Z,2024-07-25T06:16:47Z,"['(Legacy) Bug', 'Duplicate']"
+2290457349,725,Rogue,closed,2024-05-10T21:54:15Z,2024-05-10T22:39:09Z,['Invalid']
+2290173956,721,Strange PokeBall Item Graphical Glitch,closed,2024-05-10T18:00:01Z,2024-07-23T17:50:45Z,"['(Legacy) Bug', 'Item']"
+2289725748,713,Didn't get any reward after beating Classic Mode (last Pokémon fainted after winning),closed,2024-05-10T13:21:48Z,2024-07-25T06:17:24Z,['(Legacy) Bug']
+2289599597,710,Spliced Skeledirge/Feraligatr flashing colors back sprite animation,closed,2024-05-10T12:01:15Z,2024-08-18T22:57:18Z,['(Legacy) Bug']
+2289396789,708,Sturdy does not work properly in double battles,closed,2024-05-10T09:50:14Z,2024-05-16T22:03:05Z,"['(Legacy) Bug', 'Ability']"
+2289393895,707,2 Turn moves bug,closed,2024-05-10T09:48:26Z,2024-05-12T03:11:42Z,"['(Legacy) Bug', 'Move']"
+2289067620,705,Tidy up clears opponents side of hazards instead of own side,closed,2024-05-10T06:51:22Z,2024-05-10T16:31:28Z,"['(Legacy) Bug', 'Move']"
+2288792751,701,"Damage calculation of move ""Electro Ball"" doesn't consider paralysis?",closed,2024-05-10T02:26:30Z,2024-06-06T16:54:39Z,"['(Legacy) Bug', 'Move']"
+2288644115,696,Mareanie's Tier 3 shiny sprite causes an error when attempting to display it during gameplay.,closed,2024-05-09T23:46:32Z,2024-07-23T18:03:35Z,['(Legacy) Bug']
+2288404775,690,Whirlpool DoT effect not working if using Multi-Lens (video proof),closed,2024-05-09T20:25:30Z,2024-07-23T16:17:45Z,"['(Legacy) Bug', 'Move', 'Item']"
+2287903366,684,Hazards are getting removed when returning to title and starting the battle again,closed,2024-05-09T15:16:01Z,2024-10-11T14:48:04Z,['P2 Bug']
+2287839247,682,Killing a pokemon with contact effects using a move that swaps the user applies the effects to the swapped in pokemon,closed,2024-05-09T14:41:11Z,2024-07-24T21:23:37Z,"['(Legacy) Bug', 'Move']"
+2287766898,681,Lycanrock dusk form evolution not possible,closed,2024-05-09T14:03:26Z,2024-05-09T14:20:22Z,['Invalid']
+2287761574,680,Critical hits and super effective dialogue out of order,closed,2024-05-09T14:00:41Z,2024-06-17T20:27:03Z,['(Legacy) Bug']
+2287642366,679,"[Suggestion] Non-battle effects for Frisk, Compound Eyes and Super Luck?",closed,2024-05-09T12:56:28Z,2024-10-14T05:13:39Z,['Enhancement']
+2287624724,678,Rest Sleep Turns Incorrect,closed,2024-05-09T12:46:01Z,2024-05-09T18:22:32Z,"['(Legacy) Bug', 'Move']"
+2287587839,677,Mismagius shiny sprite,closed,2024-05-09T12:26:38Z,2024-08-16T07:01:52Z,['(Legacy) Bug']
+2287243805,674,Reviver Seed does not activate when a Pokemon is knocked out by damage from a sandstorm,closed,2024-05-09T09:07:12Z,2024-05-09T14:17:33Z,[]
+2286648389,660,Loading save file ,closed,2024-05-08T23:43:21Z,2024-05-10T00:20:58Z,['Duplicate']
+2286389770,656,Dual Chop hits Pokemon using Fly,closed,2024-05-08T20:27:15Z,2024-05-08T20:39:45Z,['Invalid']
+2286333554,654,"Login bug, may be servers",closed,2024-05-08T19:55:47Z,2024-05-08T20:27:45Z,['Duplicate']
+2286292945,652,Crash glitch,closed,2024-05-08T19:27:55Z,2024-05-09T16:32:06Z,['(Legacy) Bug']
+2286006550,644,Mobile links,closed,2024-05-08T16:38:41Z,2024-05-08T16:42:29Z,['(Legacy) Bug']
+2285856068,638,Achievement not working,closed,2024-05-08T15:16:42Z,2024-05-08T15:18:09Z,['Invalid']
+2285397395,630,Pokerogue not logging in (some language issue),closed,2024-05-08T11:46:05Z,2024-06-16T19:04:10Z,['Invalid']
+2285185585,629,Account broke,closed,2024-05-08T09:54:02Z,2024-05-08T13:37:52Z,['Invalid']
+2285117139,627,ESLint errors,closed,2024-05-08T09:20:29Z,2024-05-24T00:34:09Z,['(Legacy) Bug']
+2284977232,624,I would like to help add a Chinese language pack,closed,2024-05-08T08:12:21Z,2024-06-16T19:06:42Z,"['Enhancement', 'Localization']"
+2284805286,623,Moves have unlimited PP when they fail to be used,closed,2024-05-08T06:41:40Z,2024-05-08T20:52:49Z,"['(Legacy) Bug', 'Move']"
+2284579326,621,[Suggestion] Add victory screen after run win,closed,2024-05-08T03:02:10Z,2024-10-14T05:15:25Z,['Enhancement']
+2284479122,620,Proposal: NEW icons over pokemon / generations with new or available features ,open,2024-05-08T01:14:19Z,,['Enhancement']
+2284312433,618,When shiny Pichu evolves into Pikachu. shiny emblem overlaps Pikachu nametag,closed,2024-05-07T22:12:39Z,2024-05-09T04:18:28Z,['(Legacy) Bug']
+2284280563,616,Can't login to pokerogue anymore,closed,2024-05-07T21:44:53Z,2024-05-07T21:45:59Z,['Duplicate']
+2284215859,613,Evoultion Thunder Stone can be used on G-Max Pikachu,closed,2024-05-07T20:56:07Z,2024-06-16T18:50:39Z,"['(Legacy) Bug', 'Item']"
+2283861989,602,Why are we reinventing the wheel when smogon/pokemon-showdown already exists?,closed,2024-05-07T17:16:55Z,2024-05-15T12:39:09Z,['Question']
+2283334073,595,[Bug] Missing interaction to reactivate a cancelled secondary fusion evolution,closed,2024-05-07T13:24:15Z,2024-09-13T17:09:20Z,"['Miscellaneous', 'P2 Bug']"
+2283047332,594,Free,closed,2024-05-07T11:42:53Z,2024-05-07T13:22:53Z,['Invalid']
+2282724710,591,Reviver seed not proccing off self damage.,closed,2024-05-07T09:19:41Z,2024-06-06T16:55:45Z,"['(Legacy) Bug', 'Item']"
+2282685464,589,covet gives ur items to the opponent instead of stealing them,closed,2024-05-07T09:00:25Z,2024-05-12T09:18:07Z,"['(Legacy) Bug', 'Move']"
+2282543424,588,Can't create a save file,closed,2024-05-07T07:48:36Z,2024-07-23T05:59:13Z,['(Legacy) Bug']
+2282512717,587,Stuck on loading screen,closed,2024-05-07T07:31:53Z,2024-05-07T08:06:00Z,['(Legacy) Bug']
+2282357808,585,[Suggestion] Mints indicate whether the nature is unlocked or not on party members,open,2024-05-07T06:06:11Z,,['Enhancement']
+2282338925,584,Iron Barbs make the game crash,closed,2024-05-07T05:50:47Z,2024-05-13T23:52:38Z,"['(Legacy) Bug', 'Ability']"
+2282225598,582,Crash involving form changes and swapping egg moves,closed,2024-05-07T04:04:46Z,2024-06-20T16:42:07Z,['(Legacy) Bug']
+2282223264,581,Issue with OHKO moves,closed,2024-05-07T04:02:08Z,2024-08-30T07:00:14Z,"['(Legacy) Bug', 'Move']"
+2282166580,580,"<Suggestion> Add a setting to skip ""[Pokemon] leveled up to level XYZ""",closed,2024-05-07T02:55:50Z,2024-05-12T09:24:54Z,['Enhancement']
+2282164450,579,Stat Screen Freeze,closed,2024-05-07T02:53:14Z,2024-06-06T16:56:39Z,['(Legacy) Bug']
+2282107435,577,Transferring active form change items should revert form,closed,2024-05-07T01:45:17Z,2024-06-06T17:00:12Z,['(Legacy) Bug']
+2282036406,576,Stats lost(?) from unsplicing,closed,2024-05-07T00:55:03Z,2024-05-07T00:57:50Z,['Invalid']
+2281936349,570,"[Bug] When catching and gaining friendship candy simultaneously, they visually get lumped together",closed,2024-05-06T23:09:06Z,2024-09-03T01:06:28Z,['(Legacy) Bug']
+2281423904,561,[Suggestion] Incentive players to keep their starters until the boss on daily runs,closed,2024-05-06T17:54:07Z,2024-09-03T17:26:42Z,['Enhancement']
+2281226104,555,sturdy protects from double hit moves,closed,2024-05-06T16:05:29Z,2024-07-24T18:06:42Z,"['(Legacy) Bug', 'Ability']"
+2281138996,554,Dachsbun's 'Well-Baked Body' does not work.,closed,2024-05-06T15:23:44Z,2024-05-12T09:23:39Z,"['(Legacy) Bug', 'Ability']"
+2281013742,551,Zygarde's form change conflicts with selecting starter forms,closed,2024-05-06T14:26:26Z,2024-05-25T17:53:47Z,"['(Legacy) Bug', 'Ability']"
+2280684982,548,[Suggestion] Be able to see Pokemon status screen when learning a new move,closed,2024-05-06T11:43:23Z,2024-05-19T17:19:39Z,['Enhancement']
+2280518520,546,"moves with a turn of invulnerability (Dive, Fly, Dig, Phantom Force, etc.) dont do anything if the opponent is invulnerable from the same type of move",closed,2024-05-06T10:13:33Z,2024-05-16T07:05:38Z,"['(Legacy) Bug', 'Move']"
+2280109520,541,Request: Selfhost options,closed,2024-05-06T06:12:10Z,2024-06-16T18:52:11Z,['Enhancement']
+2280062049,540,Pokemon fused with itself doesn't have a cry,closed,2024-05-06T05:28:16Z,2024-05-12T09:11:58Z,['(Legacy) Bug']
+2280026798,537,Non-ghost curse fails against invulnerable moves and good as gold,closed,2024-05-06T04:52:06Z,2024-06-06T16:56:50Z,"['(Legacy) Bug', 'Move']"
+2280015382,536,Berserk only activates when directly hit,closed,2024-05-06T04:39:30Z,2024-05-06T04:48:02Z,"['(Legacy) Bug', 'Ability']"
+2280011862,535,Morepeko's Hunger Switch still activates when Morepeko is benefiting from Terrastilization,closed,2024-05-06T04:35:46Z,2024-05-12T09:11:07Z,"['(Legacy) Bug', 'Ability']"
+2280005972,534,Recoil damage doesn't apply when moves that do recoil damage on a miss are used on two-turn invulnerability moves.,closed,2024-05-06T04:28:45Z,2024-05-16T07:05:38Z,"['(Legacy) Bug', 'Move']"
+2279876651,528,Endure Tokens should apply per-hit,closed,2024-05-06T01:55:05Z,2024-08-20T22:48:13Z,['Item']
+2279864639,527,"If a move has variable typing (Due to move itself or ability), other abilities will get tested against the moves base type",closed,2024-05-06T01:38:44Z,2024-06-06T16:57:38Z,"['(Legacy) Bug', 'Move', 'Ability']"
+2279859937,525,"Technician boosts moves that have variable power, and base power of <= 60 even if the actual bp would be higher.",closed,2024-05-06T01:32:47Z,2024-05-12T09:06:10Z,"['(Legacy) Bug', 'Move']"
+2279838397,524,Gravity removes flying type in damage calculation,closed,2024-05-06T01:03:33Z,2024-08-21T22:41:06Z,"['(Legacy) Bug', 'Move']"
+2279833151,523,Facade does not ignore Burned status,closed,2024-05-06T00:56:13Z,2024-05-14T08:51:34Z,"['(Legacy) Bug', 'Move']"
+2279832122,522,Achievement names don't always fit,closed,2024-05-06T00:55:24Z,2024-06-16T18:53:16Z,['(Legacy) Bug']
+2279825181,521,Title softlocks when no moves other than those marked with (N) can be selected,closed,2024-05-06T00:44:05Z,2024-05-06T04:04:13Z,"['(Legacy) Bug', 'Move']"
+2279824643,520,Secondary fusion component evolution moves can't be learned nor remembered,closed,2024-05-06T00:43:06Z,2024-06-05T14:36:44Z,['(Legacy) Bug']
+2279816802,518,Game hard locks when hatching an Egg,closed,2024-05-06T00:28:03Z,2024-06-06T16:57:56Z,[]
+2279800325,517,Charcadet rare shiny will freeze on evolution page when applying Malicious Armor,closed,2024-05-05T23:53:47Z,2024-05-06T00:07:07Z,['(Legacy) Bug']
+2279645894,506,Present effect order of operations,closed,2024-05-05T17:42:22Z,2024-07-23T06:02:28Z,"['(Legacy) Bug', 'Move']"
+2279622259,503,Explosion doesn't self-KO if the attack misses,closed,2024-05-05T16:54:19Z,2024-05-18T02:49:43Z,"['(Legacy) Bug', 'Duplicate', 'Move']"
+2279558157,493,"account ""doesnt exist""",closed,2024-05-05T14:24:43Z,2024-05-24T00:33:37Z,['(Legacy) Bug']
+2279542862,491,CloudNine not indicated to show that is activated,closed,2024-05-05T13:50:29Z,2024-07-24T17:53:17Z,"['Enhancement', 'Ability']"
+2279522482,489,Furfrou's alternative form Sprites are blurry,closed,2024-05-05T13:01:42Z,2024-05-12T08:59:04Z,['(Legacy) Bug']
+2279448153,487,"Swap A and B option doesn't work with the keyboard, only the gamepad.",closed,2024-05-05T10:12:26Z,2024-05-12T08:58:32Z,[]
+2279408277,483,Killing a pokemon does not trigger contact effects,closed,2024-05-05T09:00:04Z,2024-05-05T15:06:27Z,[]
+2279407040,481,Opponent pokemon sprite disappears after using Roar,closed,2024-05-05T08:57:13Z,2024-09-03T01:05:21Z,"['(Legacy) Bug', 'Move']"
+2279367323,477,Seeking Help with Localization,closed,2024-05-05T07:16:16Z,2024-06-06T16:59:19Z,"['Help Wanted', 'Localization']"
+2279184844,461,Legendary Egg achievement,closed,2024-05-04T20:28:45Z,2024-05-05T15:05:53Z,['(Legacy) Bug']
+2279015210,454,Where are the savestates?,closed,2024-05-04T14:12:30Z,2024-05-04T14:30:49Z,[]
+2278976925,452,.,closed,2024-05-04T12:44:26Z,2024-05-04T13:49:35Z,[]
+2278889010,450,Camera zoom breaks certain effects,closed,2024-05-04T09:39:22Z,2024-07-24T20:55:09Z,['(Legacy) Bug']
+2278668210,444,Pokemon with forms that don't visually affect the current species sprite have no other indicator,closed,2024-05-04T02:19:00Z,2024-05-04T04:23:42Z,[]
+2278643181,442,"Two turn moves with semi-invulnerability (Dig, Dive, etc.) cause moves like Self-Destruct to fail instead of missing",closed,2024-05-04T01:17:42Z,2024-05-16T07:05:37Z,"['(Legacy) Bug', 'Move']"
+2278494583,435,CounterDamageAttr being selected by the AI causes the enemy Pokemon's turn to be skipped entirely,closed,2024-05-03T22:09:09Z,2024-05-04T01:04:54Z,[]
+2278276849,425,[Feature request] A and B are inverted from official games,closed,2024-05-03T19:17:06Z,2024-05-05T05:30:40Z,[]
+2278271800,424,Nickname ,closed,2024-05-03T19:15:06Z,2024-05-03T19:15:38Z,[]
+2277496020,413,[Suggestions] Misc UI/UX additions,closed,2024-05-03T11:36:20Z,2024-07-24T14:14:51Z,['Enhancement']
+2277228661,411,Poke balls can still be used on wild pokemon that have vanished using phantom force,closed,2024-05-03T08:55:03Z,2024-05-05T06:21:30Z,[]
+2276767641,404,Palafin's Ability (Zero to Hero) Doesn't Work,closed,2024-05-03T01:50:20Z,2024-05-03T01:53:11Z,[]
+2274794622,395,Game settings is not saving on my profile,closed,2024-05-02T07:16:47Z,2024-05-12T08:57:24Z,['(Legacy) Bug']
+2273511339,377,Sp. Atk. IV is not visible after catching when opposing pokémon hold too many items,closed,2024-05-01T13:30:39Z,2024-06-17T20:58:13Z,['(Legacy) Bug']
+2272805639,368,Fake Out fails when a switch is forced,closed,2024-05-01T02:19:41Z,2024-05-31T14:23:29Z,"['(Legacy) Bug', 'Move']"
+2272724666,366,Lightning rod not working as standard.,closed,2024-05-01T00:49:21Z,2024-05-05T06:20:57Z,[]
+2272220524,358,"Move effectiveness text displays after fainting, etc.",closed,2024-04-30T18:39:22Z,2024-06-17T20:26:57Z,['(Legacy) Bug']
+2268988654,339,Being able to translate forms,closed,2024-04-29T13:02:23Z,2024-07-24T14:11:55Z,"['(Legacy) Bug', 'Localization']"
+2267475582,329,Repeated dive action when opponent dived pokemon gets paralysis stunned,closed,2024-04-28T10:23:39Z,2024-05-12T08:56:24Z,"['(Legacy) Bug', 'Move']"
+2267128291,321,[Suggestion] [QOL] Show stats augmentation,closed,2024-04-27T18:24:14Z,2024-05-01T10:03:08Z,[]
+2266585636,316,[Suggestion] Seeded runs,closed,2024-04-26T22:35:31Z,2024-06-28T20:13:54Z,['Enhancement']
+2266480748,312,Mistranslation of Smog and Clear Smog in the French locale,closed,2024-04-26T20:46:30Z,2024-04-27T02:35:40Z,[]
+2264900509,300,Abilities like Blaze don't trigger at exactly 1/3 health,closed,2024-04-26T03:46:36Z,2024-05-04T04:44:29Z,[]
+2264641904,297,Suggestion: Downloadable version,closed,2024-04-25T23:12:54Z,2024-05-05T06:19:34Z,[]
+2262231745,278,Sap Sipper does not block Spore,closed,2024-04-24T21:39:04Z,2024-06-12T18:46:46Z,"['(Legacy) Bug', 'Move', 'Ability']"
+2262065861,273,U-turn causes game freeze repeatedly (cannot read properties of undefined (reading scene),closed,2024-04-24T19:47:32Z,2024-05-13T23:52:37Z,"['(Legacy) Bug', 'Move']"
+2261105642,267,Hustle Affecting Special Moves,closed,2024-04-24T11:49:18Z,2024-05-04T04:44:13Z,[]
+2260042488,264,Rivalry appears to incorrectly trigger in multi battles,closed,2024-04-24T00:56:19Z,2024-05-05T06:19:48Z,[]
+2259017592,253,Trainer is persistant if a trainer fight start after a pokemen die at the end of a fight from poison,closed,2024-04-23T14:19:55Z,2024-07-23T23:17:51Z,"['(Legacy) Bug', 'Duplicate']"
+2257929761,247,Minor text corrections for item descriptions.,closed,2024-04-23T04:41:41Z,2024-05-12T08:54:53Z,['Enhancement']
+2256617066,237,Rare candy don't heal our dead pokemon.,closed,2024-04-22T13:59:33Z,2024-04-22T14:00:33Z,[]
+2255129759,224,French translation error in the description of the Healing Wish skill,closed,2024-04-21T15:20:14Z,2024-04-22T12:59:25Z,[]
+2255000918,222,Weird end-of-wave knockout damage interactions,closed,2024-04-21T10:10:03Z,2024-07-26T18:21:12Z,"['(Legacy) Bug', 'Help Wanted']"
+2254934408,220,Shellder changed abilities on evo,closed,2024-04-21T06:58:56Z,2024-05-05T06:19:16Z,[]
+2254906411,217,"If a Pokemon copycats a fire move and uses it on a pokemon with flash fire, the Copycat Pokemon will get the flash fire effect instead.",closed,2024-04-21T05:13:20Z,2024-08-21T16:29:18Z,"['(Legacy) Bug', 'Move', 'Ability']"
+2254419794,208,Transferring Max Mushroom keeps the original Pokemon G-Maxed,closed,2024-04-20T06:58:37Z,2024-07-23T05:58:37Z,"['(Legacy) Bug', 'Item', 'Game Balance']"
+2254394825,207,Spread moves hit user if ally is KO'd and there is no replacement.,closed,2024-04-20T05:39:31Z,2024-07-23T05:42:10Z,"['(Legacy) Bug', 'Move']"
+2253779119,198,Failed to Load Save Error,closed,2024-04-19T19:27:16Z,2024-04-19T19:28:01Z,[]
+2249272861,173,"No-Guard ability doesn't work as in this example, my Machamp failed Dynamic Punch while having No-Guard ability",closed,2024-04-17T21:08:57Z,2024-04-17T21:20:20Z,[]
+2248670131,170,Killing a wild Pokémon with Jaw lock still leaves the user trapped in the next battle,closed,2024-04-17T16:05:09Z,2024-08-20T17:54:06Z,"['(Legacy) Bug', 'Move']"
+2248560295,169,Rare Candy allows for exceeding level cap,closed,2024-04-17T15:21:17Z,2024-04-17T15:22:01Z,[]
+2246557311,158,When resizing the browser to mobile and then back to desktop the mobile controls stay on screen and also don't anything,closed,2024-04-16T17:28:18Z,2024-05-16T10:28:30Z,['(Legacy) Bug']
+2244483319,144,Thousand Arrows and Smack Down should cancel charging Fly move,closed,2024-04-15T19:48:37Z,2024-05-12T08:53:33Z,"['(Legacy) Bug', 'Move']"
+2244270789,141,"Game won't start in Firefox due to ""Uncaught TypeError: G.requestVideoFrameCallback is not a function""",closed,2024-04-15T17:43:57Z,2024-05-16T10:27:24Z,['(Legacy) Bug']
+2242590573,135,Name & Gender mismatch,closed,2024-04-15T02:52:30Z,2024-04-15T02:57:12Z,[]
+2241596401,114,bypassFaint flag of abilities appears non-functional,closed,2024-04-13T14:56:47Z,2024-05-05T06:18:31Z,[]
+2239839878,100,Same item proposed multiple times in item roll,closed,2024-04-12T11:01:17Z,2024-05-16T10:26:24Z,"['(Legacy) Bug', 'Item']"
+2238311661,89,Rest failing when used while paralyzed,closed,2024-04-11T18:24:31Z,2024-04-13T18:08:17Z,[]
+2237431476,85,Electro Shot in rain,closed,2024-04-11T10:45:20Z,2024-05-05T06:34:39Z,[]
+2236792579,83,Switching moves that trigger abilities affect switched mon,closed,2024-04-11T02:27:25Z,2024-07-24T21:24:03Z,"['(Legacy) Bug', 'Move']"
+2236675945,82,Double-battle intimidate appears to trigger twice,closed,2024-04-11T00:52:09Z,2024-05-16T10:24:37Z,"['(Legacy) Bug', 'Ability']"
+2236022525,76,Proctect not refreshing odds on failure.,closed,2024-04-10T16:43:24Z,2024-05-05T06:18:14Z,[]
+2234666729,72,Solar Beam text does not display when it is Sunny,closed,2024-04-10T03:00:32Z,2024-05-05T06:17:59Z,[]
+2232609454,66,Curse has the non-ghost effect when used by a ghost,closed,2024-04-09T05:05:26Z,2024-04-09T05:06:05Z,[]
+2232445987,64,Pokemon sprites failing to load after fainting in Gym Leader battle,closed,2024-04-09T01:38:10Z,2024-08-01T19:39:05Z,['(Legacy) Bug']
+2232280596,63,Update learnsets for Indigo Disk,closed,2024-04-08T23:11:05Z,2024-07-23T03:47:53Z,"['Enhancement', 'Move']"
+2230486615,59,Lingering Effects,closed,2024-04-08T07:38:12Z,2024-05-16T10:25:05Z,"['(Legacy) Bug', 'Move']"
+2230016966,56,confused,closed,2024-04-07T23:56:49Z,2024-04-08T00:29:24Z,[]
+2229874102,54,UI Controls are Inconsistent,closed,2024-04-07T17:57:35Z,2024-06-11T02:18:10Z,['(Legacy) Bug']
+2229525768,50,Pursuit (P) hits wrong target,closed,2024-04-07T02:47:57Z,2024-04-07T02:49:04Z,[]
+2223630381,29,Issues I noticed since starting to play the game,closed,2024-04-03T18:28:49Z,2024-05-05T06:30:47Z,[]
+2219909122,25,Update FAQ,closed,2024-04-02T08:39:06Z,2024-04-08T16:34:25Z,[]
+2219020274,23,Combusken front sprite is cut off at the top.,closed,2024-04-01T20:37:32Z,2024-05-04T04:32:41Z,[]
+2216306578,19,Circle Throw fainting a pokemon causes phantom active pokemon,closed,2024-03-30T07:24:21Z,2024-04-03T13:46:55Z,[]
+2206728557,15,Bug pokemon battles,closed,2024-03-25T21:11:26Z,2024-03-25T21:20:34Z,[]
